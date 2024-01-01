@@ -93,11 +93,11 @@ erDiagram
 
 
 <style>
-	span:before { content: '['; }
-	span:after {  content: ']'; }
+	testin:before { content: '['; }
+	testin:after {  content: ']'; }
 </style>
 
-<span>a</span>
+<testin>a</testin>
 
 a <t:1689698880:f>
 
