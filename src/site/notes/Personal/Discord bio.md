@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal/Discord bio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Personal/Discord bio/"}
 ---
 
 Do I exist? No, fairies are not real. I'm living in your imagination. Wake up, before it's too late, everything was a dream.
