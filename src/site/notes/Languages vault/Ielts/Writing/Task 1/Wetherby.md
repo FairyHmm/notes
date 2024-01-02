@@ -4,7 +4,7 @@
 
 > The maps below show the changes experienced by the town of Wetherby at the of the 21st Century.
  
-![](../../../_resources/QeM3590pkI.png)
+![98029788083c4ac69e6010141cb7b079.png](/img/user/resources/98029788083c4ac69e6010141cb7b079.png)
 
 Given are two maps differentiating developments made to the layout of Wetherby between the beginning of the 21st century and its 2016's appearance.
 
@@ -15,3 +15,5 @@ To commence, for the northeast corner of the town, a techno park and a block of 
 In the heart of the region, the square, still remaining intact, was added with trees, refreshing the space. Close by, the former open-air food market was transformed to a supermarket, increasing the quality of life for local residents. Likewise, there was a conversion of the east-side shops into a multi-story car park, accommodating the growing number of vehicles in the neighbourhood. Further south, the office block and the cottages with gardens were merged and reconstructed into a single, brand-new office block.
 
 Contrary to all such modifications, the woodland was kept untouched to preserve the initial integrity.
+
+#map
