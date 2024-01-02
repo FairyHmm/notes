@@ -3,4 +3,7 @@
 ---
 
 # Fairy's personal notes
-Nothin'.
+It's me, Fairy.
+![fairy.png](/img/user/fairy.png)
+Just some notes of me, sometimes shared to others.
+Bye~
