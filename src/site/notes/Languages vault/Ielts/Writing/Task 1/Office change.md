@@ -10,4 +10,6 @@ To commence, it is clear that the grass fields to the sides will likely be paved
 
 Moving central, the four offices to the south are forecast to be merged into two larger ones, and the entrance just east of them is probably going to be moved to the center. As for the kitchen and canteen in the northern area, both of them have plans for destructions, making way for more offices. The WCs, as stated above, will probably be moved to another location.
 
-Contrary to such changes, the storeroom will likely be kept untouched to serve the original purpose.
+Contrary to such changes, the storeroom will likely be kept untouched to serve the original purpose
+
+#map
