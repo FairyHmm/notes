@@ -2,102 +2,81 @@
 {"dg-publish":true,"permalink":"/Languages vault/Russian - Русский/Vocabulary - Словарный запас/Adverbs/"}
 ---
 
-<style>
-    table th, table td { padding: 2px; }
-    l { color: MediumSlateBlue; }
-    h {
-        background-color: DarkMagenta;
-        border: 2px solid DarkMagenta;
-        color: transparent;
-        display: inline-flex;
-        user-select: none;
-        padding: 1px;
-        border-radius: 10px;
-		transition: background 0.1s ease 0.1s, color 0.1s ease 0.1s;
-    }
-    h:hover {
-        background-color: inherit;
-        color: inherit;
-    }
-    toc {
-        display: table;
-        border: 2px solid LightBlue;
-        border-radius: 15px;
-        padding-right: 20px;
-    }
-    toc li { margin: -5px; }
-    toc li a { color: LightBlue; }
-</style>
-<toc>
+# Yes/no
 
-[toc]
-</toc>
-# Adverbs
+- да <span class="rom">da</span> <span class="spl">yes</span>
 
-## Yes/no
 
-- да <l>[da]</l> <h>yes</h>
-- ||||
-| :---: | :---: | :---: |
-| нет | <l>[net]</l> | <h>no</h> |
-| не | <l>[ne]</l> | <h>not</h> |
-
-## Distance
-
--
-- ||||
-| :---: | :---: | :---: |
-| там | <l>[tam]</l> | <h>there (point)</h> |
-| етсь | <l>[yets']</l> | <h>there (location)</h>
+<!--break-->
 
 
 - ||||
 | :---: | :---: | :---: |
-| вот | <l>[vot]</l> | <h>this (point)</h> |
-| здесь | <l>[zdes’]</l> | <h>this (location)</h> |
+| нет | <span class="rom">net</span> | <span class="spl">no</span> |
+| не | <span class="rom">ne</span> | <span class="spl">not</span> |
 
-## Questions
+# Distance
 
-- что <l>[chto]</l> <h>what</h>
-- зачем <l>[zachem]</l> <h>why, what for</h>
-- где <l>[gde]</l> <h>where</h>
-- как <l>[kak]</l> <h>how</h>
+- ||||
+| :---: | :---: | :---: |
+| там | <span class="rom">tam</span> | <span class="spl">there (point)</span> |
+| етсь | <span class="rom">yets'</span> | <span class="spl">there (location)</span>
 
-## Amount
 
--
-- | <h>all</h> |||||
-| | Ma | Nt | Fe | Pl |
+<!--break-->
+
+
+- ||||
+| :---: | :---: | :---: |
+| вот | <span class="rom">vot</span> | <span class="spl">this (point)</span> |
+| здесь | <span class="rom">zdes’</span> | <span class="spl">this (location)</span> |
+
+# Questions
+
+- что <span class="rom">chto</span> <span class="spl">what</span>
+- зачем <span class="rom">zachem</span> <span class="spl">why, what for</span>
+- где <span class="rom">gde</span> <span class="spl">where</span>
+- как <span class="rom">kak</span> <span class="spl">how</span>
+
+# Amount
+
+- | <span class="spl">all</span> | < | < | < | < |
 | :---: | :---: | :---: | :---: | :---: |
+| | Ma | Nt | Fe | Pl |
 | N | весь | всё | вся | все |
-| A | весь<br>всего | ^^ | ^^ | ^^ |
-| G | всего || всей | всех |
-| D | всему || ^^ | всем |
-| I | всем || ^^ | всеми |
-| P | всём || ^^ | всех |
+| A | весь<br>всего | ^ | ^ | ^ |
+| G | всего | < | всей | всех |
+| D | всему | < | ^ | всем |
+| I | всем | < | ^ | всеми |
+| P | всём | < | ^ | всех |
+
+
+<!--break-->
 
 
 - ||||
 | :---: | :---: | :---: |
-| тоже | <l>[toxhye]</l> | <h>too, also</h> |
-| также | <l>[takzhye]</l> | <h>as well, similarly</h> |
+| тоже | <span class="rom">toxhye</span> | <span class="spl">too, also</span> |
+| также | <span class="rom">takzhye</span> | <span class="spl">as well, similarly</span> |
 
-- очень <l>[ochen’]</l> <h>very</h>
-- ещё <l>[yeshcho]</l> <h>more</h>
-- немного <l>[nemnogo]</l> <h>little</h>
+- очень <span class="rom">ochen’</span> <span class="spl">very</span>
+- ещё <span class="rom">yeshcho</span> <span class="spl">more</span>
+- немного <span class="rom">nemnogo</span> <span class="spl">little</span>
 
-## Time
--
+# Time
 - ||||
 | :---: | :---: | :---: |
-| скорого | <l>[skorogo]</l> | <h>soon</h> |
-| скоро | <l>[skoro]</l> | ^^ |
+| скорого | <span class="rom">skorogo</span> | <span class="spl">soon</span> |
+| скоро | <span class="rom">skoro</span> | ^ |
+
+
+<!--break-->
 
 
 - ||||
 | :---: | :---: | :---: |
-| сейчас | <l>[seychas]</l> | <h>right now</h> |
-| теперь | <l>[teper']</l> | <h>from now</h> |
+| сейчас | <span class="rom">seychas</span> | <span class="spl">right now</span> |
+| теперь | <span class="rom">teper'</span> | <span class="spl">from now</span> |
 
 
-- уже <l>[uzhe]</l> <h>already</h>
+- уже <span class="rom">uzhe</span> <span class="spl">already</span>
