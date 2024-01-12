@@ -2,72 +2,42 @@
 {"dg-publish":true,"permalink":"/Languages vault/Russian - Русский/Vocabulary - Словарный запас/Adjectives/"}
 ---
 
-<style>
-    table th, table td { padding: 2px; }
-    l { color: MediumSlateBlue; }
-    h {
-        background-color: DarkMagenta;
-        border: 2px solid DarkMagenta;
-        color: transparent;
-        display: inline-flex;
-        user-select: none;
-        padding: 1px;
-        border-radius: 10px;
-		transition: background 0.1s ease 0.1s, color 0.1s ease 0.1s;
-    }
-    h:hover {
-        background-color: inherit;
-        color: inherit;
-    }
-    toc {
-        display: table;
-        border: 2px solid LightBlue;
-        border-radius: 15px;
-        padding-right: 20px;
-    }
-    toc li { margin: -5px; }
-    toc li a { color: LightBlue; }
-</style>
-<toc>
-
-[toc]
-</toc>
-
 # Personalities & feeling
 
--
 - ||||
 | :---: | :---: | :---: |
-| добрый | <l>[dobryy]</l> | <h>good, gentle, kind</h> |
-| хорошо | <l>[khorosho]</l> | <h>good, well, fine, ok</h> |
-| спокойной | <l>[spokoynoy]</l> | <h>good, peaceful</h> |
+| добрый | <span class="rom">dobryy</span> | <span class="spl">good, gentle, kind</span> |
+| хорошо | <span class="rom">khorosho</span> | <span class="spl">good, well, fine, ok</span> |
+| спокойной | <span class="rom">spokoynoy</span> | <span class="spl">good, peaceful</span> |
+
+
+<!--break-->
 
 
 - ||||
 | :---: | :---: | :---: |
-| плохой | <l>[plokhoy]</l> | <h>bad</h> |
-| неплохо | <l>[neplokho]</l> | <h>not bad</h> |
+| плохой | <span class="rom">plokhoy</span> | <span class="spl">bad</span> |
+| неплохо | <span class="rom">neplokho</span> | <span class="spl">not bad</span> |
 
 
-- умный <l>[umnyy]</l> <h>smart, clever, intelligent</h>
-- глупый <l>[glupyy]</l> <h>dumb, stupid, foolish</h>
-- красивый <l>[krasivyy]</l> <h>beautiful, handsome, good-looking</h>
-- милый <l>[milyy]</l> <h>cute, sweet, lovely</h>
-- отлично <l>[otlichno]</l> <h>great, wonderful, excellent</h>
+- умный <span class="rom">umnyy</span> <span class="spl">smart, clever, intelligent</span>
+- глупый <span class="rom">glupyy</span> <span class="spl">dumb, stupid, foolish</span>
+- красивый <span class="rom">krasivyy</span> <span class="spl">beautiful, handsome, good-looking</span>
+- милый <span class="rom">milyy</span> <span class="spl">cute, sweet, lovely</span>
+- отлично <span class="rom">otlichno</span> <span class="spl">great, wonderful, excellent</span>
 
 # State
-- надо <l>[nado]</l> <h>need</h>
-- готовы <l>[gotovy]</l> <h>ready</h>
+- надо <span class="rom">nado</span> <span class="spl">need</span>
+- готовы <span class="rom">gotovy</span> <span class="spl">ready</span>
 
 # Size & distance
--
+
 - ||||
 | :---: | :---: | :---: |
-| большое | <l>[bol'shoye]</l> | <h>big, large</h> |
-| крупный | <l>[krupnyy]</l> | ^^ |
-- небольшой <l>[nebol'shoy]</l> <h>small</h>
-- далеко <l>[daleko]</l> <h>far</h>
-- около <l>[okolo]</l> <h>near</h>
+| большое | <span class="rom">bol'shoye</span> | <span class="spl">big, large</span> |
+| крупный | <span class="rom">krupnyy</span> | ^ |
+- небольшой <span class="rom">nebol'shoy</span> <span class="spl">small</span>
+- далеко <span class="rom">daleko</span> <span class="spl">far</span>
+- около <span class="rom">okolo</span> <span class="spl">near</span>
 
 # Time
-
