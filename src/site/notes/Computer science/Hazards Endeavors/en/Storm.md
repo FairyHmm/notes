@@ -71,4 +71,4 @@ In agricultural areas, storms and subsequent flooding can have devastating effec
 - **Avoid flood water:** Refrain from coming into contact with flood water, as it may contain contaminants and pose health risks.
 - **Stay connected and supportive:** Keep in touch with family, friends, and neighbors to ensure everyone's safety. Offer support and assistance to those around when needed.
 
-#air #water
+#element/air #element/water
