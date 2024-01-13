@@ -66,4 +66,4 @@ Human activities can have a significant impact on slope stability.
 - **Monitoring and warning:** Regularly monitor and warnings about landslides, use technologies and sensors to detect early signs of landslides and alert the risk.
 - **Enhance community awareness:** Strengthen education, communication, and raise awareness within the community about landslide risks, coping strategies, and prevention measures.
 
-#earth
+#element/earth
