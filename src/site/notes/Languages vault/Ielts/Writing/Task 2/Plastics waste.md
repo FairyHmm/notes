@@ -11,3 +11,6 @@ To commence, there are some explanations of how plastic waste is contaminating t
 Though plastic pollution is concerning, various actions can be taken. For one, discouraging the use of single-use plastic containers is a straightforward yet effective approach. The general public is one of the biggest offenders for releasing large amounts of plastic waste into the environment. Educating about this behavior, along with restraining the use of plastic, could help reduce this. California, for instance, charges a small fee for reusable bags, so people would reuse old ones. For another, promoting the use of alternatives is also a viable measure. Materials like wood and metal, while initially more expensive, are recyclable, and hence less likely to be thrown away, harming the ecosystem.
 
 To summarize, the properties of plastic could majorly damage the environment, in addition to aggravate the health of mankind and animals. Interventions from higher authorities, together with supporting eco-friendly substitutes, can help alleviate the situation.
+
+#writing/task-2/cause #writing/task-2/solution 
+
