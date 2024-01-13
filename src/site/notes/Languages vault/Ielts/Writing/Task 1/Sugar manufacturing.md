@@ -6,4 +6,4 @@ The process of manufacturing sugar begins with growing the sugar canes, which ta
 
 In the fifth stage of the process of producing sugar, the purified juice is put into through a high-temperature evaporator, causing water to evaporate and leaving syrup. The sugar manufacturing process continues with the syrup being centrifuged, separating the sugar crystals from the syrup due to their different densities. The seventh stage of the sugar production involves drying and cooling the formed sugar. Finally, the sugar is packed and distributed to stores.
 
-#process
+#writing/task-1/process
