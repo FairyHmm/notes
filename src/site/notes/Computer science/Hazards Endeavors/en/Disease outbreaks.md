@@ -76,4 +76,4 @@ Disease outbreaks have had and are having significant impacts on global health t
 - Since the beginning of the epidemic, approximately 75 million people have been infected with HIV, and 32 million people have died from AIDS-related illnesses.
 - HIV/AIDS has had a disproportionate impact on vulnerable populations, including men who have sex with men, sex workers, injection drug users, and marginalized communities with limited access to healthcare and prevention services.
 - Significant progress has been made in the prevention and treatment of HIV/AIDS. Antiretroviral therapy (ART) has transformed HIV infection from a terminal illness to a manageable chronic condition, improving the quality of life for millions of people living with HIV.
-#air #human
+#element/air #element/human
