@@ -16,4 +16,4 @@ In the heart of the region, the square, still remaining intact, was added with t
 
 Contrary to all such modifications, the woodland was kept untouched to preserve the initial integrity.
 
-#map
+#writing/task-1/map
