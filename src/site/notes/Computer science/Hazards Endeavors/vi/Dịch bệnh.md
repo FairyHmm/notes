@@ -45,4 +45,4 @@ Dịch bệnh là một tình trạng khi một bệnh lây lan trong cộng đ�
 - Theo Bảng điều khiển COVID-19 của Tổ chức Y tế Thế giới (WHO) tính đến ngày 2 tháng 11 năm 2023, đã có tổng cộng 771.679.618 trường hợp nhiễm COVID-19 được xác nhận trên toàn cầu, với 6.977.023 người tử vong Các biện pháp phòng ngừa và kiểm soát COVID-19 vẫn là ưu tiên hàng đầu của các tổ chức y tế và chính phủ trên toàn thế giới.
 - Để ngăn chặn sự lây lan của COVID-19, các biện pháp phòng ngừa đã được áp dụng, bao gồm việc đeo khẩu trang, giữ khoảng cách xã hội, rửa tay thường xuyên và tiêm chủng vaccine COVID-19. Vaccin COVID-19 đã được phát triển và triển khai trên toàn cầu để giúp ngăn chặn sự lây lan của virus và giảm nguy cơ nhiễm bệnh nặng.
 
-#air #human
+#element/air #element/human
