@@ -83,4 +83,4 @@ Refrain from using or consuming water from sources directly impacted by the floo
 
 If requiring assistance during a flood, contact local charitable organisations or government agencies responsible for disaster management. These organisations are trained and equipped to provide support during such situations. They can offer emergency supplies, temporary shelter, medical aid, and other necessary resources. Ensure to have emergency contact numbers readily available and communicate one's needs to the appropriate authorities.
 
-#water
+#element/water
