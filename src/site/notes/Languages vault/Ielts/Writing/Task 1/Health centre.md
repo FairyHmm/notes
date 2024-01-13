@@ -10,4 +10,4 @@ In 2005, in the south area of the health centre, there was a parking lot. To the
 
 In 2005, the consulting room number 1 was in the southeast corner of the health centre, while the consulting room number 2 was in the east. They have now been replaced by new consulting rooms number 3 and 4, respectively. In 2005, there was a physiotherapy room in the northeast of the building, and it has still remained today. A minor operations room has been constructed in the northwest corner of the health centre. In 2005, in the west area of the main building, there was an office. Currently, the office has been slightly narrowed. The consulting room number 3 was situated in the southwest corner of the main building in 2015. As of now, the consulting room number 3 has been pulled down. Also, new consulting rooms number 1 and 2 have been built in place of the old entrance.
 
-#map
+#writing/task-1/map
