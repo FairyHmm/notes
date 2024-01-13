@@ -14,4 +14,4 @@ To commence, in 1980, 35 billion units of oil were used to generate energy. Desp
 
 Nuclear and solar energy are not as widely used as the aforementioned fuels, both starting at 4 billion units each. They observed steady rises in their figures, with the former predicted to reach 8 billion units by 2030, while the latter is estimated to be consumed slightly less, at 6 billion units.
 
-#line-graph
+#writing/task-1/line-graph
