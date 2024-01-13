@@ -38,4 +38,4 @@ Núi lửa thường xảy ra ở các vùng trên Trái đất có sự tương
 - **Bảo vệ hô hấp:** Khi núi lửa phun trào, khí độc và bụi tro có thể gây hại cho hệ hô hấp. Sử dụng khẩu trang hoặc khăn che miệng để bảo vệ đường hô hấp khỏi khí độc và bụi tro. 
 - **Bảo vệ tài sản:** Bảo vệ tài sản của bạn bằng cách đóng kín cửa, cửa sổ và hệ thống thông gió để ngăn bụi tro và tro bay xâm nhập vào nhà. 
 
-#fire
+#element/fire
