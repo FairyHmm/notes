@@ -14,4 +14,4 @@ Looking more closely, Spain dominated the chart with the most trips to the UK at
 
 In comparison, the remaining countries observed less statistics. Austria had 148 thousand travellers coming to the UK via Gatwick, while the other airports experienced between 60 thousand and 100 thousand less trips from this country. Heathrow was the most popular airport to the UK for by the Finns (58 thousand visits), though Manchester was not far behind (53 thousand trips). And as for Lithuania, the figures were 33 thousand, 15 thousand, and 1 thousand to Stansted, Gatwick, and Heathrow, respectively, while no data was observed for Manchester airport.
 
-#table
+#writing/task-1/table
