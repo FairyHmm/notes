@@ -44,4 +44,4 @@ Volcanic activity is often associated with the interaction between tectonic plat
 - **Respiratory protection:** Volcanic eruptions release toxic gases and ash that can harm the respiratory system. Protect your respiratory tract from these harmful substances by wearing a mask or mouth covering. 
 - **Protect your property:** Protect your property by keeping doors, windows and ventilation systems sealed to prevent dust and fly ash from entering your home. 
 
-#fire
+#element/fire
