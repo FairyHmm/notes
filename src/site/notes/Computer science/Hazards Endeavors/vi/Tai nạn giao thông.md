@@ -35,4 +35,4 @@ Tai nạn giao thông là sự va chạm, va quệt, mà va chạm gây ra thư�
 - **Giữ khoảng cách an toàn:** Luôn giữ khoảng cách an toàn với phương tiện phía trước để có đủ thời gian phản ứng và tránh va chạm.
 - **Nâng cao kiến thức và kỹ năng lái xe:** Tham gia các khóa học huấn luyện lái xe an toàn để nâng cao kiến thức và kỹ năng lái xe của bạn.
 
-#human
+#element/human
