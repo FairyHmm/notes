@@ -3,7 +3,7 @@
 ---
 
 > Some people feel that manufacturers and supermarkets have the responsibility to reduce the amount of packaging of goods. While others argue that customers should avoid buying goods with a lot of packing.
-> \
+> 
 > Discuss both views and give your opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience
 
 Packaging is a controversial topic for debate these days, due to the concerns about their effects. While some believe the buyers should take the responsibility, while others push the blame to the producers. This essay will discuss the both of these viewpoints before giving opinion in the conclusion.
@@ -13,3 +13,5 @@ To begin with, the customers are those who directly feel the outcomes of wrappin
 On the other end of the spectrum, it could be debated that the businesses who make packaging should be responsible, not only for directly utilising a significant amount low-priced wrapping, but also for manipulating consumer behaviors. In details, since it is vital for companies to reduce costs, they invest heavily in the packaging, inadvertently causing damage to the environment. And in order to get the sympathy of the purchasers, these organisations marketed the wrapping as for the convenience of users and durability of goods. As such, customers will get used to the amount of packaging, allowing the establishments to get away with their behaviors. And even if alternative materials were used, the outcomes would not be significantly affected.
 
 To summaries, the controversial topic of over-wrapping may be debated about who should take the blame. And while the consumers may contribute to this trend, from a personal perspective, most of the responsibility is on the enterprises.
+
+#writing/task-2/discussion 
