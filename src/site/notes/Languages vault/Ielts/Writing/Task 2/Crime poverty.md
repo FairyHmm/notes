@@ -9,3 +9,5 @@ It could be argued that one's nature plays a big role in influencing the host to
 On the opposite end of the spectrum, the shortage of money, foods, among others, could be argued to be why people decide to do illegal activities. By being unable to make ends meet, poor individuals could have no choice but to steal valuables for foods and money. And if such people get caught committing crimes and punished, this may lead to a loop of individuals continuously having to commit wrongful doings, not being able to escape. This could explain why ex-prisoners, not being able to afford on their own due to being sanctioned, have a certain probability of re-offending.
 
 To summarise, while an individual's characteristics may influence them into doing unlawful behaviors, from a personal perspective, the poverty and social problems play a bigger role in persuading people to follow this tendency.
+
+#writing/task-2/discussion
