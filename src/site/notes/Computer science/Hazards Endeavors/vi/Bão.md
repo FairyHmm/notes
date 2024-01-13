@@ -71,4 +71,4 @@ Bão có thể gây ra thiệt hại vật chất đáng kể, bao gồm phá h�
 - **Tránh nước lũ:** Tránh tiếp xúc với nước lũ vì nó có thể chứa chất gây ô nhiễm và gây nguy hiểm cho sức khỏe.
 - **Luôn kết nối và hỗ trợ:** Giữ liên lạc với gia đình, bạn bè và hàng xóm để đảm bảo an toàn cho mọi người. Đưa ra sự hỗ trợ và giúp đỡ cho những người xung quanh khi cần thiết.
 
-#air #water
+#element/air #element/water
