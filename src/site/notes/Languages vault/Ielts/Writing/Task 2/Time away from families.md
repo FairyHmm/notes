@@ -11,3 +11,5 @@ To commence, there are some explanations to why family time is decreasing. One o
 Multiple effects on their families and themselves are observed. For one, as family members are not as close-knitted as before, lots of issues may start to build up. A gap between the older and younger generations could begin to widen. And if families members cannot understand each other, the stability of such families are not secure anymore. But for another, there can be more opportunity for individuals. Spending time far away means they can learn more things about their works, studies, or hobbies, which may be more calming. Also, family time in these situations is also more appreciated, and not as often neglected as before. So each person can have more time with themselves while still building bonds with their family.
 
 In conclusion, a multitude of contributors can be used to explain why people are opting to spend time elsewhere rather than with the members of their family. And while there are some negative effects, the positive effects are not to be disregarded.
+
+#writing/task-2/cause #writing/task-2/effect 
