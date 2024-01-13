@@ -10,4 +10,4 @@ To begin, there are considerable fluctuations in the amount of nitrogen oxide pr
 
 By contrast, petrol car and diesel car show a more stable pattern. At 10 kph, a diesel car produces 7g of nitrogen oxide per kilometer. The level of emission shrinks slightly as the speed rises, and at a speed of 50 kph or higher, the emission stays constant at 5g/km. The petrol car emits higher amounts of nitrogen oxide. At 10 kph, it releases about 10 g/km of nitrogen oxide. The emission also descends minimally as the speed rises. Noticeably, at speeds above 100kph, the rate of emission of nitrogen oxide begin to climb.
 
-#line-graph 
+#writing/task-1/line-graph 
