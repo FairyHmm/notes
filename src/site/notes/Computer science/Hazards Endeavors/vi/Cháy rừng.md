@@ -34,4 +34,4 @@ Một số nguyên nhân tự nhiên có thể gây cháy rừng, bao gồm:
 - **Giám sát và phát hiện sớm:** Thiết lập hệ thống giám sát và phát hiện sớm cháy rừng để có thể phản ứng nhanh chóng khi có dấu hiệu cháy. Điều này có thể bao gồm việc sử dụng các cảm biến, camera và hệ thống báo động cháy rừng. 
 - **Giáo dục và nâng cao nhận thức:** Tăng cường giáo dục và nâng cao nhận thức về phòng cháy rừng trong cộng đồng. Điều này có thể bao gồm việc tổ chức các buổi tập huấn, chiếu sáng và phân phối tài liệu về phòng cháy rừng. 
 
-#fire
+#element/fire
