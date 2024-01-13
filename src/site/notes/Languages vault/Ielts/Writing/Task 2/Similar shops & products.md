@@ -11,3 +11,5 @@ To begin with, it has become more convenient for customer to purchase products o
 At the other end of the spectrum, it is often criticised that international brands tend to overshadow local or smaller ones. They may try to draw customer away from local shops, which can be seen as detrimental for local economy. For instance, Amazon - one of the biggest online stores, often divert consumers away from smaller retailer before absorbing them. Another reason is that there would be a lack of variety among commodities throughout the world.  If goods in a country is identical to those of another, it discourages travelling and purchasing, and in turn, hurt the economy.
 
 In conclusion, while expanding products to other nations is a positive tendency, the negative aspects are not to be neglected. However, from my perspective, the benefits far exceed the drawbacks.
+
+#writing/task-2/discussion 
