@@ -14,4 +14,4 @@ To commence, radio was the dominant media, accounting for close to 90% of the 18
 
 Social networking saw 80% usage rates among people aged 10-17 and 18-29, making it one of the most popular medium for the younger demographic. However, it was less utilised by older individuals, representing 50% for the 30-49 age bracket, 40% for the 50-64 age group, and 25% for the oldest age group.
 
-#bar-chart 
+#writing/task-1/bar-chart 
