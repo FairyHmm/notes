@@ -102,4 +102,4 @@ The destruction caused by a fire can lead to the loss of a home, personal belong
 - Avoid running around, as it can fan the flames and worsen burns.
 - Lie face down and roll back and forth to smother the flames and minimise burns.
 
-#fire
+#element/fire
