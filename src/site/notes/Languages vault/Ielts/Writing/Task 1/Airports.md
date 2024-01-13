@@ -10,4 +10,4 @@ In 1995, Newark had the fewest travellers (15 million) of the three airports. Ab
 
 In 1998, while both LaGuardia airport and Newark airport saw growths in the numbers of visitors, the figure for John F. Kennedy airport plummeted to 35 million passengers. In 2000, LaGuardia airport saw a dramatic rise to the number of visitors by almost 20 million. Meanwhile, the figure for Newark remained constant from 1998 to 2000 at over 40 million passengers. John F. Kennedy airport also recovered to almost 45 million travellers in 2000.
 
-#bar-chart #hoang-hanh
+#writing/task-1/bar-chart
