@@ -12,4 +12,4 @@ Moving central, the four offices to the south are forecast to be merged into two
 
 Contrary to such changes, the storeroom will likely be kept untouched to serve the original purpose
 
-#map
+#writing/task-1/map
