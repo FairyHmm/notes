@@ -11,3 +11,6 @@ On one hand, there are various negative consequences of taking a gap year before
 Despite the disadvantages mentioned above, I believe that the potential benefits of delaying university for a year after high school to relax or ***to have a job ~~for a profession~~*** are more significant. Firstly, ***~~when working~~***, young people would obtain hands-on experience. ***~~This helps them to be employed in the future and could even define a career path for them~~ example***. Secondly, having a year to ***relax*** can be advantageous, as students could have a chance to ***relieve stress*** from their studies. With a relaxed mindset and a willing attitude, ***these students ~~they~~*** can acquire knowledge more effectively in comparison with those who go to college right away.
 
 In conclusion, having a gap year between high school and college for work and travel certainly has its drawbacks, but I believe that the benefits outweigh them in the long run.
+
+#writing/task-2/outweigh
+
