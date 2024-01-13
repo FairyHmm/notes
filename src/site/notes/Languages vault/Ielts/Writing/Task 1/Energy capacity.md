@@ -14,4 +14,4 @@ To commence, fossil fuels are expected to witness a significant drop of 20% by 2
 
 Nuclear had its figure started at 6% in 2015. In 2040, a slight dip by 1% is expected. By the same token, the share of other renewables is estimated to decline by 2% to 21% in 2040.
 
-#pie-chart
+#writing/task-1/pie
