@@ -31,4 +31,4 @@ Sóng thần là một loạt các sóng do một trận động đất mạnh t
 - **Bảo vệ bản thân:** Đảm bảo bạn mang theo các vật dụng cá nhân quan trọng như nước uống, thực phẩm, áo ấm, đèn pin, băng cứu thương và các vật dụng cần thiết khác trong trường hợp cần thiết.
 - **Theo dõi thông tin cập nhật:** Luôn cập nhật thông tin từ các nguồn tin chính thức như cơ quan chức năng, truyền thông và các ứng dụng di động để biết thêm thông tin mới nhất về tình hình sóng thần và hướng dẫn an toàn.
 
-#water
+#element/water
