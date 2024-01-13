@@ -9,3 +9,5 @@ When going poor on the streets, people are at higher risk than ever before due t
 When being out on the streets, individuals are often exposed to different types of viruses. This might adversely affect people's health and could even lead to fatal consequences. For example, Corona virus and Ebola virus have claimed the life of many people.
 
 The first measure would be for scientists to come up with new technologies that could help to predict as minimize the damages caused by natural disasters. For example, US scientists could forecast the occurrence of earthquakes so people could evacuate on time.
+
+#writing/task-2/cause #writing/task-2/solution
