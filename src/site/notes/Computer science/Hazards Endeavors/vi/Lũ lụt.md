@@ -29,4 +29,4 @@ Lũ lụt là hiện tượng một vùng đất bị ngập nước trong một
 - **Tránh tiếp xúc với nước lũ:** Nước lũ có thể chứa các chất ô nhiễm và gây nguy hiểm cho sức khỏe. Hạn chế tiếp xúc với nước lũ và đảm bảo sử dụng nước sạch để uống và sinh hoạt.
 - **Liên hệ với các tổ chức cứu trợ:** Nếu bạn cần sự giúp đỡ trong tình huống lũ lụt, hãy liên hệ với các tổ chức cứu trợ địa phương hoặc cơ quan chính phủ để được hỗ trợ.
 
-#flood
+#element/water 
