@@ -10,4 +10,4 @@ Upon a closer investigation of the first table, Europe leaded the chart by a wid
 
 Regarding the other table, Asia and Europe saw very similar statistics in terms of potatoes production, with 131.2 million tons for the former, and 126.3 million tons for the latter. North America came next, growing only about a quarter of hundred million ton. Africa and South and Central America once again found themselves at the bottom, witnessing figures below 17 million tons.
 
-#table
+#writing/task-1/table
