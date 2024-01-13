@@ -37,4 +37,4 @@ Bạo lực học đường là một hiện tượng xảy ra trong môi t
 - **Hợp tác với phụ huynh và gia đình:** Liên hệ với phụ huynh và gia đình để chia sẻ thông tin và tìm kiếm sự hỗ trợ từ phía họ. Họ có thể cung cấp thông tin bổ sung về tình hình gia đình và hỗ trợ trong việc giải quyết vấn đề.
 - **Tìm kiếm sự hỗ trợ từ đồng nghiệp và nhân viên trường:** Hãy tìm kiếm sự hỗ trợ từ đồng nghiệp và nhân viên trường để chia sẻ kinh nghiệm và nhận được gợi ý về cách ứng phó với hành vi kích động của học sinh.
 
-#human
+#element/human
