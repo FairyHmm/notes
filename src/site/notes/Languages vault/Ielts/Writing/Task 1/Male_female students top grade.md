@@ -14,4 +14,4 @@ Upon closer investigation for the first chart, the changes of figures between th
 
 With regards to the other graph, there were less fluctuations over the years. Arts, languages, and humanities were clearly more popular than the rest, though, their figures were shrinking (between 5% and 10%). Maths had its data stayed at 5%, while Science saw a minor upsurge of only 1% (from 10%).
 
-#bar-chart 
+#writing/task-1/bar-chart 
