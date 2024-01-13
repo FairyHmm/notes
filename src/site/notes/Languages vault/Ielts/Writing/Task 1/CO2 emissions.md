@@ -10,4 +10,4 @@ In 1967, about 11 metric tons of carbon dioxide were emitted by each UK citizen.
 
 In 2007, the UK's emission rate gradually declined to just under 9 tons of CO2 per person. The carbon dioxide emissions of Sweden peaked at 10.5 metric tons in 1977, then rapidly went down to 5.5 tons in 2007. In 2007, each Italian released 3.5 more tons of CO2 than the figure in 1967. Portugal witnessed their emission rate dramatically rose to 5.5 metric tons of carbon dioxide per person in the same year.
 
-#line-graph 
+#writing/task-1/line-graph 
