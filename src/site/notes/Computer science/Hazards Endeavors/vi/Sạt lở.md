@@ -38,4 +38,4 @@ Một số loại đất dễ xảy ra sạt lở bao gồm:
 - **Theo dõi và cảnh báo:** Thực hiện việc theo dõi và cảnh báo sạt lở một cách định kỳ, sử dụng các công nghệ và hệ thống cảm biến để phát hiện sớm các dấu hiệu của sạt lở và cảnh báo nguy cơ.
 - **Tăng cường nhận thức cộng đồng:** Tăng cường công tác giáo dục, tuyên truyền và nâng cao nhận thức của cộng đồng về nguy cơ sạt lở, cách ứng phó và phòng ngừa sạt lở.
 
-#earth
+#element/earth
