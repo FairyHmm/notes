@@ -82,4 +82,4 @@ Establishing a robust monitoring and early warning system is crucial for detecti
 
 Increasing education and awareness about wildfire prevention is vital in communities at risk. This can be achieved through various means, such as organising training sessions, distributing literature on fire prevention, and conducting awareness campaigns. By educating individuals about the dangers of wildfires and the preventive measures they can take, communities can become more proactive in preventing and mitigating the risk of wildfires.
 
-#fire
+#element/fire
