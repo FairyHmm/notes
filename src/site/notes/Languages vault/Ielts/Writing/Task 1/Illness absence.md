@@ -14,4 +14,4 @@ In 1991, the Netherlands had just under 5% of its workforce taking at least a si
 
 France and Sweden experienced opposite tendencies. From an initial 3%, Swedish workers took increasingly more sick leaves, while French employees did the reverse. Two lines eventually crossed at 1996, at just less than 3.5%. Afterwards, the percentage of workers in Sweden who had taken sick days accelerated by another 1% in the last year of the research, while the figure for France stabilised at under 3%.
 
-#line-graph 
+#writing/task-1/line-graph 
