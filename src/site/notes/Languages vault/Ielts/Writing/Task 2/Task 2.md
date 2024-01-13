@@ -8,7 +8,7 @@
 - [[Languages vault/Ielts/Writing/Task 2/Ex-prisoners\|Ex-prisoners]]
 - [[Languages vault/Ielts/Writing/Task 2/Free housing\|Free housing]]
 - [[Languages vault/Ielts/Writing/Task 2/Gap year\|Gap year]]
-- [[Languages vault/Ielts/Writing/Task 2/Knowledge_ books vs internet\|Knowledge_ books vs internet]]
+- [[Languages vault/Ielts/Writing/Task 2/Knowledge - books vs internet\|Knowledge - books vs internet]]]
 - [[Languages vault/Ielts/Writing/Task 2/Live at school vs home\|Live at school vs home]]
 - [[Languages vault/Ielts/Writing/Task 2/Moving businesses\|Moving businesses]]
 - [[Languages vault/Ielts/Writing/Task 2/Packaging\|Packaging]]
