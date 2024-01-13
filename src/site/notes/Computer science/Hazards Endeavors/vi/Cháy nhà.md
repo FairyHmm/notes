@@ -102,4 +102,4 @@ Sự tàn phá do cháy có thể dẫn đến mất nhà, đồ đạc cá nhâ
 - Tránh chạy xung quanh vì có thể làm bùng cháy và khiến vết bỏng nặng hơn.
 - Nằm úp mặt và lăn qua lại để dập tắt ngọn lửa và hạn chế bỏng.
 
-#fire
+#element/fire
