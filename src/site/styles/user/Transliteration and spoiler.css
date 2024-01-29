@@ -1,0 +1,25 @@
+.rom {
+	color: var(--text-accent);
+}
+
+.rom:after {  content: '>'; }
+.rom:before { content: '<'; }
+
+.spl {
+	background-color: var(--text-accent);
+	border: 0.1rem solid var(--text-accent);
+	color: transparent;
+	padding: 0.1rem;
+	display: inline-flex;
+	border-radius: 0.5rem;
+	transition: 0.2s ease 0.2s;
+}
+
+.spl:hover {
+	background-color: inherit;
+	color: inherit;
+}
+
+#obsidian-sheets-parsed > tbody > tr > td {
+	vertical-align: middle;
+}

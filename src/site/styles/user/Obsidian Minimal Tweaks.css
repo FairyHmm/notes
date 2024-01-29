@@ -1,0 +1,22 @@
+/* text highlights */
+/* --------------- */
+
+.theme-dark {
+  --text-highlight-bg: var(--text-accent);
+}
+
+.theme-light {
+  --text-highlight-bg: var(--text-accent);
+}
+
+/* links */
+/* ----- */
+
+.internal-link {
+  text-decoration: none;
+}
+
+.external-link {
+  background: none;
+  padding-right: 0;
+}
