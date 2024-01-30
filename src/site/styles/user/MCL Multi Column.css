@@ -889,3 +889,8 @@ settings:
 		default-dark: '#'
 
 */
+
+/* Publish fix */
+.callout[data-callout="multi-column"] > .callout-content > p {
+  display: none;
+}
