@@ -18,10 +18,9 @@ Submit to Mrs. Vân by [[19/12/2024\|19/12/2024]].
 	- [x] Start ✅ 2024-01-30
 # [[Projects/Why should you learn a language/2. Learning languages/2. Learning languages\|2. Learning languages]]
 
-- [ ] What is learning a language
-- [ ] Why someone would learn a language
+- [ ] [[Projects/Why should you learn a language/2. Learning languages/What is learning a language\|What is learning a language]]
 - [ ] [[Projects/Why should you learn a language/2. Learning languages/List of languages by number of speakers\|Data]]
-- [ ] Process + method of learning a language
+- [ ] [[Projects/Why should you learn a language/2. Learning languages/Process + method\|Process + method]]
 # [[Projects/Why should you learn a language/3. Cognitive benefits/3. Cognitive benefits\|3. Cognitive benefits]]
 
 - [ ] Enhanced communication skills
