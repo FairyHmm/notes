@@ -2,24 +2,27 @@
 {"dg-publish":true,"permalink":"/Projects/Why should you learn a language/1. Introduction/Introduction/"}
 ---
 
-- # <br> #mcl/list-card
-	- <span class="purple">For as long as I can remember, I have always been captivated with languages.</span>
-	- <span class="purple">The idea of being able to comprehend a tongue distinct from one a person grew up with is, by all means, fascinating.</span>
-	- <span class="purple">And to able to communicate in them as well? Truly remarkable!</span>
-	- <br>
-	- <span class="purple">As such, there is a soft spot in my heart, holding a special significance to languages, exploring the ins and outs of different languages, with all of their complexities, nuances, captivations, and so on.</span>
-	- <br>
-	- <span class="purple">And I'm sure I'm not alone in this.</span>
-	- <span class="purple">My partner over here, is also a enthusiast for languages.</span>
-- # <br>
-	- <span class="purple">Từ khi mình nhớ đến giờ, mình luôn bị quyến rũ bởi các ngôn ngữ.</span>
-	- <span class="purple">Ý tưởng về việc có thể hiểu một ngôn ngữ khác với ngôn ngữ mà người ta lớn lên với là một điều thực sự hấp dẫn.</span>
-	- <span class="purple">Và còn có thể giao tiếp bằng chúng nữa? Thật đáng kinh ngạc!</span>
-	- <br>
-	- <span class="purple">Vì vậy, trong tim mình có một chỗ đặc biệt, giữ một tầm quan trọng đặc biệt với ngôn ngữ, khám phá từ trong ra ngoài, với những khía cạnh phức tạp, tinh túy, hấp dẫn, và hơn nữa, của các ngôn ngữ khác nhau.</span>
-	- <br>
-	- <span class="purple">Và mình chắc chắn mình không phải là người duy nhất.</span>
-	- <span class="purple">Cộng sự của mình ở đây cũng là một người đam mê với ngôn ngữ.</span>
+
+> [!multi-column]
+> > [!blank]
+> > <span class="purple">For as long as I can remember, I have always been captivated with languages.</span>
+> > <span class="purple">The idea of being able to comprehend a tongue distinct from one a person grew up with is, by all means, fascinating.</span>
+> > <span class="purple">And to able to communicate in them as well? Truly remarkable!</span>
+> > <br>
+> > <span class="purple">As such, there is a soft spot in my heart, holding a special significance to languages, exploring the ins and outs of different languages, with all of their complexities, nuances, captivations, and so on.</span>
+> > <br>
+> > <span class="purple">And I'm sure I'm not alone in this.</span>
+> > <span class="purple">My partner over here, is also a enthusiast for languages.</span>
+>
+> > [!blank]
+> > <span class="purple">Từ khi mình nhớ đến giờ, mình luôn bị quyến rũ bởi các ngôn ngữ.</span>
+> > <span class="purple">Ý tưởng về việc có thể hiểu một ngôn ngữ khác với ngôn ngữ mà người ta lớn lên với là một điều thực sự hấp dẫn.</span>
+> > <span class="purple">Và còn có thể giao tiếp bằng chúng nữa? Thật đáng kinh ngạc!</span>
+> > <br>
+> > <span class="purple">Vì vậy, trong tim mình có một chỗ đặc biệt, giữ một tầm quan trọng đặc biệt với ngôn ngữ, khám phá từ trong ra ngoài, với những khía cạnh phức tạp, tinh túy, hấp dẫn, và hơn nữa, của các ngôn ngữ khác nhau.</span>
+> > <br>
+> > <span class="purple">Và mình chắc chắn mình không phải là người duy nhất.</span>
+> > <span class="purple">Cộng sự của mình ở đây cũng là một người đam mê với ngôn ngữ.</span>
 
 
 - # <br> #mcl/list-card 
