@@ -10,7 +10,7 @@ Submit to Mrs. Vân by [[19/12/2024\|19/12/2024]].
 
 ---
 # [[Projects/Why should you learn a language/1. Introduction/1. Introduction\|1. Introduction]]
-- [ ] Brief introduction
+- [ ] [[Projects/Why should you learn a language/1. Introduction/Introduction\|Brief introduction]]
 	- [x] Fairy's story ✅ 2024-01-30
 	- [ ] Elsthie's story
 	- [x] Insights ✅ 2024-01-30
@@ -20,7 +20,7 @@ Submit to Mrs. Vân by [[19/12/2024\|19/12/2024]].
 
 - [ ] What is learning a language
 - [ ] Why someone would learn a language
-- [ ] Data
+- [ ] [[Projects/Why should you learn a language/2. Learning languages/List of languages by number of speakers\|Data]]
 - [ ] Process + method of learning a language
 # [[Projects/Why should you learn a language/3. Cognitive benefits/3. Cognitive benefits\|3. Cognitive benefits]]
 
@@ -29,8 +29,9 @@ Submit to Mrs. Vân by [[19/12/2024\|19/12/2024]].
 	- [ ] Reading
 	- [ ] Writing
 	- [ ] Speaking
-- [ ] Enhanced ability to learn and acquire new information
-- [ ] Increased creativity and adaptability
+- [ ] Increased intellectual abilities
+	- [ ] Learn and acquire new information
+	- [ ] Creativity and adaptability
 - [ ] Delay of cognitive decline in old age
 # [[Projects/Why should you learn a language/4. Practical applications/4. Practical applications\|4. Practical applications]]
 
