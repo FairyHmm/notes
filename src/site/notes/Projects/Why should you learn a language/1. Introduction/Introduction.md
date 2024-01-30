@@ -24,6 +24,7 @@
 > > <span class="purple">Và mình chắc chắn mình không phải là người duy nhất.</span>
 > > <span class="purple">Cộng sự của mình ở đây cũng là một người đam mê với ngôn ngữ.</span>
 
+<br>
 
 > [!multi-column]
 > 
@@ -44,6 +45,7 @@
 > > <span class="purple">Đối với mình, ngôn ngữ chỉ đơn giản là công cụ giúp chúng ta tiến bộ trong những tình huống mà không vậy sẽ khó khăn hơn.</span>
 > > <span class="purple">Như vậy, học một ngôn ngữ mới có thể là một trải nghiệm mang tính thay đổi cuộc sống, mở ra cơ hội mới và mở rộng tầm nhìn của mỗi người.</span>
 
+<br>
 
 > [!multi-column]
 > 
@@ -53,6 +55,7 @@
 > > [!blank]
 > > <span class="purple">Mình tên là Vũ Phúc Hưng, còn được biết đến là Fairy.</span>
 
+<br>
 
 > [!multi-column]
 > 
@@ -62,6 +65,7 @@
 > > [!blank]
 > > <span class="green">Và mình tên là Nguyễn Thiên Bảo Anh, còn được gọi là Elsthie.</span>
 
+<br>
 
 > [!multi-column]
 > 
