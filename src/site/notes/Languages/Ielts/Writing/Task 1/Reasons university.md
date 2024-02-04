@@ -4,7 +4,7 @@
 
 > The pie charts below show the main reasons why students chose to study at a particular UK University in 1987 and 2007.
 
-![Reasons university.png](/img/user/Resources/Ielts/Reasons%20university.png)
+![Reasons university.png](/img/user/Languages/Ielts/Writing/Task%201/Media/Reasons%20university.png)
 
 Given are two pie charts comparing how British students in the years of 1987 and 2007 differed in their reasons for enrolling in a specific UK college.
 
