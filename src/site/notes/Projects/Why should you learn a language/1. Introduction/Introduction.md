@@ -29,11 +29,16 @@
 > [!multi-column]
 > 
 > > [!blank]
-> > <span class="green">(elsthie's introduction)</span>
+> > <span class="green">Since I was a child, I have been in contact with different languages, through watching movies and the alike.</span>
+> > <span class="green">As a result, I have gotten curious about these languages. </span>
+> > <span class="green">So, I want to learn them, in order to understand what I like better in their original forms.</span>
 > 
 > > [!blank]
-> > <span class="green">(banh giới thiệu)</span>
+> > <span class="green">Từ khi mình còn là một đứa trẻ, mình đã tiếp xúc với các ngôn ngữ khác nhau, thông qua việc xem phim và những thứ tương  tự.</span>
+> > <span class="green">Kết quả là, mình đã tò mò về những ngôn ngữ này.</span>
+> > <span class="green">Vì vậy, mình muốn tìm hiểu về chúng, để hiểu những gì mình thích một cách tốt hơn trong các phiên bản gốc của chúng.</span>
 
+<br>
 
 > [!multi-column]
 > 
@@ -50,20 +55,20 @@
 > [!multi-column]
 > 
 > > [!blank]
-> > <span class="purple">My name is Vũ Phúc Hưng, otherwise known as Fairy.</span>
+> > <span class="purple">My name is Vũ Phúc Hưng.</span>
 > 
 > > [!blank]
-> > <span class="purple">Mình tên là Vũ Phúc Hưng, còn được biết đến là Fairy.</span>
+> > <span class="purple">Mình tên là Vũ Phúc Hưng.</span>
 
 <br>
 
 > [!multi-column]
 > 
 > > [!blank]
-> > <span class="green">And I am Nguyễn Thiên Bảo Anh, also called Elsthie.</span>
+> > <span class="green">And I am Nguyễn Thiên Bảo Anh.</span>
 > 
 > > [!blank]
-> > <span class="green">Và mình tên là Nguyễn Thiên Bảo Anh, còn được gọi là Elsthie.</span>
+> > <span class="green">Và mình tên là Nguyễn Thiên Bảo Anh.</span>
 
 <br>
 
@@ -71,8 +76,8 @@
 > 
 > > [!blank]
 > > <span class="cyan">And this is our presentation on:</span>
-> > <span class="cyan">Why should you learn a language.</span>
+> > #### <span class="cyan">Why should you learn a language.</span>
 > 
 > > [!blank]
 > > <span class="cyan">Và đây là bài thuyết trình của chúng mình về:</span>
-> > <span class="cyan">Tại sao bạn nên học một ngôn ngữ.</span>
+> > #### <span class="cyan">Tại sao bạn nên học một ngôn ngữ.</span>
