@@ -28,6 +28,8 @@
 | Français   |  81 |  229 |   310 |
 | Росский    | 154 |  104 |   258 |
 | Tiếng Việt |  85 |    1 |    86 |
+
+
 [^1]
 
 [^1]: https://www.visualcapitalist.com/100-most-spoken-languages/
