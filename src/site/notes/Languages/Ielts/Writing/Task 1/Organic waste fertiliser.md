@@ -4,7 +4,7 @@
 
 > The diagram below shows how to recycle organic waste to produce fertilise.
 
-![Organic waste fertiliser.png](/img/user/Resources/Ielts/Organic%20waste%20fertiliser.png)
+![Organic waste fertiliser.png](/img/user/Languages/Ielts/Writing/Task%201/Media/Organic%20waste%20fertiliser.png)
 
 Given is a pictorial description illustrating how compost is recycled from biowaste.
 
