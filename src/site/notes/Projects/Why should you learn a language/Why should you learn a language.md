@@ -10,16 +10,16 @@ Submit to Mrs. Vân by [[19/12/2024\|19/12/2024]].
 
 ---
 # [[Projects/Why should you learn a language/1. Introduction/1. Introduction\|1. Introduction]]
-- [ ] [[Projects/Why should you learn a language/1. Introduction/Introduction\|Brief introduction]]
+- [x] [[Projects/Why should you learn a language/1. Introduction/Introduction\|Brief introduction]] ✅ 2024-02-01
 	- [x] Fairy's story ✅ 2024-01-30
-	- [ ] Elsthie's story
+	- [x] Elsthie's story ✅ 2024-02-01
 	- [x] Insights ✅ 2024-01-30
 	- [x] Introduce presenters ✅ 2024-01-30
 	- [x] Start ✅ 2024-01-30
 # [[Projects/Why should you learn a language/2. Learning languages/2. Learning languages\|2. Learning languages]]
 
 - [ ] [[Projects/Why should you learn a language/2. Learning languages/What is learning a language\|What is learning a language]]
-- [ ] [[Projects/Why should you learn a language/2. Learning languages/List of languages by number of speakers\|Data]]
+- [ ] [[Projects/Why should you learn a language/2. Learning languages/List of languages\|List of languages]]
 - [ ] [[Projects/Why should you learn a language/2. Learning languages/Process + method\|Process + method]]
 # [[Projects/Why should you learn a language/3. Cognitive benefits/3. Cognitive benefits\|3. Cognitive benefits]]
 
@@ -59,4 +59,11 @@ Submit to Mrs. Vân by [[19/12/2024\|19/12/2024]].
 - **[[Projects/Why should you learn a language/4. Practical applications/4. Practical applications\|4. Practical applications]]**
 - **[[Projects/Why should you learn a language/5. Conclusion/5. Conclusion\|5. Conclusion]]**
 - [[Projects/Why should you learn a language/Note\|Note]]
+- **Resources**
+	- **Audio**
+		- **1. Introduction**
+		- **2. Learning languages**
+		- **3. Cognitive benefits**
+		- **4. Practical applications**
+		- **5. Conclusion**
 
