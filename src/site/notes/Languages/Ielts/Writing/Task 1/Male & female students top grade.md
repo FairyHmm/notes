@@ -4,7 +4,7 @@
 
 > The charts below show the percentages of male and female students getting top grades in 1960 and 2000
 
-![Male & female students top grade.png](/img/user/Resources/Ielts/Male%20&%20female%20students%20top%20grade.png)
+![Male & female students top grade.png](/img/user/Languages/Ielts/Writing/Task%201/Media/Male%20&%20female%20students%20top%20grade.png)
 
 Given are graphs delineating the proportions of students getting top scores across five subjects, namely science, arts, maths, languages, and humanities, of both genders in the years of 1960 and 2000.
 
