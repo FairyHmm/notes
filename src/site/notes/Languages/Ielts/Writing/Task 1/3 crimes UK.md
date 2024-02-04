@@ -4,7 +4,7 @@
 
 > The percentage of 3 types of crimes: car theft, house burglary & street robbery in England & Wales from 1970 to 2015.
 
-![3 crimes UK.webp](/img/user/Resources/Ielts/3%20crimes%20UK.webp)
+![3 crimes UK.webp](/img/user/Languages/Ielts/Writing/Task%201/Media/3%20crimes%20UK.webp)
 
 Given is a line graph illustrating the trends of three criminal acts, namely the burglary in automobiles, residential places, and on the road, in two parts of the UK (England and Wales) between the years of 1970 and 2015.
 
