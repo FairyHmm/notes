@@ -4,7 +4,7 @@
 
 > The bar chart shows expectations to change of European young people in the next 20 years in 5 different areas 
 > 
-![Young Europeans expectations.jpg](/img/user/Resources/Ielts/Young%20Europeans%20expectations.jpg)
+![Young Europeans expectations.jpg](/img/user/Languages/Ielts/Writing/Task%201/Media/Young%20Europeans%20expectations.jpg)
 
 The bar compares young Europeans views towards changes over the following 20 years in five distinct aspects, namely health, air quality, water quality, food quality, and people communication.
 
