@@ -4,7 +4,7 @@
 
 > The graphs below show four categories of citrus fruits and the top three countries to which these were exported (in thousand tons) in 2012
 
-![Citrus fruits export.png](/img/user/Resources/Ielts/Citrus%20fruits%20export.png)
+![Citrus fruits export.png](/img/user/Languages/Ielts/Writing/Task%201/Media/Citrus%20fruits%20export.png)
 
 Given are bar charts comparing the top three countries importing different types of citrus fruits, namely oranges, lemons, grapefruits, and all other citrus, in the year of 2012.
 
