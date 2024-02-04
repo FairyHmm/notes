@@ -4,7 +4,7 @@
 
 > The table below shows the number of visits to selected countries from four UK airports in 2013.
 
-![UK airports.png](/img/user/Resources/Ielts/UK%20airports.png)
+![UK airports.png](/img/user/Languages/Ielts/Writing/Task%201/Media/UK%20airports.png)
 
 Given is a table comparing how trips to four separate airports in the UK differed among visitors from six distinct nations in the year of 2013.
 
