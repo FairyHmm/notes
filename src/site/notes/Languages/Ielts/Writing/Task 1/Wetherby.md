@@ -4,7 +4,7 @@
 
 > The maps below show the changes experienced by the town of Wetherby at the of the 21st Century.
  
-![Wetherby.png](/img/user/Resources/Ielts/Wetherby.png)
+![Wetherby.png](/img/user/Languages/Ielts/Writing/Task%201/Media/Wetherby.png)
 
 Given are two maps differentiating developments made to the layout of Wetherby between the beginning of the 21st century and its 2016's appearance.
 
