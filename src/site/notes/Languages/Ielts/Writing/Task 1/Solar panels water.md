@@ -4,7 +4,7 @@
 
 > Diagram of how water is produced by solar panels and water filters
  
-![Solar panels water.png](/img/user/Resources/Ielts/Solar%20panels%20water.png)
+![Solar panels water.png](/img/user/Languages/Ielts/Writing/Task%201/Media/Solar%20panels%20water.png)
 
 Given is a pictorial description illustrating how drinking water is made using water purifiers solar panels.
 
