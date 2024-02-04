@@ -2,20 +2,83 @@
 {"dg-publish":true,"permalink":"/Projects/Why should you learn a language/2. Learning languages/Process + method/"}
 ---
 
+> [!multi-column]
+> 
+> > [!blank]
+> > <span class="purple">There are many different approaches when it comes to language learning. </span>
+> 
+> > [!blank]
+> > <span class="purple">Có nhiều cách tiếp cận khác nhau khi nói đến việc học ngôn ngữ.</span>
 
+<br>
 
-The process of learning a language involves several key steps. First, it is important to establish clear goals and motivations for learning the language. This will help guide the learning process and keep you motivated. 
+> [!multi-column]
+> 
+> > [!blank]
+> > <span class="purple">It is always recommended for establish a goal and motivation.</span>
+> > #### Pros and cons of learning Japanese
+> > 
+> > > [!multi-column]
+> > >
+> > > > [!note] Pros
+> > > > - Rich culture
+> > > > - Big communities
+> > > > - Travelling
+> > > > - Anime
+> > > > - Kawaii overload
+> > >
+> > > > [!note] Cons
+> > > > - Limited uses outside of Japan
+> > > > - Hard
+> > > > - People calling you a weeb
+> > 
+> 
+> > [!blank]
+> > <span class="purple">Nó luôn luôn được khuyến khích để thiết lập một mục tiêu và động lực.</span>
+> > #### Ưu và nhược điểm khi học tiếng Nhật
+> >
+> > > [!multi-column]
+> > >
+> > > > [!note] Ưu điểm
+> > > > - Văn hóa phong phú
+> > > > - Cộng đồng lớn
+> > > > - Đi du lịch
+> > > > - Anime
+> > > > - Quá tải Kawaii
+> > >
+> > > > [!note] Nhược điểm
+> > > > - Hạn chế sử dụng bên ngoài Nhật Bản
+> > > > - Khó
+> > > > - Mọi người gọi bạn là weebo
 
-Next, you can choose from a variety of methods to learn the language. One common method is studying textbooks or language guides, which provide structured lessons and exercises to build your vocabulary, grammar, and comprehension skills. Attending language classes or courses is another popular approach, as it offers structured instruction and opportunities for practice and feedback. 
+<br>
 
-Engaging in conversation practice with native speakers is an effective way to improve your speaking and listening skills. This can be done through language exchange programs, language meetups, or online platforms. Using language learning apps or websites can also be helpful, as they often provide interactive exercises, vocabulary drills, and audio resources to practice pronunciation.
+> [!multi-column]
+> 
+> > [!blank]
+> > <span class="purple">In the actual learning process, several method can be utilised. Such as:</span>
+> > - <span class="purple">Textbook</span>
+> > - <span class="purple">Spaced repetition with the flashcard method</span>
+> > - <span class="purple">Services designed for language learning</span>
+> > - <span class="purple">Immersion</span>
+> > <span class="purple">And much more.</span>
+> 
+> > [!blank]
+> > <span class="purple">Trong quá trình học tập, một số phương pháp có thể được sử dụng. Chẳng hạn như:</span>
+> > - <span class="purple">Sách vở</span>
+> > - <span class="purple">Lặp lại cách quãng bằng phương pháp flashcard</span>
+> > - <span class="purple">Dịch vụ được thiết kế cho việc học ngôn ngữ</span>
+> > - <span class="purple">Đắm chìm</span>
+> > <span class="purple">Và hơn thế nữa.</span>
 
-In addition, immersing yourself in a language-rich environment can greatly enhance your learning. This can be achieved by traveling to a country where the language is spoken, participating in language immersion programs, or even creating a language immersion experience at home by surrounding yourself with authentic language materials, such as books, movies, and music in the target language.
+<br>
 
-Lastly, consistent practice and dedication are crucial. Set aside regular study time and practice using the language in real-life situations whenever possible. Embrace the challenges, make mistakes, and learn from them. By actively engaging in the learning process and using a combination of these methods, you can make significant progress in learning a language.
-
-To learn a language, individuals can employ a variety of methods and resources. These may include studying textbooks and language guides, attending language classes or courses, engaging in conversation practice with native speakers, utilizing language learning apps or websites, and immersing oneself in a language-rich environment.
-
-Becoming proficient in a new language is not an overnight achievement. It requires consistent effort, dedication, and practice over an extended period of time. Language learning is a journey that involves making mistakes, learning from them, and continually improving one's language skills.
-
-By embracing the challenges and actively engaging in the learning process, individuals can gradually develop their language abilities and gain confidence in their communication skills. With patience and persistence, fluency in a new language can be achieved.
+> [!multi-column]
+> 
+> > [!blank]
+> > <span class="green">Most importantly, consistent practice and dedication are crucial.</span>
+> > <span class="green">Without revision of information and mistakes, holes may be formed in one's knowledge, leading to a worse proficiency level.</span>
+> 
+> > [!blank]
+> > <span class="green">Quan trọng nhất, việc thực hành thường xuyên và sự cống hiến là rất quan trọng.</span>
+> > <span class="green">Nếu không có sự ôn tập thông tin và sai sót, kiến thức của một người có thể hình thành lỗ hổng, dẫn đến trình độ kém hơn.</span>
