@@ -19,22 +19,22 @@
 > [!multi-column] 
 >
 > > [!note] [Obsidian](https://obsidian.md/)
-> > [![Obsidian.png|100](/img/user/Resources/Logo/Obsidian.png)](https://obsidian.md/)
+> > [![[Obsidian.png\|100]]](https://obsidian.md/)
 > > Content management
 >
 > > [!note] [Vercel](https://vercel.com/)
-> > [![Vercel.png|100](/img/user/Resources/Logo/Vercel.png)](https://vercel.com/)
+> > [![[Vercel.png\|100]]](https://vercel.com/)
 > > Site host
 >
 > > [!note] [Digital Garden](https://dg-docs.ole.dev/)
-> > [![Obsidian Digital Garden.png|100](/img/user/Resources/Logo/Obsidian%20Digital%20Garden.png)](https://dg-docs.ole.dev/)
+> > [![[Obsidian Digital Garden.png\|100]]](https://dg-docs.ole.dev/)
 > > Publication tool
 
 ##  Video editing
 > [!multi-column] 
 >
 > > [!note] [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
-> > [![DaVinci Resolve.png|100](/img/user/Resources/Logo/DaVinci%20Resolve.png)](https://www.blackmagicdesign.com/products/davinciresolve)
+> > [![[DaVinci Resolve.png\|100]]](https://www.blackmagicdesign.com/products/davinciresolve)
 > > Editing software
 >
 > > [!note] [Motion Canvas](https://motioncanvas.io/)
@@ -53,6 +53,6 @@
 > > Writing assistant
 > 
 > > [!note] [Perplexity](https://www.perplexity.ai/)
-> > [![Perplexity AI.png|100](/img/user/Resources/Logo/Perplexity%20AI.png)](https://www.perplexity.ai/)
+> > [![[Perplexity AI.png\|100]]](https://www.perplexity.ai/)
 > > Artificial intelligence 
 
