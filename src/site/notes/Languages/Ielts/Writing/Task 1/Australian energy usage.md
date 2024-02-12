@@ -4,7 +4,7 @@
 
 > The graph below gives information from a report in 2010 about the use of energy in Australia since 1980 with projections until 2030
 
-![Australian energy usage.jpg](/img/user/Languages/Ielts/Writing/Task%201/Media/Australian%20energy%20usage.jpg)
+![Australian energy usage.jpg](/img/user/Languages/Ielts/.resources/Australian%20energy%20usage.jpg)
 
 The line graph compares how energy consumption by five distinct fuel types differs, and the projection for future over a period of half a century starting from 1980 in Australia.
 
