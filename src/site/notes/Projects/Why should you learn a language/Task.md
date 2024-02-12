@@ -28,27 +28,23 @@
 	- [x] Learn and acquire new information ✅ 2024-02-06
 	- [x] Creativity and adaptability ✅ 2024-02-06
 ## [[Projects/Why should you learn a language/4. Practical applications/4. Practical applications\|4. Practical applications]]
-<progress max=100 value=0> </progress> 0%
-- [ ] Increased academic and professional advancements
-	- [ ] Academic
-	- [ ] Professional
-- [ ] Increased cultural understanding
-	- [ ] Locally
-	- [ ] World-wide
-- [ ] Enhanced travel experiences
-- [ ] Greater personal growth
-	- [ ] Confidence
-	- [ ] Knowledge
-	- [ ] Social connections and networking
+<progress max=100 value=100> </progress> 10%
+- [x] [[Projects/Why should you learn a language/4. Practical applications/Increased academic and professional advancements\|Increased academic and professional advancements]] ✅ 2024-02-12
+	- [x] Lead ✅ 2024-02-12
+	- [x] Academic ✅ 2024-02-12
+	- [x] Professional ✅ 2024-02-12
+- [x] [[Projects/Why should you learn a language/4. Practical applications/Increased cultural understanding\|Increased cultural understanding]] ✅ 2024-02-12
+- [x] [[Projects/Why should you learn a language/4. Practical applications/Enhanced travel experiences\|Enhanced travel experiences]] ✅ 2024-02-12
+- [x] [[Projects/Why should you learn a language/4. Practical applications/Social connections and networking\|Social connections and networking]] ✅ 2024-02-12
 ## [[Projects/Why should you learn a language/5. Conclusion/5. Conclusion\|5. Conclusion]]
-<progress max=100 value=0> </progress> 0%
-- [ ] Recap of the benefits
-- [ ] Encouragement
+<progress max=100 value=100> </progress> 100%
+- [x] Recap ✅ 2024-02-12
+- [x] Encouragement ✅ 2024-02-12
 
 ---
 
 # Editing
-<progress max=400 value=0> </progress> 6m40s
+<progress max=650 value=0> </progress> 10m50s
 ## [[Projects/Why should you learn a language/1. Introduction/1. Introduction\|1. Introduction]]
 <progress max=80 value=0> </progress> 1m20s
 - [ ] [[Projects/Why should you learn a language/1. Introduction/Introduction\|Brief introduction]]
@@ -81,7 +77,7 @@
 		- <progress max=50 value=0> </progress> 50s
 	- [ ] Writing + Speaking
 		- <progress max=50 value=0> </progress> 50s
-- [ ] Increased intellectual abilities
+- [ ] [[Projects/Why should you learn a language/3. Cognitive benefits/Increased intellectual abilities\|Increased intellectual abilities]]
 	- <progress max=100 value=0> </progress> 1m40s
 	- [ ] Lead
 		- <progress max=20 value=0> </progress> 20s
@@ -90,19 +86,24 @@
 	- [ ] Creativity and adaptability
 		- <progress max=40 value=0> </progress> 40s
 ## [[Projects/Why should you learn a language/4. Practical applications/4. Practical applications\|4. Practical applications]]
-
-- [ ] Increased academic and professional advancements
+<progress max=210 value=0> </progress> 3m30s
+- [ ] [[Projects/Why should you learn a language/4. Practical applications/Increased academic and professional advancements\|Increased academic and professional advancements]]
+	- <progress max=50 value=0> </progress> 50s
+	- [ ] Lead
+		- <progress max=10 value=0> </progress> 10s
 	- [ ] Academic
+		- <progress max=20 value=0> </progress> 20s
 	- [ ] Professional
-- [ ] Increased cultural understanding
-	- [ ] Locally
-	- [ ] World-wide
-- [ ] Enhanced travel experiences
-- [ ] Greater personal growth
-	- [ ] Confidence
-	- [ ] Knowledge
-	- [ ] Social connections and networking
+		- <progress max=20 value=0> </progress> 20s
+- [ ] [[Projects/Why should you learn a language/4. Practical applications/Increased cultural understanding\|Increased cultural understanding]]
+	- <progress max=50 value=0> </progress> 50s
+- [ ] [[Projects/Why should you learn a language/4. Practical applications/Enhanced travel experiences\|Enhanced travel experiences]]
+	- <progress max=55 value=0> </progress> 55s
+- [ ] [[Projects/Why should you learn a language/4. Practical applications/Social connections and networking\|Social connections and networking]]
+	- <progress max=55 value=0> </progress> 55s
 ## [[Projects/Why should you learn a language/5. Conclusion/5. Conclusion\|5. Conclusion]]
-
-- [ ] Recap of the benefits
+<progress max=40 value=0> </progress> 40s
+- [ ] Recap
+	- <progress max=15 value=0> </progress> 15s
 - [ ] Encouragement
+	- <progress max=15 value=0> </progress> 15s
