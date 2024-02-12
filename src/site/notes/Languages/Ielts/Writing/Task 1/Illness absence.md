@@ -4,7 +4,7 @@
 
 > The graph below shows the percentage of workers from five different European countries that were absent for a day or more due to illness from 1991 to 2001
 
-![Illness absence.png](/img/user/Languages/Ielts/Writing/Task%201/Media/Illness%20absence.png)
+![Illness absence.png](/img/user/Languages/Ielts/.resources/Illness%20absence.png)
 
 The line graph compares how the percentage of people taking a day off from work because of sickness for one or multiple days differ, between 1991 and 2001 in five distinct European nations.
 
