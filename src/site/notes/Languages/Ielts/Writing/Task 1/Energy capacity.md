@@ -4,7 +4,7 @@
 
 > The pie charts below compare the proportion of energy capacity in gigawatts (GW) in 2015 with the predictions for 2040
 
- ![Energy capacity.png](/img/user/Languages/Ielts/Writing/Task%201/Media/Energy%20capacity.png)
+ ![Energy capacity.png](/img/user/Languages/Ielts/.resources/Energy%20capacity.png)
 
 The pie charts show the expected changes in the amount of energy capacity from various sources in the year 2015, as well as a prediction for 2040. 
 
