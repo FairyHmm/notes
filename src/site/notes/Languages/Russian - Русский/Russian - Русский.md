@@ -5,6 +5,8 @@
 The process of learning the Russian language.
 
 
+- **.resources**
+	- **.cropped**
 - [[Languages/Russian - Русский/A\|A]]
 - [[Languages/Russian - Русский/Alphabet - Алфавит\|Alphabet - Алфавит]]
 - **[[Languages/Russian - Русский/Grammar - Грамматика/Grammar - Грамматика\|Grammar - Грамматика]]**
