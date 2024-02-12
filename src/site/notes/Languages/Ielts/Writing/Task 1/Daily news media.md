@@ -4,7 +4,7 @@
 
 > The bar chart shows type of media to get daily news, by age group 2011
 
-![Daily news media.png](/img/user/Languages/Ielts/Writing/Task%201/Media/Daily%20news%20media.png)
+![Daily news media.png](/img/user/Languages/Ielts/.resources/Daily%20news%20media.png)
 
 The bar chart compares how different age groups choose to update their everyday news in the year of 2011.
 
