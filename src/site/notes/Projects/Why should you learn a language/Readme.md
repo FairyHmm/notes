@@ -38,18 +38,18 @@
 > > Editing software
 >
 > > [!note] [Motion Canvas](https://motioncanvas.io/)
-> > [![Motion Canvas.png|100](/img/user/Resources/Logo/Motion%20Canvas.png)](https://motioncanvas.io/)
+> > [![Motion Canvas.png|100](/img/user/.resources/Logo/Motion%20Canvas.png)](https://motioncanvas.io/)
 > > Animation software
 
 ## Writing tools
 > [!multi-column] 
 > 
 > > [!note] [Vitalentum](https://vitalentum.net/free-chat-gpt)
-> > [![Vitalentum.png|100](/img/user/Resources/Logo/Vitalentum.png)](https://vitalentum.net/free-chat-gpt)
+> > [![Vitalentum.png|100](/img/user/.resources/Logo/Vitalentum.png)](https://vitalentum.net/free-chat-gpt)
 > > Artificial intelligence 
 > 
 > > [!note] [QuillBot](https://quillbot.com/)
-> > [![QuillBot.png|100](/img/user/Resources/Logo/QuillBot.png)](https://quillbot.com/)
+> > [![QuillBot.png|100](/img/user/.resources/Logo/QuillBot.png)](https://quillbot.com/)
 > > Writing assistant
 > 
 > > [!note] [Perplexity](https://www.perplexity.ai/)
