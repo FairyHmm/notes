@@ -5,6 +5,8 @@
 Guides, by me and others, about languages.
 
 
+- **.resources**
+	- **.cropped**
 - [[Languages/Guides/Duolingo unlimited heart guide\|Duolingo unlimited heart guide]]
 - **[[Languages/Guides/Matteo/Matteo\|Matteo]]**
 - [[Languages/Guides/Old English\|Old English]]
