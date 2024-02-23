@@ -9,7 +9,7 @@
 > > <span class="purple">The idea of being able to comprehend a tongue distinct from one a person grew up with is, by all means, fascinating.</span>
 > > <span class="purple">And to able to communicate in them as well? Truly remarkable!</span>
 > > <br>
-> > <span class="purple">As such, there is a soft spot in my heart, holding a special significance to languages, exploring the ins and outs of different languages, with all of their complexities, nuances, captivations, and so on.</span>
+> > <span class="purple">As such, there is a soft spot in my heart, holding a special significance to languages, exploring the ins and outs of different tongues, with all of their complexities, nuances, captivations, and so on.</span>
 > > <br>
 > > <span class="purple">And I'm sure I'm not alone in this.</span>
 > > <span class="purple">My partner over here, is also a enthusiast for languages.</span>
