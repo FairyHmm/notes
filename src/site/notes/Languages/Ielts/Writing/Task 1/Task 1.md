@@ -24,6 +24,7 @@ Describe a graph, chart, diagram, or process.
 - [[Languages/Ielts/Writing/Task 1/Solar panels water\|Solar panels water]]
 - [[Languages/Ielts/Writing/Task 1/Sugar manufacturing\|Sugar manufacturing]]
 - [[Languages/Ielts/Writing/Task 1/UK airports\|UK airports]]
+- [[Languages/Ielts/Writing/Task 1/Urban rural population\|Urban rural population]]
 - [[Languages/Ielts/Writing/Task 1/Wetherby\|Wetherby]]
 - [[Languages/Ielts/Writing/Task 1/Young Europeans expectations\|Young Europeans expectations]]
 
