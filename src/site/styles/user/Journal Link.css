@@ -1,21 +1,21 @@
-.daily div p:has(a.internal-link) {
+.daily .markdown-reading-view div:nth-child(4) p {
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     color: #565656;
 }
 
-.daily div p:has(a.internal-link) .internal-link {
+.daily .markdown-reading-view div:nth-child(4) p .internal-link {
     text-decoration: none;
     flex-grow: 4;
 }
 
-.daily div p:has(a.internal-link) .internal-link:first-child {
+.daily .markdown-reading-view div:nth-child(4) p .internal-link:first-child {
     text-align: left;
     padding-left: 10px;
 }
 
-.daily div p:has(a.internal-link) .internal-link:last-child {
+.daily .markdown-reading-view div:nth-child(4) p .internal-link:last-child {
     text-align: right;
     padding-right: 10px;
 }

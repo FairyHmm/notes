@@ -1,0 +1,62 @@
+/* General and default image blending */
+
+.theme-dark img,
+.theme-light img {
+  display: block;
+  max-width: 80%;
+  padding: 0 auto 0 auto;
+  outline: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.theme-dark img {
+  mix-blend-mode: screen;
+  filter: opacity(1);
+}
+
+.theme-light img {
+  mix-blend-mode: multiply;
+  filter: opacity(0.95);
+}
+
+/* Emblemed images blending tweaks */
+
+.theme-dark .popover.hover-popover .markdown-preview-view img {
+  mix-blend-mode: screen;
+  /*filter: opacity(1);*/
+}
+
+.theme-light .popover.hover-popover .markdown-preview-view img {
+  mix-blend-mode: multiply;
+  /*filter: opacity(0.95);*/
+}
+
+/* Image dynamic colors inversion */
+
+.theme-dark span[src$="#invertB"] img,
+.theme-dark img[alt$="invertB"],
+.theme-light span[src$="#invertW"] img,
+.theme-light img[alt$="invertW"] {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+.theme-dark span[src$="#invertBC"] img,
+.theme-dark img[alt$="invertBC"] {
+  filter: invert(1) hue-rotate(180deg) contrast(1.5);
+}
+
+.theme-light span[src$="#invertWC"] img,
+.theme-light img[alt$="invertWC"] {
+  filter: invert(1) hue-rotate(180deg) contrast(1.45);
+}
+
+.theme-dark span[src$="#invertBXC"] img,
+.theme-dark img[alt$="invertBXC"] {
+  filter: invert(1) hue-rotate(180deg) contrast(10);
+}
+
+.theme-light span[src$="#invertWXC"] img,
+.theme-light img[alt$="invertWXC"] {
+  filter: invert(1) hue-rotate(180deg) contrast(9.9);
+}
