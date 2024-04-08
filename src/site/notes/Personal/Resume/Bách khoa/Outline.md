@@ -19,7 +19,7 @@
 			        - Trường kĩ thuật đầu tiên ở VN
 			    - Hiện tại
 			        - Một trong những đại học kỹ thuật lớn nhất VN
-			        - Được xếp vào nhóm các trường Đại học, Học viện trọng điểm của VN
+			        - Được xếp vào nhóm các trường Đại học, Học viện trọng điểm của VN và thế giới
         - ### Điểm mạnh, nổi bật của trường
 	        - Cơ sở vật chất
 		        - Hàng trăm giảng đường, phòng học, phòng thí nghiệm, hội trường,... hiện đại
@@ -43,17 +43,21 @@
 			- Có nhiều thách thức và cơ hội để khẳng định mình
 			- Năng lực bản thân
 - # III. Bản thân phù hợp chỗ nào
-    - ## 1. Đam mê từ nhỏ -> chuyên tin
-        - Sở thích, niềm đam mê với tin từ nhỏ
+    - ## 1. Đam mê từ sớm -> chuyên tin
+        - Tiếp cận CNTT từ nhỏ
+        - Được thầy cô chú ý, dạy dỗ
     - ## 2. Thành tích đạt được
-        - Thành tích, giải thưởng
+        - ### Thành tích, giải thưởng
 	        - Giải HSG tỉnh, vượt cấp
 	        - KHKT tỉnh
 	        - Trại hè
 	        - IELTS
 	        - 5 kì học bổng
-        - Kinh nghiệm làm việc, dự án
-	        - [Hazards Endeavors](https://hazend.pages.dev/)
+	        - Điểm chuyên cao nhất
+        - ### Kinh nghiệm làm việc, dự án
+	        - Hazards Endeavors
+		        - [Web chính thức](https://hazend.pages.dev/)
+		        - [Github](https://github.com/fairyHmm/HazardsEndeavors/)
 	- ## 3. Sự sáng tạo và khả năng tự học
 		- Sáng tạo trong giải quyết vấn đề
 		- Ứng dụng công nghệ vào cuộc sống
