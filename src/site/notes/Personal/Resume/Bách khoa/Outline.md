@@ -1,0 +1,65 @@
+---
+{"dg-publish":true,"permalink":"/Personal/Resume/Bách khoa/Outline/","tags":["outline","writing/outline","university"]}
+---
+
+- # I. Giới thiệu bản thân
+    - ## 1. Tên, tuổi
+	    - VPH, lớp 12
+	    - Chuyên tin, CTN
+    - ## 2. Mục tiêu nghề nghiệp, học vấn
+	    - Chuyên tin -> theo đuổi ngành tin
+		    - Sử dụng công nghệ - giúp đỡ, đóng góp
+		- -> vào BK
+- # II. Hiểu biết
+    - ## 1. Về trường BK
+        - ### Lịch sử, vị trí trong giáo dục Việt Nam
+	        - Quan trọng
+		        - Một trong những trường có bề dày lịch sử nhất VN
+			        - Thành lập sau khi giành độc lập từ Pháp sau chiến thắng ĐBP
+			        - Trường kĩ thuật đầu tiên ở VN
+			    - Hiện tại
+			        - Một trong những đại học kỹ thuật lớn nhất VN
+			        - Được xếp vào nhóm các trường Đại học, Học viện trọng điểm của VN
+        - ### Điểm mạnh, nổi bật của trường
+	        - Cơ sở vật chất
+		        - Hàng trăm giảng đường, phòng học, phòng thí nghiệm, hội trường,... hiện đại
+		        - Thư viện lớn hàng đầu ĐNÁ
+		        - Khu vui chơi giải trí
+		        - Kí túc xá hiện đại
+		        - Câu lạc bộ
+			- Đội ngũ cán bộ giảng viên
+				- Giáo viên, giáo sư, tiến sĩ: trình độ cao, nhiều kinh nghiệm, nhiệt tình và tận tâm với nghề nghiệp
+			- Học tập
+				- Học bổng, du học, làm việc: nhiều cơ hội
+				- Giao lưu khu vực, quốc tế
+				- Nhiều ngành học
+    - ## 2. Về ngành CNTT
+		- ### Lý do quan tâm, yêu thích ngành
+			- Luôn được tiếp cận nguồn tri thức mới
+			- Năng động và sáng tạo
+			- Tính ứng dụng cao
+			- Tiềm năng phát triển lớn
+			- Phù hợp xu thế
+			- Có nhiều thách thức và cơ hội để khẳng định mình
+			- Năng lực bản thân
+- # III. Bản thân phù hợp chỗ nào
+    - ## 1. Đam mê từ nhỏ -> chuyên tin
+        - Sở thích, niềm đam mê với tin từ nhỏ
+    - ## 2. Thành tích đạt được
+        - Thành tích, giải thưởng
+	        - Giải HSG tỉnh, vượt cấp
+	        - KHKT tỉnh
+	        - Trại hè
+	        - IELTS
+	        - 5 kì học bổng
+        - Kinh nghiệm làm việc, dự án
+	        - [Hazards Endeavors](https://hazend.pages.dev/)
+	- ## 3. Sự sáng tạo và khả năng tự học
+		- Sáng tạo trong giải quyết vấn đề
+		- Ứng dụng công nghệ vào cuộc sống
+		- Tinh thần tự học cao, khả năng tự tìm hiểu và tiếp thu kiến thức mới
+		- Năng lực ngoại ngữ
+		- Có khả năng làm việc nhóm
+- # IV. Chọn BK -> tiếp nối ước mơ
+    - Điểm khởi đầu cho sự nghiệp, ước mơ trong ngành tin
+    - Mong muốn học tập, phát triển, góp phần vào sự phát triển ngành tin tại trường 
