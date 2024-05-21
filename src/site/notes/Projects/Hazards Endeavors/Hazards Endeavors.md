@@ -41,6 +41,8 @@ This is the first project of the authors, so the organisation may not be the gre
 
 
 - **[[Projects/Hazards Endeavors/en/en\|en]]**
+- **qr**
+
 - [[Projects/Hazards Endeavors/Quotes\|Quotes]]
 - [[Projects/Hazards Endeavors/README\|README]]
 - **[[Projects/Hazards Endeavors/vi/vi\|vi]]**
