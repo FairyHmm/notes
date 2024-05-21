@@ -1,0 +1,51 @@
+---
+{"dg-publish":true,"permalink":"/Personal/Resume/Bách khoa/Câu hỏi/Câu hỏi/"}
+---
+
+- Giới thiệu bản thân
+	- Em tên là Vũ Phúc Hưng
+	- Học sinh lớp Tin K33
+	- Trường THPT Chuyên Thái Nguyên
+- Môn học yêu thích
+	- Bé: chưa định hình
+	- Thích: xem mẹ làm bài giảng điện tử
+	- -> làm powerpoint, video,...
+	- Từ việc học toán từ cấp 1, 2
+	- Lên cấp 3: học môn Tin
+	- Lúc đầu: lập trình thi đấu trên trườn
+	- Sau đó: thiết kế những thứ thiết thực hơn
+	- KHKT
+	- Công cụ tự động hoá thường xuyên sử dụng
+- Điểm mạnh
+	- Đam mê -> cố hết sức
+	- VD: khi làm KHKT
+	- Dù nhiều kì thi: vẫn cố làm
+	- -> giải cao nhất của tỉnh
+	- Ngoài ra: áp dụng công nghệ vào đời sống
+	- Từ kinh nghiệm làm web:
+	- Tạo ra 1 trang web để chia sẻ gi chú từ ứng dụng đang dùng
+	- -> Muốn chia sẻ: chỉ cần thay đổi metadata rồi copy link -> gửi
+- Điểm yếu
+	- Hay quên
+	- -> Ghi chú toàn bộ vào các ứng dụng để ghi chú và nhắc việc
+	- Nữa: không tự tin trước đám đông
+	- Nhiều lúc: làm phần powerpoint, thiết kế để người khác thuyết trình Đang cố gắng cải thiện qua các kì thi KHKT và STEM gần đây
+	- Có thuyết trình về nhugwx phần thuộc sowrr trường của mình
+	- Thay vì để toàn bộ cho bạn cùng nhóm
+- Giải thưởng
+	- Các giải thưởng: chủ yếu về môn Tin học
+	- HSG tỉnh: giải nhì lớp 10 và 12, iair 3 lớp 11, giải khuyến khích vượt cấp
+	- Trong hè: huy chương bạc duyên hải hè 10, khuyến khích duyên hải hè 11, huy chương đồng hùng vương hè 11, giải nhì trại hè tin học miền bắc hè 11
+	- KHKT nhì tỉnh lớp 12
+	- STEM tổ chức tại trường: giải nhất
+	- Ngoài ra: chứng chỉ IELTS, 6 kì học bổng liên tiếp
+- Trình độ Tiếng Anh
+	- Từ cấp 2: tiếng Anh đã là điểm mạnh
+	- Qua việc tìm hiểu những điều em hứng thú
+	- Trình độ đã trở nên tốt hơn qua thời gian
+	- Đặc biệt là trong thời nghỉ dịch
+	- Đầu năm lớp 12: thi chứng chỉ ngoại ngữ IELTS
+	- Được 7.5, với không kĩ năng nào dưới 7.0
+- Ngoài việc học trên lớp em có tham gia các hoạt động xã hội, đoàn thể, hay môn thể thao nào không
+	- Không phải việc làm thường xuyên
+	- Nhưng: có tham gia chương
