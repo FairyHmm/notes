@@ -2,50 +2,260 @@
 {"dg-publish":true,"permalink":"/Personal/Resume/Bách khoa/Câu hỏi/Câu hỏi/"}
 ---
 
+# Cá nhân
+
 - Giới thiệu bản thân
-	- Em tên là Vũ Phúc Hưng
-	- Học sinh lớp Tin K33
-	- Trường THPT Chuyên Thái Nguyên
+	- Tên: Vũ Phúc Hưng
+	- Học sinh lớp Tin K33.
+	- Trường THPT Chuyên Thái Nguyên.
+	- Địa chỉ: Nhà 30A, tổ 5, phường Tân Thành, Thành phố Thái Nguyên, tỉnh Thái Nguyên.
+	- Số điện thoại : 0971 228 724
+	- Email: vuphuchungfh\@gmail.com
 - Môn học yêu thích
 	- Bé: chưa định hình
-	- Thích: xem mẹ làm bài giảng điện tử
-	- -> làm powerpoint, video,...
-	- Từ việc học toán từ cấp 1, 2
+		- Thích: xem mẹ làm bài giảng điện tử
+		- -> làm powerpoint, video,...
+		- Từ  học toán và tham gia nhiều kì thi Toán từ cấp 1, 2
 	- Lên cấp 3: học môn Tin
-	- Lúc đầu: lập trình thi đấu trên trườn
-	- Sau đó: thiết kế những thứ thiết thực hơn
-	- KHKT
-	- Công cụ tự động hoá thường xuyên sử dụng
+		- Lúc đầu: lập trình thi đấu trên trường, tham gia các kì thi, cuộc thi HS giỏi cấp Tỉnh, các trang như VNOJ
+		- Sau đó: thiết kế những thứ thiết thực hơn
+		- KHKT
+		- Công cụ tự động hoá thường xuyên sử dụng
 - Điểm mạnh
 	- Đam mê -> cố hết sức
-	- VD: khi làm KHKT
-	- Dù nhiều kì thi: vẫn cố làm
-	- -> giải cao nhất của tỉnh
+		- VD: khi làm KHKT
+		- Dù nhiều kì thi: vẫn cố làm
+		- -> giải cao nhất của tỉnh
+	- Sử dụng ngoại ngữ tốt, đặc biệt là tiếng Anh
+		- Có thể tìm hiểu và học hỏi các kiến thức trên các trang mạng nước ngoài
 	- Ngoài ra: áp dụng công nghệ vào đời sống
-	- Từ kinh nghiệm làm web:
-	- Tạo ra 1 trang web để chia sẻ gi chú từ ứng dụng đang dùng
-	- -> Muốn chia sẻ: chỉ cần thay đổi metadata rồi copy link -> gửi
+		- Từ kinh nghiệm làm web:
+		- Tạo ra 1 trang web để chia sẻ gi chú từ ứng dụng đang dùng
+		- -> Muốn chia sẻ: chỉ cần thay đổi metadata rồi copy link -> gửi
 - Điểm yếu
 	- Hay quên
-	- -> Ghi chú toàn bộ vào các ứng dụng để ghi chú và nhắc việc
+		- -> Ghi chú toàn bộ vào các ứng dụng để ghi chú và nhắc việc
+		- Như: bộ não thứ 2
 	- Nữa: không tự tin trước đám đông
-	- Nhiều lúc: làm phần powerpoint, thiết kế để người khác thuyết trình Đang cố gắng cải thiện qua các kì thi KHKT và STEM gần đây
-	- Có thuyết trình về nhugwx phần thuộc sowrr trường của mình
-	- Thay vì để toàn bộ cho bạn cùng nhóm
+		- Nhiều lúc: làm phần powerpoint, thiết kế để người khác thuyết trình
+		- Đang cố gắng cải thiện qua các kì thi KHKT và STEM gần đây
+			- Luyện nói bằng tiếng Anh rèn sự tự tin
+			- Có thuyết trình về những phần thuộc sở trường của mình
+			- Thay vì để  cho bạn cùng nhóm thuyết trình
+- Khó khăn
+	- 1 vài
+	- Gia đình: không nghèo nhưng không giàu có
+		- Cố gắng học
+		- Được liên tiếp 6 kì học bổng trong 3 năm THPT
+	- Nhà: cách trường hơn 10km
+		- Hàng ngày: dành 1 khoảng thời gian để đi lại
+- Em có yêu thích khoa học kỹ thuật và có thích nghiên cứu không
+	- Từ nhỏ: luôn yêu thích KHKT
+		- Em: tò mò, đam mê
+		- Nhiều phần của KHKT: thoả mãn sự dam mê đó
+		- Lí do: vào chuyên tin, đăng kí vào CNTT, và vào BK
+	- Về nghiên cứu
+		- Cố tốc độ đọc và phân tích nhanh
+		- -> có thể đọc và lọc thông tin từ wikipedia, tài liệu, hướng dẫn, và nhiều nguồn khác bằng tiếng Việt, tiếng Anh, đang bắt đầu tự học tiếng Nga
+		- Để có thể làm được nhiều dạng bài khó và dễ khác nhau
+		  Không chỉ với môn tin, mà còn  với những môn KHTN khác
+- Trong môn kỹ thuật công nghệ em đã từng làm được mô hình hay sản phẩm gì không?
+	- Mô hình lớn, quan trọng nhất đã làm: trang web học tập cho dự án KHKT
+	- Link: hazend.pages.dev, hoặc trang github
+	- Trong tương lai: sẽ luôn cập nhật để trang web có thể đầy đủ hơn
+		- Thêm nội dung
+		- Thêm ngôn ngữ
+- Em theo ngành là tự chọn hay do bố mẹ định hướng?
+	- Chọn: tự thấy phù hợp với bản thân
+		- Từ khả năng tự học, tự nghiên cứu
+		- Kinh nghiệm đã có
+	- Gia đình: luôn ủng hộ về lựa chọn này
+- Định hướng sự nghiệp của em trong 5 năm -10 năm tới em sẽ trở thành người như thế nào
+	- Mong muốn trở thành một kỹ sư chuyên nghiệp trong ngành CNTT
+	- Đóng góp vào các dự án phát triển công nghệ
+	- Không ngừng nâng cao kiến thức, kỹ năng của bản thân.
+- Môi trường đại học khác THPT, các em phải tự lập và nỗ lực nhiều hơn. Nếu đỗ vào BK, ngành CNTT, em cần thể hiện quyết tâm thành công như thế nào?
+	- Em sẽ nỗ lực học tập chăm chỉ
+	- Tham gia vào các hoạt động nghiên cứu và thực hành
+	- Đồng thời kết nối với các thầy cô và bạn bè để mở rộng kiến thức và kinh nghiệm
+	- Em tin rằng với sự quyết tâm và lòng kiên trì, em sẽ đạt được thành công trong ngành CNTT tại Đại học Bách Khoa.
+
+# Học tập & hoạt động
+
 - Giải thưởng
 	- Các giải thưởng: chủ yếu về môn Tin học
-	- HSG tỉnh: giải nhì lớp 10 và 12, iair 3 lớp 11, giải khuyến khích vượt cấp
+	- HSG tỉnh: giải nhì lớp 10 và 12, giải 3 lớp 11, giải khuyến khích vượt cấp
 	- Trong hè: huy chương bạc duyên hải hè 10, khuyến khích duyên hải hè 11, huy chương đồng hùng vương hè 11, giải nhì trại hè tin học miền bắc hè 11
 	- KHKT nhì tỉnh lớp 12
 	- STEM tổ chức tại trường: giải nhất
 	- Ngoài ra: chứng chỉ IELTS, 6 kì học bổng liên tiếp
 - Trình độ Tiếng Anh
-	- Từ cấp 2: tiếng Anh đã là điểm mạnh
-	- Qua việc tìm hiểu những điều em hứng thú
-	- Trình độ đã trở nên tốt hơn qua thời gian
-	- Đặc biệt là trong thời nghỉ dịch
-	- Đầu năm lớp 12: thi chứng chỉ ngoại ngữ IELTS
-	- Được 7.5, với không kĩ năng nào dưới 7.0
+	- Tiếng Việt:
+		- Từ cấp 2: tiếng Anh đã là điểm mạnh
+		- Qua việc tìm hiểu những điều em hứng thú
+		- Trình độ đã trở nên tốt hơn theo thời gian
+		- Đặc biệt là trong thời nghỉ dịch
+		- Đầu năm lớp 12: thi chứng chỉ ngoại ngữ IELTS
+		- Được 7.5, với không kĩ năng nào dưới 7.0
+	- English:
+		- From secondary school: strong skill
+		- From watching: got invested
+		- Ability: improved over time
+		- Especially: during the lock-down period
+		- Start of grade 12: got an IELTS test for english
+		- Recieve: band of 7.5, with no subskill scored less than 7.0
 - Ngoài việc học trên lớp em có tham gia các hoạt động xã hội, đoàn thể, hay môn thể thao nào không
-	- Không phải việc làm thường xuyên
-	- Nhưng: có tham gia chương
+	- Thể thao: hạn chế
+	- Thỉnh thoảng: chơi cờ vua hay cầu lông
+	- Còn môn thể thao khác: ít tham gia
+	- Tình nguyện: đi với lớp
+	- Chưa đi cá nhân
+	- Vào trường: cố gắng tham gia nhiều hoạt động hơn
+- Có ý định làm thêm không
+	- Trong những năm đầu
+		- Muốn tập trung vào học
+		- Có kiến thức nền tảng vững chắc
+		- Ra trường sớm
+		- Phấn đấu giành học bổng: chia sẻ gánh nặng với gia đình
+	- Trong năm sau:
+		  - Nếu có cơ hội: làm
+		  - Học hỏi, tích lũy kinh nghiệm thực tế
+- Ý định du học
+	- Có quan tâm
+	- Trước hết: học trong nước
+		- Rèn luyện bản thân
+		- Tích lũy kinh nghiệm
+		- Do: BK: mang tầm cỡ thế giới
+	- Sau: có nghĩ tới
+	- Dù đi hay không: phục vụ VN 
+
+# Trường 
+- Ngành, khoa, viện, trường
+	- Ngành: 64
+	- Khoa: 7
+	- Viện: 6
+	- Trung tâm: 22
+	- Trường: 5
+- Lịch sử, vị trí trong giáo dục Việt Nam
+	- Quan trọng
+		- Một trong những trường có bề dày lịch sử nhất VN
+		- Thành lập sau khi giành độc lập từ Pháp sau chiến thắng ĐBP
+		- Trường kĩ thuật đầu tiên ở VN
+	- Hiện tại
+		- Một trong những đại học kỹ thuật lớn nhất VN
+		- Được xếp vào nhóm các trường Đại học, Học viện trọng điểm của VN và thế giới
+- Điểm mạnh, nổi bật của trường
+	- Cơ sở vật chất
+		- Hàng trăm giảng đường, phòng học, phòng thí nghiệm, hội trường,... hiện đại
+		- Thư viện lớn hàng đầu ĐNÁ
+		- Khu vui chơi giải trí
+		- Kí túc xá hiện đại
+		- Câu lạc bộ
+	- Đội ngũ cán bộ giảng viên
+		- Giáo viên, giáo sư, tiến sĩ: trình độ cao, nhiều kinh nghiệm, nhiệt tình và tận tâm với nghề nghiệp
+	- Học tập
+		- Học bổng, du học, làm việc: nhiều cơ hội
+		- Giao lưu khu vực, quốc tế
+		- Nhiều ngành học
+- Hiệu trưởng
+	- Đầu: Trần Đại Nghĩa: Thiếu tướng, Chủ nhiệm Ủy ban Khoa học và Kỹ thuật Việt Nam, Thứ trưởng Bộ Công thương, Cục trưởng Cục Quân giới
+	- Hiện tại: Huỳnh Quyết Thắng: nhiều cống hiến cho trường
+	- Đáng chú ý: Tạ Quang Bửu: thứ 2: Bộ trưởng Bộ Quốc Phòng, Bộ trưởng Bộ Đại học và Trung học chuyên nghiệp, thư viện
+- Thư viện TQB
+	- Thông tin về Thư viện Tạ Quang Bửu
+		- Tổng vốn đầu tư: Hơn 200 tỉ đồng.
+		- Mô tả về thư viện:
+			- Là một trong những thư viện lớn nhất trong hệ thống thư viện đại học ở Việt Nam.
+			- Bao gồm 1 toà nhà 10 tầng với tổng diện tích 37k m².
+			- Các tầng và chức năng:
+				- Tầng 1 đến tầng 5: Hệ thống phòng đọc mở.
+				- Hai phòng học đa phương tiện với 150 máy tính mỗi phòng.
+				- Khả năng phục vụ hơn 2000 sinh viên cùng một lúc.
+	- Thông tin về máy tính tại trường
+		- Tổng số máy tính: 2.421.
+			- Dùng cho hệ thống văn phòng: 632.
+			- Dùng cho sinh viên học tập: 1.789. (> 70%)
+	- Mạng thông tin:
+		- Trang web của Thư viện:
+			- Hơn 600k đầu sách.
+			- Cung cấp truy cập đến các cơ sở dữ liệu trực tuyến như Science Direct, IEEE, ACM.
+		- Trang web của Trung tâm Mạng thông tin:
+			- Cung cấp thông tin về các dịch vụ công nghệ của  ĐH Bách khoa Hà Nội.
+	- Mơ ước được vào
+		- Thích đọc sách
+		- Nhiều tài liệu khó có thể tìm ở nơi khác
+		- -> phát triển khả năng tự học
+- Tại sao chọn ngành
+	- Tiếp cận CNTT từ nhỏ
+	- Được thầy cô chú ý, dạy dỗ
+	- Năng lực bản thân
+		- -> Tin rằng: có đủ khả năng và kinh nghiệm
+	- Luôn được tiếp cận nguồn tri thức mới
+	- Tính ứng dụng cao
+	- Tiềm năng phát triển lớn
+	- Phù hợp xu thế
+	- Có nhiều thách thức và cơ hội để khẳng định mình
+- Tại sao em chọn Bách Khoa, tại sao Bách Khoa phải chọn em?
+	- Em chọn BK:
+		- Ngôi trường uy tín
+		- Có môi trường học tập và nghiên cứu chất lượng
+	- Bách Khoa nên chọn em:
+		- Có niềm đam mê lớn với ngành CNTT
+		- Có thành tích học tập tốt
+		- Luôn sẵn sàng cống hiến, nỗ lực để phát triển bản thân và đóng góp cho cộng đồng.
+- Đăng kí ngành nguyện vọng mấy
+	- Nguyện vọng thứ 1/2
+	- IT1/IT2: 2 ngành đứng đầu BK
+		- Với kiến thức đã có
+		- Có khả năng tự học, sử dụng ngoại  ngữ và phát triển
+		- -> Có khả năng học
+	- Hơn nữa: kinh nghiệm lập trình, thiết kế, và quản lí web từ dự án KHKT:
+		- Có thể phát triển tốt hơn khi học ngành này
+- Hiểu biêt về ngành
+	- Trường Công nghệ thông tin và Truyền thông
+	- ![[Personal/University/Bách khoa\|Personal/University/Bách khoa]]
+- Dự kiến trong tương lai (Về tiến độ học tập/đi làm)
+	- Hoàn thành chương trình học trong 4 năm hoặc sớm hơn với kết quả tốt nhất có thể
+	- Sau đó sẽ tiếp tục học lên cao học
+	- Hoặc tham gia vào các dự án nghiên cứu thực tế để tích lũy kinh nghiệm làm việc trong ngành CNTT
+- Em đã tìm hiểu về học phí chưa?
+	- Đã có
+	- Thấy: hợp lý so với chất lượng đào tạo và các cơ hội học tập, nghiên cứu mà trường mang lại
+	- Có thể cao so với TN
+	- Bù lại: được học tập với đội ngũ giảng viên là những chuyên gia hàng đầu, có trình độ chuyên môn cao và nhiều kinh nghiệm trong giảng dạy và nghiên cứu
+	- Thầy cô không chỉ truyền đạt kiến thức mà còn là nguồn cảm hứng và động lực cho sinh viên.
+
+# Khác
+
+- Bách Khoa là nơi khởi đầu hay kết thúc
+	- Bách Khoa là nơi khởi đầu nhưng không phải là nơi kết thúc
+	- Khởi đầu:
+		- Xa gia đình, tự lập
+		- Chủ động lập và thực hiện kế hoạch học tập, nghiên cứu
+		- Tự lựa chọn cho mình cơ hội và cách sống
+	- Không bao giờ kết thúc:
+		- Vì ngay cả khi ra trường em vẫn sử dụng những kiến thức đã học để làm việc, để nghiên cứu…
+		- BK luôn trong trái tim em.
+- Logo BK có ý nghĩa gì
+	- **Logo Đại học Bách khoa Hà Nội**: Hình chữ nhật tỉ lệ 2x3 với compa, cuốn sách, ngôi sao vàng trên nền đỏ.
+	- **Màu vàng**: Hiểu biết công nghệ, sức trẻ, sáng tạo. Màu đỏ (đỏ đun): Nền khoa học, truyền thống, tâm huyết.
+	- **Huy hiệu**: Hình chữ nhật, cuốn sách, màu sắc ý nghĩa, compa và bánh răng.
+	- **Ý tưởng thiết kế**: Màu sắc, ngôi sao, compa, bánh răng, lấy cảm hứng từ vệ tinh nhân tạo.
+	- **Chiếc compa nghiêng**: Cảm hứng từ vệ tinh nhân tạo Liên Xô, khát vọng con người khám phá không gian.
+	- **Ý nghĩa**: Biểu tượng hoàn chỉnh cho Trường ĐHBK Hà Nội, sự phát triển và uy tín.
+- Thần tượng của em là ai
+	- Trần Đại Nghĩa
+	- Đặt nền móng xây dựng nhiều ngành khoa học
+	- Bỏ qua nhiều điều: xây dựng tổ quốc
+	- Hiệu trưởng đầu tiên của trường Đại học Bách khoa Hà Nội
+- BK là trang giấy hay cái bút
+	- Không phải
+	- Không phải trang giấy:
+		- Trang giấy: có 4 cạnh giới hạn
+		- BK: trang vẽ vô hạn
+		- Không có kết thúc
+	- Không phải cái bút:
+		- Em tự vẽ nên tương lai của em
+		- Như một bảng pha màu với toàn bộ màu sắc rực rỡ
+	- Như vậy: không phải trang giấy hay cái bút
+	- Bảng vẽ vô hạn, cho em bao điều diệu kì có thể tự tay vẽ nên

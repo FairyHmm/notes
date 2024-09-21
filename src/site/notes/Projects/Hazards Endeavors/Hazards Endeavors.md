@@ -40,11 +40,13 @@ The website was created to compete in the Science and Engineering competition (a
 This is the first project of the authors, so the organisation may not be the greatest. Regardless, the experience provided is invaluable.
 
 
-- **[[Projects/Hazards Endeavors/en/en\|en]]**
-- **qr**
-
-- [[Projects/Hazards Endeavors/Quotes\|Quotes]]
-- [[Projects/Hazards Endeavors/README\|README]]
-- **[[Projects/Hazards Endeavors/vi/vi\|vi]]**
-
+- **Documents**
+  - **[[Projects/Hazards Endeavors/Documents/en/en\|en]]**
+  - **qr**
+    - [[github.svg]]
+    - [[hazend.svg]]
+    - [[word.svg]]
+  - [[Projects/Hazards Endeavors/Documents/Quotes\|Quotes]]
+  - [[Projects/Hazards Endeavors/Code/README\|README]]
+  - **[[Projects/Hazards Endeavors/Documents/vi/vi\|vi]]**
 
