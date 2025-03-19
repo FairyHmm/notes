@@ -1,0 +1,106 @@
+:root {
+  --color-red:    hsl(0, 100%, 60%);
+  --color-orange: hsl(30, 100%, 60%);
+  --color-yellow: hsl(60, 100%, 60%);
+  --color-olive:  hsl(90, 100%, 60%);
+  --color-green:  hsl(120, 100%, 60%);
+  --color-cyan:   hsl(180, 100%, 60%);
+  --color-blue:   hsl(240, 100%, 60%);
+  --color-purple: hsl(270, 100%, 60%);
+  --color-pink:   hsl(300, 100%, 60%);
+  --color-gray:   hsl(0, 0%, 80%);
+  --color-black:  hsl(0, 0%, 0%);
+  --color-white:  hsl(0, 0%, 100%);
+
+  --mark-red:     hsl(0, 100%, 40%);
+  --mark-orange:  hsl(30, 100%, 40%);
+  --mark-yellow:  hsl(60, 100%, 40%);
+  --mark-olive:   hsl(90, 100%, 40%);
+  --mark-green:   hsl(120, 100%, 40%);
+  --mark-cyan:    hsl(180, 100%, 40%);
+  --mark-blue:    hsl(240, 100%, 40%);
+  --mark-purple:  hsl(270, 100%, 40%);
+  --mark-pink:    hsl(300, 100%, 40%);
+  --mark-gray:    hsl(0, 0%, 30%);
+  --mark-black:   hsl(0, 0%, 0%);
+  --mark-white:   hsl(0, 0%, 100%);
+}
+
+.colored span.cm-formatting-del, .colored span.cm-del, .colored del {
+  text-decoration: unset;
+}
+.colored span.red {
+  color: var(--color-red);
+}
+.colored span.orange {
+  color: var(--color-orange);
+}
+.colored span.yellow {
+  color: var(--color-yellow);
+}
+.colored span.olive {
+  color: var(--color-olive);
+}
+.colored span.green {
+  color: var(--color-green);
+}
+.colored span.cyan {
+  color: var(--color-cyan);
+}
+.colored span.blue {
+  color: var(--color-blue);
+}
+.colored span.purple {
+  color: var(--color-purple);
+}
+.colored span.pink {
+  color: var(--color-pink);
+}
+.colored span.gray {
+  color: var(--color-gray);
+}
+.colored span.black {
+  color: var(--color-black);
+}
+.colored span.white {
+  color: var(--color-white);
+}
+.colored mark {
+  color: var(--text-normal);
+}
+.colored mark.red {
+  background-color: var(--mark-red);
+}
+.colored mark.orange {
+  background-color: var(--mark-orange);
+}
+.colored mark.yellow {
+  background-color: var(--mark-yellow);
+}
+.colored mark.olive {
+  background-color: var(--mark-olive);
+}
+.colored mark.green {
+  background-color: var(--mark-green);
+}
+.colored mark.cyan {
+  background-color: var(--mark-cyan);
+}
+.colored mark.blue {
+  background-color: var(--mark-blue);
+}
+.colored mark.purple {
+  background-color: var(--mark-purple);
+}
+.colored mark.pink {
+  background-color: var(--mark-pink);
+}
+.colored mark.gray {
+  background-color: var(--mark-gray);
+}
+.colored mark.black {
+  background-color: var(--mark-black);
+}
+.colored mark.white {
+  background-color: var(--mark-white);
+}
