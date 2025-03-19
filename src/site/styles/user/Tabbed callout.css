@@ -1,0 +1,59 @@
+/*
+ a *uthor: FireIsGood
+ source: https://discord.com/channels/686053708261228577/702656734631821413/1092995965583114341
+ */
+
+[data-callout="tabbed"] {
+  outline: 1px solid var(--color-base-30);
+
+  & > .callout-title {
+    display: none;
+  }
+
+  & > .callout-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(5rem, max-content));
+    gap: 0 1rem;
+
+    & p {
+      margin: 0;
+    }
+
+    & label > input {
+      display: none;
+    }
+
+    & label {
+      width: 100%;
+      display: inline-block;
+      padding: 0.15rem 0.75ch;
+      border-radius: 0.5rem;
+
+      color: var(--text-faint);
+      border: 2px solid var(--interactive-normal);
+
+      text-align: center;
+      font-weight: bold;
+      font-size: 1.15rem;
+      cursor: pointer;
+    }
+
+    & label:has(input:checked) {
+      color: var(--text-normal);
+      border: 2px solid var(--interactive-accent);
+    }
+
+    & p:not(:has(label input:checked)) + blockquote {
+      display: none;
+    }
+
+    & > blockquote {
+      order: 999;
+      grid-column: 1 / -1;
+
+      background-color: transparent;
+      padding-left: 0;
+      border: 0;
+    }
+  }
+}

@@ -1,0 +1,4 @@
+.no-bullets .markdown-reading-view .list-bullet:after,
+.no-bullets .markdown-source-view.mod-cm6 .list-bullet:after {
+  display: none;
+} 

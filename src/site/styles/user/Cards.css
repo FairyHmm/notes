@@ -90,7 +90,7 @@ body {
   border: none;
 }
 .cards table.dataview tbody > tr > td:not(:first-child) {
-  font-size: calc(var(--table-text-size) * 0.9);
+  font-size: calc(var(--table-text-size) * 0.95);
   color: var(--text-muted);
 }
 .cards table.dataview tbody > tr > td > * {
@@ -353,7 +353,7 @@ table.dataview tbody > tr > td {
 
 @media (max-width: 400pt) {
   .cards table.dataview tbody > tr > td:not(:first-child) {
-    font-size: 80%;
+    font-size: 90%;
   }
 }
 @media (min-width: 400pt) {
@@ -384,7 +384,7 @@ table.dataview tbody > tr > td {
 /* Checklist icons */
 .cm-formatting.cm-formatting-task.cm-property {
   font-family: var(--font-monospace);
-  font-size: 90%;
+  font-size: 95%;
 }
 
 input[data-task=">"]:checked,
