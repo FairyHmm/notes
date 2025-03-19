@@ -1,9 +1,12 @@
 /* text highlights */
 /* --------------- */
 
-.theme-dark,
+.theme-dark {
+  --text-highlight-bg: var(--text-accent);
+}
+
 .theme-light {
-  --text-highlight-bg: hsl(270, 100%, 40%);
+  --text-highlight-bg: var(--text-accent);
 }
 
 /* links */
