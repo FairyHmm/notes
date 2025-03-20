@@ -18,10 +18,10 @@ Với vị thế là một trong những công ty công nghệ lớn và quan tr
 
 ## Tích cực
 ### Hỗ trợ tiếp cận và đặt khách hàng lên trước
-Từ lúc khởi đầu, <span class="green">Google</span> đã tập trung vào việc làm mọi thứ đơn giản và dễ tiếp cận nhất có thể. ^[[History of Google](https://en.wikipedia.org/wiki/History_of_Google#Beginnings)]
 ![float-right w-sm](https://zeve.au/sitecentre/uploads/2021/07/google-founders-with-google-logo.jpg)
+Từ lúc khởi đầu, <span class="green">Google</span> đã tập trung vào việc làm mọi thứ đơn giản và dễ tiếp cận nhất có thể. ^[[History of Google](https://en.wikipedia.org/wiki/History_of_Google#Beginnings)]
 > [!quote] Larry Page
-> Basically, our goal is to organize the world's information and to make it universally accessible and useful
+> Basically, our goal is to organize the world's information and to make it universally accessible and useful. ^[[Google's Our approach](https://www.google.com/intl/en_us/search/howsearchworks/our-approach/)]
 
 ##### <span class="green">Google Search</span>
 
@@ -30,11 +30,7 @@ Khi <span class="green">Google</span> ra đời, <span class="orange">AltaVista<
 
 Tuy nhiên, không chỉ dừng lại ở công nghệ, <span class="green">Google</span> còn đặt đạo đức doanh nghiệp lên hàng đầu. Hãng cam kết minh bạch, công bằng trong cách hiển thị thông tin, đảm bảo người dùng nhận được kết quả khách quan. Chính sự tin cậy này đã giúp <span class="green">Google</span> trở thành công cụ tìm kiếm hàng đầu thế giới ở thời điểm hiện tại.
 
-<div style="text-align: center; display: flex; height: 300px; gap: 10px">
-	<img src="https://snoo.habedieeh.re/img/0h12kp93j1hd1.png">
-	<img src="https://www.versionmuseum.com/images/websites/google-search/google-search%5E1999%5Esearch-homepage.png">
-</div>
-
+![float w-sm](https://snoo.habedieeh.re/img/0h12kp93j1hd1.png)![float w-sm](https://www.versionmuseum.com/images/websites/google-search/google-search%5E1999%5Esearch-homepage.png)
 ##### <span class="green">Gmail</span>/<span class="green">Google Drive</span>
 <span class="green">Gmail</span> là một trong những dịch vụ email phổ biến nhất hiện nay, và gần như ai cũng có ít nhất một tài khoản.
 ![float-right w-sm](https://imgix.bustle.com/rehost/2016/9/13/991f15f7-b956-4edd-a947-f92cbf9fca55.png?w=614&h=339&fit=crop&crop=faces)
@@ -57,15 +53,25 @@ So với nhiều công ty công nghệ lớn khác, nơi áp lực cao và văn 
 
 ### Củng cố sáng tạo
 ![float-right w-sm](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgamefromscratch.com%2Fwp-content%2Fuploads%2F2021%2F03%2FGoogleSummerOfCode2021.jpg&f=1&nofb=1&ipt=5def2e3ec718007859fdfb8349ec2683d8e51a539267efceb175a3f8c5361d03&ipo=images)
-<span class="green">Google</span> khuyến khích sáng tạo không chỉ trong nội bộ công ty mà còn thông qua việc hỗ trợ các dự án của học sinh, sinh viên trên toàn cầu. Một trong những chương trình tiêu biểu là **<span class="green">Google</span> Summer of Code (GSoC)**, nơi sinh viên được hướng dẫn và làm việc với các tổ chức mã nguồn mở để phát triển phần mềm thực tế, hoặc cuộc thi **<span class="green">Google</span> Science Fair**, khuyến khích học sinh trung học nghiên cứu và sáng tạo trong các lĩnh vực khoa học, công nghệ.
-![float-right w-sm](https://scontent.fhan14-4.fna.fbcdn.net/v/t39.30808-6/480632768_617423200919821_3782598376045468648_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHWbG4C4RI-53B9UGUHduBoszKEa8S_8pKzMoRrxL_ykmj3JjanNwSPAj2DtSgdM1HczLkwdIIC4rpgBw4wQ4Ke&_nc_ohc=nJm3Kn0z2DsQ7kNvgFHUXMp&_nc_oc=Adl9XuXmXCUNpcXdVsMYsnqIy9kOabymBkn0G-TDDvmy7vhpdqX_XMSQuOMm4lfPx5t4zZZ_i9j2JtWPAU_FoCZ8&_nc_zt=23&_nc_ht=scontent.fhan14-4.fna&_nc_gid=ur7M9v7GPICBCN2St8oJ_g&oh=00_AYEP4xtdbS4EH6qgooML0cCdE6AP42z1_3_VLHP02l7qow&oe=67E1634D)
-Ngay cả trong trường mình, **Đại học Bách khoa Hà Nội**, <span class="green">Google</span> hỗ trợ **GDG-HUST** thông qua nhiều chương trình và tài nguyên giúp sinh viên phát triển kỹ năng công nghệ và kết nối với cộng đồng lập trình toàn cầu. Là một phần của hệ thống **<span class="green">Google</span> Developer Groups (GDG)**, GDG-HUST nhận được tài trợ về công nghệ, nội dung đào tạo, và diễn giả từ Google để tổ chức các sự kiện, workshop và hackathon. ^[[GDG-HUST](https://gdgoc.org/)]
+<span class="green">Google</span> khuyến khích sáng tạo không chỉ trong nội bộ công ty mà còn thông qua việc hỗ trợ các dự án của học sinh, sinh viên trên toàn cầu. Một trong những chương trình tiêu biểu là <span class="green">Google Summer of Code (GSoC)</span>, nơi sinh viên được hướng dẫn và làm việc với các tổ chức mã nguồn mở để phát triển phần mềm thực tế, hoặc cuộc thi <span class="green">Google Science Fair</span>, khuyến khích học sinh trung học nghiên cứu và sáng tạo trong các lĩnh vực khoa học, công nghệ.
+![float-right w-sm](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D525502846778524&f=1&nofb=1&ipt=655c914ed236a0f20936bf8145ef60a214e3168f7c4db37770e8155c095c2b41&ipo=images)
+Ngay cả trong trường mình,<span class="red">Đại học Bách khoa Hà Nội</span>, <span class="green">Google</span> hỗ trợ <span class="red">GDG-HUST</span> thông qua nhiều chương trình và tài nguyên giúp sinh viên phát triển kỹ năng công nghệ và kết nối với cộng đồng lập trình toàn cầu. Là một phần của hệ thống <span class="green">Google Developer Groups (GDG)</span>, <span class="red">GDG-HUST</span> nhận được tài trợ về công nghệ, nội dung đào tạo, và diễn giả từ Google để tổ chức các sự kiện, workshop và hackathon. ^[[GDG-HUST](https://gdgoc.org/)]
 
 ## Tiêu cực
 
 ### Thông tin người dùng
+![float-right w-sm](https://techstory.in/wp-content/uploads/2021/02/google_magnifyingglass-768x576.jpg)
+<span class="green">Google</span> là một trong những công ti cung cấp nhiều dịch vụ cho người dùng nhất. Tuy nhiên, nó cũng là một trong những công ti quảng cáo lớn nhất, và gần đây, một trong những công ti huấn luyện trí thông minh nhân tạo to nhất. Điều này đặt ra nhiều câu hỏi về đạo đức trong việc thu thập và sử dụng dữ liệu người dùng. <span class="green">Google</span> thu thập lượng lớn thông tin từ các dịch vụ như <span class="green">tìm kiếm</span>, <span class="green">YouTube</span>, <span class="green">Gmail</span>, <span class="green">Google Maps</span>, nhằm cá nhân hóa trải nghiệm và tối ưu hóa quảng cáo. Mặc dù công ty cam kết minh bạch về quyền riêng tư, nhiều người lo ngại về mức độ kiểm soát mà người dùng thực sự có đối với dữ liệu của mình. ^[[Controversies](https://en.wikipedia.org/wiki/Google#Criticism_and_controversies)]
+![float-right w-sm](https://cdn.neowin.com/news/images/uploaded/2024/05/1715805881_google_gemini_hero_image_story.jpg)
+Việc sử dụng dữ liệu này cũng góp phần huấn luyện AI, đặt ra lo ngại về quyền riêng tư và trách nhiệm đạo đức. <span class="green">Google</span> đã cung cấp các công cụ như <span class="green">Google Takeout</span> và <span class="green">My Activity</span> để giúp người dùng kiểm soát dữ liệu cá nhân, tuy nhiên, nhiều ý kiến cho rằng mức độ kiểm soát của người dùng vẫn còn hạn chế, và việc dữ liệu được sử dụng ra sao trong các hệ thống AI chưa thực sự rõ ràng. Nó cũng đặt câu hỏi về bản quyền, do một phần lớn dữ liệu để đào tại AI là vẫn còn bản quyền, và được tải xuống một cách bất hợp pháp. ^[[Contriversies](https://en.wikipedia.org/wiki/Gemini_(chatbot)#Critical_response)]
+![float-right w-sm](https://rboa.com/wp-content/uploads/2018/05/gdpr.jpg)
+<span class="green">Google</span>, cùng với những công ti công nghệ lớn khác như <span class="blue">Facebook</span>, <span class="orange">Amazon</span>, <span class="gray">Apple</span>, ..., cũng là những công ti bị phạt nhiều nhất bởi quy định GDPR, một quy định bảo vệ thông tin người dân trong hiệp hội châu Âu ^[[Fines](https://www.enforcementtracker.com/?insights)]. Cũng có những phong trào <span class="green">De-Google</span>, <span class="purple">De-FAANG</span> mà mọi người giảm sử dụng các sản phầm từ các công ti này để bảo vệ quyền riêng tư của mình ^[[DeGoogle](https://en.wikipedia.org/wiki/DeGoogle)].
 
 ### Độc quyền thị trường
+![float-right w-sm](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.applicoinc.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fgoogle-monopoly.jpg&f=1&nofb=1&ipt=3df7a452aca9937599d655394f4772168ff7542e908dad3e85d8b7db9572abb8&ipo=images)
+Việc <span class="green">Google</span> thống trị thị trường <span class="green">tìm kiếm</span>, <span class="green">trình duyệt lên mạng</span>, <span class="green">quảng cáo trực tuyến</span>, và cả <span class="green">hệ điều hành di động</span> đặt ra nhiều câu hỏi về độc quyền và đạo đức kinh doanh. Với 90% thị phần tìm kiếm toàn cầu ^[[Search engine percentage](https://gs.statcounter.com/search-engine-market-share)], <span class="green">Google</span> có ảnh hưởng lớn đến cách thông tin được hiển thị và tiếp cận. Trong lĩnh vực quảng cáo, <span class="green">Google</span> kiểm soát một phần đáng kể doanh thu quảng cáo trực tuyến, gây khó khăn cho các đối thủ nhỏ hơn, và còn tạo vấn đề với những người không muốn dùng sản phẩm này. <span class="green">Google</span> cũng bị nghi ngờ là làm dịch vụ của mình chạy chậm hơn trên các trình duyệt khác.
+
+Nhiều cơ quan quản lý đã điều tra và kiện <span class="green">Google</span> vì hành vi chống cạnh tranh, điển hình là vụ kiện của <span class="blue">Bộ Tư pháp Mỹ</span> về việc <span class="green">Google</span> duy trì vị trí độc quyền trong tìm kiếm bằng cách trả hàng tỷ USD để trở thành công cụ mặc định trên các trình duyệt và thiết bị. Mặc dù <span class="green">Google</span> lập luận rằng thành công của họ đến từ chất lượng dịch vụ, việc một công ty có quá nhiều quyền kiểm soát thị trường có thể làm giảm tính cạnh tranh và hạn chế sự đổi mới. Điều này đặt ra câu hỏi về trách nhiệm đạo đức của <span class="green">Google</span> trong việc đảm bảo một môi trường công bằng cho người dùng và doanh nghiệp khác. ^[[Antitrust](https://en.wikipedia.org/wiki/Criticism_of_Google#Antitrust)]
 
 ### Che đậy thông tin
 
