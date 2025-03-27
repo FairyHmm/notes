@@ -2,29 +2,44 @@
 {"dg-publish":true,"permalink":"/Studies/University/Year 1/T2/EM1180 - Business Culture and Entrepreneurship/Project/Summary - slides/"}
 ---
 
+> [!warning] Chú ý
+> - Giữa mỗi 2 gạch dài là khoảng một slide
+> - Phần "comment" là phần đọc, không cho vào slide
+> - Ở thanh bên phải của trang web, có thể thấy rõ ràng chia phần hơn (mở trên máy tính)
+> - Các tiêu đề to: mở đầu của phần
+> - Các tiêu đề nhỏ: phía trên của slide
+
 ---
 
-<br>
+## Trình Bày về Đạo Đức Kinh Doanh và Trách Nhiệm Xã Hội của Doanh Nghiệp Google
 
-> [!aside blank|clean right]
->  EM1180
->  
-# Văn hoá kinh doanh và tinh thần khởi nghiệp
+> [!caption|p+r]
+> ![h-t](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogopng.com.br%2Flogos%2Fgoogle-37.png&f=1&nofb=1&ipt=d89ad430cf1c0413af5203a9e82138fe7cc0946c4b5653e8c4d72b4650416c5e&ipo=images)
 
-> [!columns blank]
-> > [!info] Chủ đề
-> > Trình bày về Đạo đức kinh doanh và Trách nhiệm xã hội của một doanh nghiệp cụ thể
+*Môn học: Văn hoá kinh doanh và tinh thần khởi nghiệp - EM1180*
+<h3>Nhóm 5</h3>
+
+> [!columns blank|3]
 > 
-> > [!info] Công ti
-> > Google
+> > [!blank]
+> > ######  Thành viên
+> > Cù Thị Như Quỳnh
+> > Phạm Mai Anh
+> > Nguyễn Thị Khánh Vân
+> > Nguyễn Phi Hoàng
+> > Vũ Phúc Hưng
+>
+> > [!blank]
+> > ######  MSSV
+> > 20230498 
+> > 20230324 
+> > 20230544 
+> > 202416209
+> > 202416512
+> 
+> > [!blank]
+> > ###### Nhiệm vụ
 
-| Thành viên           | MSSV      |
-| -------------------- | --------- |
-| Cù Thị Như Quỳnh     | 20230498  |
-| Phạm Mai Anh         | 20230324  |
-| Nguyễn Thị Khánh Vân | 20230544  |
-| Nguyễn Phi Hoàng     | 202416209 |
-| Vũ Phúc Hưng         | 202416512 |
 
 ---
 
@@ -41,7 +56,14 @@
 ---
 
 > [!comment|c-gray]
-> Trải qua nhiều thập kỷ, sự phát triển của xã hội và nền kinh tế đặc biệt trong thời đại khoa học công nghệ, quá trình toàn cầu hóa và hội nhập kinh tế quốc tế đã để lại nhiều dấu mốc lịch sử. Các tập đoàn, doanh nghiệp tăng trưởng cùng với sự đóng góp mạnh mẽ vào nhiều lĩnh vực khác nhau trong đời sống xã hội, cụ thể là tạo ra cơ hội việc làm cho người lao động, nâng cao chất lượng cuộc sống, đào tạo nguồn lực trẻ tiềm năng, đóng góp cho ngân sách quốc gia thông qua thuế, thúc đẩy thay đổi cơ cấu thị trường…
+> Qua nhiều thập kỷ, sự phát triển của xã hội và kinh tế, đặc biệt trong bối cảnh công nghệ và toàn cầu hóa, đã tạo ra nhiều dấu ấn quan trọng.
+> Các doanh nghiệp tăng trưởng cùng với sự đóng góp mạnh mẽ vào nhiều lĩnh vực khác nhau trong đời sống xã hội, như
+> - Tạo ra cơ hội việc làm cho người lao động
+> - Nâng cao chất lượng cuộc sống
+> - Đào tạo nguồn lực trẻ tiềm năng
+> - Đóng góp cho ngân sách quốc gia thông qua thuế
+> - Thúc đẩy thay đổi cơ cấu thị trường
+> - ...
 ### Tác Động của Doanh Nghiệp trong Kỷ Nguyên Toàn Cầu Hóa
 
 > [!cards|2]
@@ -68,7 +90,7 @@
 > Nhưng song song đó, sự cạnh tranh đã làm xuất hiện mặt tiêu cực bất chấp yếu tố đạo đức. Nhiều doanh nghiệp sai phạm trong sản xuất, bóc lột người lao động, đưa thông tin sai lệch nhằm đạt mục đích trục lợi đã gây ra những hậu quả nghiêm trọng cho cả doanh nghiệp lẫn cộng đồng.
 ### Mức Ảnh Hưởng của Đạo Đức Kinh Doanh
 
-#### Cạnh tranh khốc liệt dẫn đến hành vi kinh doanh phi đạo đức
+**Cạnh tranh khốc liệt dẫn đến hành vi kinh doanh phi đạo đức**
 > [!cards|3] 
 > > [!caption]
 > > ![h-s](https://forcedbondedlabor.weebly.com/uploads/1/2/1/1/12112410/5419599.jpg)
@@ -82,21 +104,16 @@
 > > ![h-s](https://images.theconversation.com/files/478854/original/file-20220812-23614-yzrutc.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
 > > Thao túng thông tin
 
-#### ⇒ Gây tổn hại cho doanh nghiệp & cộng đồng
+**⇒ Gây tổn hại cho doanh nghiệp & cộng đồng**
 
 ---
 
 > [!comment|c-gray]
-> Vì vậy để phát triển bền vững, đạo đức kinh doanh là yếu tố quan trọng giúp doanh nghiệp nhận được sự tin tưởng, tín nhiệm của người dùng cũng như người lao động, đảm bảo uy tín và duy trì lợi thế cạnh tranh lâu dài với các doanh nghiệp khác. Đạo đức kinh doanh là chìa khóa để doanh nghiệp tồn tại và phát triển thành công bền vững.
+> Vì vậy để phát triển bền vững, đạo đức kinh doanh là yếu tố quan trọng giúp doanh nghiệp được tin tưởng, tín nhiệm của người dùng và người lao động, đảm bảo uy tín và duy trì lợi thế cạnh tranh lâu dài. Đạo đức kinh doanh là chìa khóa để doanh nghiệp tồn tại và phát triển thành công bền vững.
 
-### Đạo Đức Kinh Doanh - cách Phát Triển Bền Vững
+### Đạo Đức Kinh Doanh - Cách Phát Triển Bền Vững
 
-Đạo đức kinh doanh giúp doanh nghiệp:
-- Xây dựng niềm tin & uy tín với khách hàng và nhân viên.
-- Duy trì lợi thế cạnh tranh dài hạn.
-- Phát triển bền vững & thành công.
-
-#### Đạo đức kinh doanh giúp doanh nghiệp:
+**Đạo đức kinh doanh giúp doanh nghiệp:**
 
 > [!cards|3] 
 > > [!caption]
@@ -113,8 +130,79 @@
 
 ---
 
-Sau quá trình học tập từ bài giảng của cô, chúng em nhận thức được tầm quan trọng của đạo đức kinh doanh đối với doanh nghiệp, nhóm em đã tìm hiểu, nghiên cứu về đề tài này. Thông qua đó chúng em đã có hiểu biết để nhìn nhận về những nguyên tắc và khía cạnh đạo đức kinh doanh mà doanh nghiệp Google đang áp dụng trong thực tiễn.
+> [!comment|c-gray]
+> Sau quá trình học tập từ bài giảng, chúng em nhận thức được tầm quan trọng của đạo đức kinh doanh đối với doanh nghiệp. Nhóm em đã tìm hiểu, nghiên cứu về đề tài này, và thông qua đó đã có hiểu biết để nhìn nhận về những nguyên tắc và khía cạnh đạo đức kinh doanh mà doanh nghiệp Google đang áp dụng trong thực tiễn.
+> 
+> Trong quá trình làm có thể còn nhiều thiếu sót, nhóm chúng em rất mong sẽ nhận được những đánh giá từ cô để bài báo cáo được hoàn thiện hơn.
+> 
+> Chúng em xin chân thành cảm ơn!
 
-Trong quá trình làm báo cáo có thể còn nhiều thiếu sót, nhóm chúng em rất mong sẽ nhận được những đánh giá từ cô để bài báo cáo được hoàn thiện hơn.
+> [!columns blank]
+>
+> > [!caption]
+> > ![h-s](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fscales-png-2.png&f=1&nofb=1&ipt=c79de61ac70da5ce8a84c0772fa3e92c9b8c46cca6cafbcf3c0bdf3bcf22c585&ipo=images)
+>
+> > [!caption]
+> > ![h-s](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/250px-Google_2015_logo.svg.png)
 
-Chúng em xin chân thành cảm ơn!
+---
+
+# Cơ Sở Lý Thuyết về Văn Hóa Kinh Doanh
+
+![h-s](http://clipart-library.com/images_k/businessman-silhouette-png/businessman-silhouette-png-5.png)
+
+---
+
+> [!comment|c-gray]
+> Văn hóa là tổng hòa những giá trị vật chất và tinh thần, cũng như các phương thức tạo ra chúng, kỹ năng sử dụng các giá trị đó vì sự tiến bộ của loài người, và sự truyền thụ các giá trị đó từ thế hệ này sang thế hệ khác.
+
+## Văn Hoá theo Triết Học Mác - Lênin
+
+**Văn hoá:**
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://quyn.vn/wp-content/uploads/2021/04/21.jpg)
+> > Giá trị vật chất & tinh thần
+> 
+> > [!caption]
+> > ![h-s](https://gomphuctaman.com/wp-content/uploads/2022/07/san-pham-thu-cong-my-nghe-tu-dua.jpg)
+> > Phương thức sáng tạo & sử dụng vì sự tiến bộ
+> 
+> > [!caption]
+> > ![h-s](https://top10review.com.vn/wp-content/uploads/2022/11/10-phim-truong-chup-hinh-ao-dai-chuan-viet-nam-nhat-11.jpg)
+> > Truyền từ thế hệ này sang thế hệ khác
+
+---
+
+> [!comment|c-gray]
+> VD: Tín ngưỡng thờ cúng Hùng Vương là một nét văn hóa đặc sắc của Việt Nam, thể hiện lòng biết ơn tổ tiên và tinh thần đoàn kết dân tộc. Hằng năm, vào ngày 10/3 Âm lịch, người dân khắp cả nước hành hương về Đền Hùng (Phú Thọ) để dâng hương tưởng nhớ các Vua Hùng - những người được xem là thủy tổ của dân tộc Việt Nam.
+>
+> Không chỉ là nghi lễ tôn giáo, tín ngưỡng này còn phản ánh sâu sắc ý thức về nguồn cội, lòng tự hào dân tộc, và đạo lý "Uống nước nhớ nguồn" của người Việt. UNESCO đã công nhận đây là Di sản văn hóa phi vật thể đại diện của nhân loại, khẳng định giá trị và ý nghĩa sâu sắc của truyền thống này.
+
+## Khái Niệm Văn Hoá theo Triết Học Mác - Lênin
+
+**Ví dụ:** Tín ngưỡng thờ cúng Hùng Vương
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://upload.wikimedia.org/wikipedia/commons/f/ff/T%C6%B0%E1%BB%A3ng_H%C3%B9ng_V%C6%B0%C6%A1ng_t%E1%BA%A1i_%C4%90%E1%BB%81n_H%C3%B9ng%2C_Tao_%C4%90%C3%A0n%2C_th%C3%A1ng_12_n%C4%83m_2021_%2812%29.jpg)
+> > Tượng Vua Hùng
+> 
+> > [!caption]
+> > ![h-s](https://upload.wikimedia.org/wikipedia/commons/b/bc/%C4%90%E1%BB%81n_H%C3%B9ng.JPG)
+> > Đền Hùng Phú Thọ
+> 
+> > [!caption]
+> > ![h-s](https://statics.vinpearl.com/le-hoi-den-hung-1_1677852028.jpg)
+> > Hành hương ở Đền Hùng
+
+---
+
+> [!comment|c-gray]
+> Văn hóa doanh nhân là hệ thống các giá trị, các chuẩn mực, các quan niệm và hành vi của doanh nhân trong quá trình lãnh đạo và quản lý doanh nghiệp.
+
+## Văn Hoá Doanh Nhân
+
