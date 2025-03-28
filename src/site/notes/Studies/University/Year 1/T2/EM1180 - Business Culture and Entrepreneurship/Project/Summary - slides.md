@@ -13,16 +13,15 @@
 
 ## Trình Bày về Đạo Đức Kinh Doanh và Trách Nhiệm Xã Hội của Doanh Nghiệp Google
 
-> [!caption|p+r]
-> ![h-t](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogopng.com.br%2Flogos%2Fgoogle-37.png&f=1&nofb=1&ipt=d89ad430cf1c0413af5203a9e82138fe7cc0946c4b5653e8c4d72b4650416c5e&ipo=images)
-
 *Môn học: Văn hoá kinh doanh và tinh thần khởi nghiệp - EM1180*
-<h3>Nhóm 5</h3>
+
+---
+### Nhóm 5
 
 > [!columns blank|3]
 > 
 > > [!blank]
-> > ######  Thành viên
+> > <h6>Thành viên</h6>
 > > Cù Thị Như Quỳnh
 > > Phạm Mai Anh
 > > Nguyễn Thị Khánh Vân
@@ -30,7 +29,7 @@
 > > Vũ Phúc Hưng
 >
 > > [!blank]
-> > ######  MSSV
+> > <h6>MSSV</h6>
 > > 20230498 
 > > 20230324 
 > > 20230544 
@@ -38,12 +37,14 @@
 > > 202416512
 > 
 > > [!blank]
-> > ###### Nhiệm vụ
+> > <h6>Nhiệm vụ</h6>
 
 
 ---
 
 # Lời Mở Đầu
+
+---
 
 > [!blank]
 > 
@@ -109,7 +110,7 @@
 ---
 
 > [!comment|c-gray]
-> Vì vậy để phát triển bền vững, đạo đức kinh doanh là yếu tố quan trọng giúp doanh nghiệp được tin tưởng, tín nhiệm của người dùng và người lao động, đảm bảo uy tín và duy trì lợi thế cạnh tranh lâu dài. Đạo đức kinh doanh là chìa khóa để doanh nghiệp tồn tại và phát triển thành công bền vững.
+> Vì vậy để phát triển bền vững, đạo đức kinh doanh là yếu tố quan trọng giúp doanh nghiệp được tin tưởng, tín nhiệm của người dùng và người lao động, đảm bảo uy tín và duy trì lợi thế cạnh tranh lâu dài. ĐĐKD là chìa khóa để doanh nghiệp tồn tại và phát triển thành công bền vững.
 
 ### Đạo Đức Kinh Doanh - Cách Phát Triển Bền Vững
 
@@ -131,7 +132,7 @@
 ---
 
 > [!comment|c-gray]
-> Sau quá trình học tập từ bài giảng, chúng em nhận thức được tầm quan trọng của đạo đức kinh doanh đối với doanh nghiệp. Nhóm em đã tìm hiểu, nghiên cứu về đề tài này, và thông qua đó đã có hiểu biết để nhìn nhận về những nguyên tắc và khía cạnh đạo đức kinh doanh mà doanh nghiệp Google đang áp dụng trong thực tiễn.
+> Sau quá trình học tập từ bài giảng, chúng em nhận thức được tầm quan trọng của ĐĐKD đối với doanh nghiệp. Nhóm em đã tìm hiểu, nghiên cứu về đề tài này, và thông qua đó đã có hiểu biết để nhìn nhận về những nguyên tắc và khía cạnh ĐĐKD mà doanh nghiệp Google đang áp dụng trong thực tiễn.
 > 
 > Trong quá trình làm có thể còn nhiều thiếu sót, nhóm chúng em rất mong sẽ nhận được những đánh giá từ cô để bài báo cáo được hoàn thiện hơn.
 > 
@@ -177,9 +178,8 @@
 ---
 
 > [!comment|c-gray]
-> VD: Tín ngưỡng thờ cúng Hùng Vương là một nét văn hóa đặc sắc của Việt Nam, thể hiện lòng biết ơn tổ tiên và tinh thần đoàn kết dân tộc. Hằng năm, vào ngày 10/3 Âm lịch, người dân khắp cả nước hành hương về Đền Hùng (Phú Thọ) để dâng hương tưởng nhớ các Vua Hùng - những người được xem là thủy tổ của dân tộc Việt Nam.
->
-> Không chỉ là nghi lễ tôn giáo, tín ngưỡng này còn phản ánh sâu sắc ý thức về nguồn cội, lòng tự hào dân tộc, và đạo lý "Uống nước nhớ nguồn" của người Việt. UNESCO đã công nhận đây là Di sản văn hóa phi vật thể đại diện của nhân loại, khẳng định giá trị và ý nghĩa sâu sắc của truyền thống này.
+> VD: Tín ngưỡng thờ cúng Hùng Vương là một nét văn hóa đặc sắc của Việt Nam, thể hiện lòng biết ơn tổ tiên và đoàn kết dân tộc. Hằng năm, người dân khắp cả nước hành hương về Đền Hùng để dâng hương tưởng nhớ các Vua Hùng.
+> Không chỉ là nghi lễ tôn giáo, tín ngưỡng này còn phản ánh sâu sắc ý thức về nguồn cội, lòng tự hào dân tộc, và đạo lý "Uống nước nhớ nguồn". UNESCO đã công nhận đây là Di sản văn hóa phi vật thể đại diện của nhân loại, khẳng định giá trị và ý nghĩa sâu sắc của truyền thống này.
 
 ## Khái Niệm Văn Hoá theo Triết Học Mác - Lênin
 
@@ -202,7 +202,118 @@
 ---
 
 > [!comment|c-gray]
-> Văn hóa doanh nhân là hệ thống các giá trị, các chuẩn mực, các quan niệm và hành vi của doanh nhân trong quá trình lãnh đạo và quản lý doanh nghiệp.
+> Văn hóa doanh nhân là hệ thống các giá trị, chuẩn mực, quan niệm, và hành vi của doanh nhân trong quá trình lãnh đạo và quản lý doanh nghiệp.
 
 ## Văn Hoá Doanh Nhân
 
+```mermaid
+flowchart LR
+  A(Hệ thống các)
+  B(Giá trị)
+  C(Chuẩn mực)
+  D(Quan niệm)
+  E(Hành vi)
+  F(của doanh nhân)
+
+  A --- B & C & D & E --- F
+```
+
+---
+> [!comment|c-gray]
+> Lãnh đạo không chỉ là điều hành, mà còn là khả năng truyền cảm hứng, định hướng, và xây dựng môi trường làm việc tích cực. Một doanh nhân có văn hóa lãnh đạo tốt sẽ đề cao tính minh bạch, trách nhiệm, sáng tạo và tinh thần hợp tác. Họ không chỉ ra quyết định, mà còn biết lắng nghe, tạo động lực cho nhân viên, và dẫn dắt tổ chức phát triển theo hướng bền vững.
+
+## Văn Hoá Doanh Nhân trong Lãnh Đạo
+
+```mermaid
+graph LR
+    A[Lãnh đạo] -->|Trách nhiệm chính|B
+    A -->|Giá trị cốt lõi|C
+    A -->|Kỹ năng quan trọng|D 
+
+    subgraph B[" "]
+        B1[Điều hành]
+        B2[Truyền cảm hứng] 
+        B3[Định hướng<br>tầm nhìn] 
+        B4[Xây dựng<br>môi trường]
+        B1 & B2 ~~~ B3 & B4
+    end
+
+    subgraph C[" "]
+        C1[Minh bạch] 
+        C2[Trách nhiệm] 
+        C3[Sáng tạo] 
+        C4[Hợp tác]
+        C1 & C2 ~~~ C3 & C4
+    end
+
+    subgraph D[" "]
+        D1[Ra quyết định] 
+        D2[Lắng nghe<br>nhân viên] 
+        D3[Tạo động lực] 
+        D4[Dẫn dắt<br>phát triển]
+        D1 & D2 ~~~ D3 & D4
+    end
+```
+
+---
+
+> [!comment|c-gray]
+> VD: Phạm Nhật Vượng là một nhà lãnh đạo có tầm nhìn dài hạn và tinh thần tiên phong. Ông không ngừng đổi mới, thúc đẩy sự sáng tạo, và đưa thương hiệu Việt vươn tầm thế giới. Dưới sự dẫn dắt của ông, Vingroup đã mở rộng sang nhiều lĩnh vực, với VinFast trở thành biểu tượng của công nghiệp hóa. Ông đề cao trách nhiệm xã hội, tạo động lực cho nhân viên và hướng doanh nghiệp phát triển bền vững.
+
+## Văn Hoá Doanh Nhân trong Lãnh Đạo
+
+**Ví dụ:**
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://batdongsanonline.vn/uploads/baiviet/Traffic/chu-tich-vingroup-pham-nhat-vuong.jpg)
+> > Phạm Nhật Vượng
+> 
+> > [!caption]
+> > ![h-s](https://images.hgmsites.net/hug/vinfast-vf7_100822965_h.jpg)
+> > Xe điện Vinfast VF7
+> 
+> > [!caption]
+> > ![h-s](https://ircdn.vingroup.net/storage/Uploads/0_Tintuchoatdong/2021/Nov/VinIF.jpg)
+> > Vingroup trao học bổng
+
+---
+
+> [!comment|c-gray]
+> Trong quản lý, VHDN thể hiện qua cách doanh nhân tổ chức, vận hành doanh nghiệp và giải quyết các vấn đề nội bộ. Một doanh nhân có văn hóa quản lý chuyên nghiệp sẽ chú trọng đến việc xây dựng quy trình làm việc hiệu quả, phân công công việc hợp lý, tạo môi trường làm việc công bằng và thúc đẩy sự phát triển cá nhân của nhân viên.
+
+## Văn Hoá Doanh Nhân trong Quản Lý
+
+```mermaid
+graph LR
+    A[Quản lý] -->|Tổ chức &<br>Vận hành| B
+    
+    subgraph B[" "]
+        B1[Quy trình<br>hiệu quả]
+        B2[Phân công<br>hợp lý]
+        B3[Môi trường<br>công bằng]
+        B4[Thúc đẩy<br>phát triển]
+        B1 ~~~ B2 ~~~ B3 ~~~ B4
+    end
+
+```
+
+---
+
+> [!comment|c-gray]
+> VD: Howard Schultz (hao wát shâu), cựu CEO Starbucks, không chỉ tạo ra một thương hiệu thành công, mà còn thiết lập VHDN lấy con người làm trung tâm. Ông áp dụng các chính sách phúc lợi tốt, như cung cấp bảo hiểm y tế và hỗ trợ học phí đại học. Cách quản lý này không chỉ giúp Starbucks giữ chân nhân tài, mà còn tạo ra một môi trường làm việc tích cực, góp phần nâng cao giá trị thương hiệu.
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://s3.amazonaws.com/static.beavercountyradio.com/wp-content/uploads/2019/02/14134545/Howard-Schultz.jpg)
+> > Howard Schultz
+> 
+> > [!caption]
+> > ![h-s](https://i.pinimg.com/originals/69/ba/2b/69ba2b5d6e288eea6386e774d744e522.jpg)
+> > Soy Latte
+> 
+> > [!caption]
+> > ![h-s](https://ircdn.vingroup.net/storage/Uploads/0_Tintuchoatdong/2021/Nov/VinIF.jpg)
+> > Vingroup trao học bổng
