@@ -235,7 +235,6 @@ graph LR
         B2[Truyền cảm hứng] 
         B3[Định hướng<br/>tầm nhìn] 
         B4[Xây dựng<br/>môi trường]
-        B1 & B2 ~~~ B3 & B4
     end
 
     subgraph C[" "]
@@ -243,7 +242,6 @@ graph LR
         C2[Trách nhiệm] 
         C3[Sáng tạo] 
         C4[Hợp tác]
-        C1 & C2 ~~~ C3 & C4
     end
 
     subgraph D[" "]
@@ -251,7 +249,6 @@ graph LR
         D2[Lắng nghe<br/>nhân viên] 
         D3[Tạo động lực] 
         D4[Dẫn dắt<br/>phát triển]
-        D1 & D2 ~~~ D3 & D4
     end
 ```
 
@@ -264,7 +261,7 @@ graph LR
 
 ```mermaid
 graph LR
-    A[Quản lý] -->|Tổ chức &<br/>Vận hành| B
+    A[Quản lý] -->|Tổ chức,<br/>Vận hành| B
     
     subgraph B[" "]
         B1[Quy trình<br/>hiệu quả]
