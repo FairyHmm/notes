@@ -11,7 +11,7 @@
 
 ---
 
-## Trình Bày về Đạo Đức Kinh Doanh và Trách Nhiệm Xã Hội của Doanh Nghiệp Google
+## Trình bày về Đạo đức Kinh doanh và Trách nhiệm Xã hội của Doanh nghiệp Google
 
 *Môn học: Văn hoá kinh doanh và tinh thần khởi nghiệp - EM1180*
 
@@ -42,7 +42,7 @@
 
 ---
 
-# Lời Mở Đầu
+# Lời Mở đầu
 
 ---
 
@@ -65,7 +65,8 @@
 > - Đóng góp cho ngân sách quốc gia thông qua thuế
 > - Thúc đẩy thay đổi cơ cấu thị trường
 > - ...
-### Tác Động của Doanh Nghiệp trong Kỷ Nguyên Toàn Cầu Hóa
+
+### Tác động của Doanh nghiệp trong Kỷ nguyên Toàn cầu hóa
 
 > [!cards|2]
 > 
@@ -89,9 +90,10 @@
 
 > [!comment|c-gray] 
 > Nhưng song song đó, sự cạnh tranh đã làm xuất hiện mặt tiêu cực bất chấp yếu tố đạo đức. Nhiều doanh nghiệp sai phạm trong sản xuất, bóc lột người lao động, đưa thông tin sai lệch nhằm đạt mục đích trục lợi đã gây ra những hậu quả nghiêm trọng cho cả doanh nghiệp lẫn cộng đồng.
-### Mức Ảnh Hưởng của Đạo Đức Kinh Doanh
 
-**Cạnh tranh khốc liệt dẫn đến hành vi kinh doanh phi đạo đức**
+### Mức Ảnh hưởng của Đạo đức Kinh doanh
+
+**Cạnh tranh Khốc liệt Dẫn đến Hành vi Kinh doanh Phi đạo đức**
 > [!cards|3] 
 > > [!caption]
 > > ![h-s](https://forcedbondedlabor.weebly.com/uploads/1/2/1/1/12112410/5419599.jpg)
@@ -105,16 +107,16 @@
 > > ![h-s](https://images.theconversation.com/files/478854/original/file-20220812-23614-yzrutc.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=1356&h=668&fit=crop)
 > > Thao túng thông tin
 
-**⇒ Gây tổn hại cho doanh nghiệp & cộng đồng**
+**⇒ Gây Tổn hại cho Doanh nghiệp & Cộng đồng**
 
 ---
 
 > [!comment|c-gray]
 > Vì vậy để phát triển bền vững, đạo đức kinh doanh là yếu tố quan trọng giúp doanh nghiệp được tin tưởng, tín nhiệm của người dùng và người lao động, đảm bảo uy tín và duy trì lợi thế cạnh tranh lâu dài. ĐĐKD là chìa khóa để doanh nghiệp tồn tại và phát triển thành công bền vững.
 
-### Đạo Đức Kinh Doanh - Cách Phát Triển Bền Vững
+### Đạo đức Kinh doanh - Cách Phát triển Bền vững
 
-**Đạo đức kinh doanh giúp doanh nghiệp:**
+**Đạo đức Kinh doanh giúp Doanh nghiệp:**
 
 > [!cards|3] 
 > > [!caption]
@@ -148,7 +150,7 @@
 
 ---
 
-# Cơ Sở Lý Thuyết về Văn Hóa Kinh Doanh
+# Cơ sở Lý thuyết về Văn hóa Kinh doanh
 
 ![h-s](http://clipart-library.com/images_k/businessman-silhouette-png/businessman-silhouette-png-5.png)
 
@@ -157,7 +159,7 @@
 > [!comment|c-gray]
 > Văn hóa là tổng hòa những giá trị vật chất và tinh thần, cũng như các phương thức tạo ra chúng, kỹ năng sử dụng các giá trị đó vì sự tiến bộ của loài người, và sự truyền thụ các giá trị đó từ thế hệ này sang thế hệ khác.
 
-## Văn Hoá theo Triết Học Mác - Lênin
+## Văn hoá theo Triết học Mác - Lênin
 
 **Văn hoá:**
 
@@ -181,7 +183,7 @@
 > VD: Tín ngưỡng thờ cúng Hùng Vương là một nét văn hóa đặc sắc của Việt Nam, thể hiện lòng biết ơn tổ tiên và đoàn kết dân tộc. Hằng năm, người dân khắp cả nước hành hương về Đền Hùng để dâng hương tưởng nhớ các Vua Hùng.
 > Không chỉ là nghi lễ tôn giáo, tín ngưỡng này còn phản ánh sâu sắc ý thức về nguồn cội, lòng tự hào dân tộc, và đạo lý "Uống nước nhớ nguồn". UNESCO đã công nhận đây là Di sản văn hóa phi vật thể đại diện của nhân loại, khẳng định giá trị và ý nghĩa sâu sắc của truyền thống này.
 
-## Khái Niệm Văn Hoá theo Triết Học Mác - Lênin
+## Khái niệm Văn hoá theo Triết học Mác - Lênin
 
 **Ví dụ:** Tín ngưỡng thờ cúng Hùng Vương
 
@@ -204,7 +206,7 @@
 > [!comment|c-gray]
 > Văn hóa doanh nhân là hệ thống các giá trị, chuẩn mực, quan niệm, và hành vi của doanh nhân trong quá trình lãnh đạo và quản lý doanh nghiệp.
 
-## Văn Hoá Doanh Nhân
+## Văn hoá Doanh nhân
 
 ```mermaid
 flowchart LR
@@ -222,34 +224,26 @@ flowchart LR
 > [!comment|c-gray]
 > Lãnh đạo không chỉ là điều hành, mà còn là khả năng truyền cảm hứng, định hướng, và xây dựng môi trường làm việc tích cực. Một doanh nhân có văn hóa lãnh đạo tốt sẽ đề cao tính minh bạch, trách nhiệm, sáng tạo và tinh thần hợp tác. Họ không chỉ ra quyết định, mà còn biết lắng nghe, tạo động lực cho nhân viên, và dẫn dắt tổ chức phát triển theo hướng bền vững.
 
-## Văn Hoá Doanh Nhân trong Lãnh Đạo
+## Văn hoá Doanh nhân trong Lãnh đạo
 
 ```mermaid
-graph LR
-    A[Lãnh đạo] -->|Trách nhiệm chính|B
-    A -->|Giá trị cốt lõi|C
-    A -->|Kỹ năng quan trọng|D 
-
-    subgraph B[" "]
-        B1[Điều hành]
-        B2[Truyền cảm hứng] 
-        B3[Định hướng<br/>tầm nhìn] 
-        B4[Xây dựng<br/>môi trường]
-    end
-
-    subgraph C[" "]
-        C1[Minh bạch] 
-        C2[Trách nhiệm] 
-        C3[Sáng tạo] 
-        C4[Hợp tác]
-    end
-
-    subgraph D[" "]
-        D1[Ra quyết định] 
-        D2[Lắng nghe<br/>nhân viên] 
-        D3[Tạo động lực] 
-        D4[Dẫn dắt<br/>phát triển]
-    end
+mindmap
+  root((Lãnh đạo))
+    (Trách nhiệm chính)
+      (Điều hành)
+      (Truyền cảm hứng)
+      (Định hướng<br/>tầm nhìn)
+      (Xây dựng môi trường)
+    (Giá trị<br/>cốt lõi)
+      (Minh bạch)
+      (Trách nhiệm)
+      (Sáng tạo)
+      (Hợp tác)
+    (Kỹ năng<br/>quan trọng)
+      (Ra quyết định)
+      (Lắng nghe<br/>nhân viên)
+      (Tạo động lực)
+      (Dẫn dắt<br/>phát triển)
 ```
 
 ---
@@ -257,20 +251,19 @@ graph LR
 > [!comment|c-gray]
 > Trong quản lý, VHDN thể hiện qua cách doanh nhân tổ chức, vận hành doanh nghiệp và giải quyết các vấn đề nội bộ. Một doanh nhân có văn hóa quản lý chuyên nghiệp sẽ chú trọng đến việc xây dựng quy trình làm việc hiệu quả, phân công công việc hợp lý, tạo môi trường làm việc công bằng và thúc đẩy sự phát triển cá nhân của nhân viên.
 
-## Văn Hoá Doanh Nhân trong Quản Lý
+## Văn hoá Doanh nhân trong Quản lý
 
 ```mermaid
 graph LR
-    A[Quản lý] -->|Tổ chức,<br/>Vận hành| B
-    
+    A[Quản lý]
     subgraph B[" "]
+        direction LR
         B1[Quy trình<br/>hiệu quả]
         B2[Phân công<br/>hợp lý]
         B3[Môi trường<br/>công bằng]
         B4[Thúc đẩy<br/>phát triển]
-        B1 ~~~ B2 ~~~ B3 ~~~ B4
     end
-
+    A -->|Tổ chức,<br/>Vận hành| B
 ```
 
 ---
@@ -278,7 +271,7 @@ graph LR
 > [!comment|c-gray]
 > VD: Phạm Nhật Vượng là một nhà lãnh đạo có tầm nhìn dài hạn và tinh thần tiên phong. Ông không ngừng đổi mới, thúc đẩy sự sáng tạo, và đưa thương hiệu Việt vươn tầm thế giới. Dưới sự dẫn dắt của ông, Vingroup đã mở rộng sang nhiều lĩnh vực, với VinFast trở thành biểu tượng của công nghiệp hóa. Ông đề cao trách nhiệm xã hội, tạo động lực cho nhân viên và hướng doanh nghiệp phát triển bền vững.
 
-## Văn Hoá Doanh Nhân
+## Văn hoá Doanh nhân
 
 **Ví dụ:**
 
@@ -301,10 +294,10 @@ graph LR
 > [!comment|c-gray]
 > VHDN hay Văn hoá tổ chức là hệ thống giá trị, chuẩn mực và hành vi được hình thành, tích lũy qua quá trình tương tác và hội nhập. Nó được chia sẻ rộng rãi, định hướng tư duy và cách ứng xử của các thành viên trong doanh nghiệp.
 
-## Văn Hoá Doanh Nghịêp
+## Văn hoá Doanh nghiệp
 
 ```mermaid
-graph LR;
+graph LR
     A[Văn hóa Doanh nghiệp] -->|Giá trị|B
     A -->|Chuẩn mực|C
     A -->|Hành vi|D
@@ -330,7 +323,7 @@ graph LR;
 > [!comment|c-gray]
 > VD: VHDN của Google tập trung vào sự sáng tạo, linh hoạt, và môi trường làm việc thân thiện. Công ty khuyến khích nhân viên dành 20% thời gian cho các dự án cá nhân, tạo điều kiện cho ý tưởng mới như Gmail hay Google Maps ra đời. Google đề cao sự thẳng thắn, tinh thần khởi nghiệp, và làm việc nhóm, đồng thời cung cấp môi trường thoải mái với nhiều tiện ích. Những giá trị này giúp Google duy trì sự đổi mới và thu hút nhân tài toàn cầu.
 
-## Văn Hoá Doanh Nghịêp
+## Văn hoá Doanh nghiệp
 
 > [!columns blank|3]
 > 
@@ -346,6 +339,8 @@ graph LR;
 > > ![h-s](https://www.langweiledich.net/wp-content/uploads/2015/08/Google-20-percent-time.jpg)
 > > "20% thời gian"
 
+**=> Giúp Google duy trì sự đổi mới và thu hút nhân tài toàn cầu**
+
 ---
 
 > [!comment|c-gray]
@@ -353,9 +348,9 @@ graph LR;
 > - Hệ thống các giá trị văn hoá phải là kết quả của quá trình lựa chọn hoặc sáng tạo của chính các thành viên
 > - Các giá trị VHDN phải có một sức mạnh đủ để tác động đến nhận thức, tư duy và cảm nhận của các thành viên đối với các vấn đề và quan hệ của doanh nghiệp
 
-## Văn Hoá Doanh Nghịêp
+## Văn hoá Doanh nghiệp
 
-**Hiểu thế nào cho đúng về Văn hoá Doanh nghiệp**
+**Hiểu Thế nào cho Đúng về Văn hoá Doanh nghiệp**
 
 ```mermaid
 mindmap
@@ -370,3 +365,115 @@ mindmap
       (Định hình<br/>cảm nhận)
       (Tác động đến<br/>quan hệ doanh nghiệp)
 ```
+
+---
+
+> [!comment|c-gray]
+> - Những gì một người từ bên ngoài DN có thể nhìn thấy, nghe thấy, hoặc cảm nhận được khi tiếp xúc với DN - các yếu tố hữu hình.
+> - Những giá trị được chấp nhận, bao gồm những chiến lược, những mục tiêu và triết lý kinh doanh của DN.
+> - Khi các giá trị được thừa nhận và phổ biến đến mức gần như không có sự thay đổi, chúng sẽ trở thành các giá trị nền tảng.
+
+## Văn hoá Doanh nghiệp
+
+**Cấu trúc của Hệ thống Văn hoá Kinh doanh**
+
+```mermaid
+mindmap
+  root((Văn hóa<br/>Doanh nghiệp))
+    (Hiện diện<br/>bên ngoài)
+      (Nhìn thấy,<br/>nghe thấy,<br/>cảm nhận)
+	      (Các yếu tố<br/>hữu hình)
+    (Giá trị<br/>được chấp nhận)
+      (Chiến lược)
+      (Mục tiêu)
+      (Triết lý<br/>kinh doanh)
+    (Giá trị<br/>nền tảng)
+      (Được thừa nhận<br/>và phổ biến)
+      (Ít thay đổi<br/>theo thời gian)
+```
+
+---
+
+> [!comment|c-gray]
+> Văn hóa kinh doanh là hệ thống các giá trị, chuẩn mực, và hành vi do doanh nghiệp tạo ra trong quá trình hoạt động. Nó thể hiện qua cách ứng xử với xã hội, môi trường, và cộng đồng, góp phần định hình bản sắc và uy tín trong kinh doanh.
+
+## Văn hoá Kinh doanh
+
+```mermaid
+graph LR
+    A[Văn hóa<br/>kinh doanh] -->|Hệ thống|B
+    A -->|Qua ứng xử với|C
+    A -->|Định nghĩa|D
+    subgraph B[" "]
+	    B1[Giá trị]
+	    B2[Chuẩn mực]
+	    B3[Hành vi]
+    end
+    subgraph C[" "]
+	    C1[Xã hội]
+	    C2[Môi trường]
+	    C3[Cộng đồng]
+    end
+    subgraph D[" "]
+	    D1[Bản sắc]
+	    D2[Uy tín]
+    end
+```
+
+---
+
+> [!comment|c-gray]
+> VD: Toyota dùng triết lý "Just-in-Time", tối ưu hóa sản xuất, giảm lãng phí, và nâng cao hiệu suất. Nhờ đó, hãng không chỉ tạo dựng niềm tin mà còn góp phần xây dựng môi trường kinh doanh bền vững và phát triển lâu dài.
+
+## Văn hoá Kinh doanh
+
+> [!columns blank|2]
+> 
+> > [!caption]
+> > ![h-s](https://logos-world.net/wp-content/uploads/2020/04/Toyota-Symbol.png)
+> > Toyota
+> 
+> > [!caption]
+> > ![h-s](https://images.wsj.net/im-332696/square)
+> > Bộ phận
+
+---
+
+> [!comment|c-gray]
+> VHDNhân, DNghiệp, và KD có mối quan hệ chặt chẽ, tác động qua lại lẫn nhau. VHDNhân là cốt lõi, vì DNhân định hướng giá trị, phong cách lãnh đạo, và cách vận hành doanh nghiệp. Từ đó, VHDNghiệp hình thành, phản ánh các chuẩn mực ứng xử và quy tắc làm việc trong tổ chức.
+> VHDNghiệp phải phù hợp với VHKD - bao gồm các quy chuẩn đạo đức, luật pháp, và tập quán chung của ngành nghề. Một DNghiệp có văn hóa tốt sẽ góp phần nâng cao môi trường kinh doanh, và sự suy thoái có thể gây hệ lụy tiêu cực. Vì vậy, để phát triển bền vững, DNghiệp cần hài hòa cả ba yếu tố này, với DNhân đóng vai trò then chốt.
+
+## Mối Quan hệ giữa Văn hoá Doanh nhân, Văn hoá Doanh nghiệp, và Văn hoá Kinh doanh
+
+![Picture.png](/img/user/Studies/University/Year%201/T2/EM1180%20-%20Business%20Culture%20and%20Entrepreneurship/Project/_resources/Picture.png)
+
+```mermaid
+graph LR
+    A(Văn hóa<br/>Doanh nhân)
+    B(Văn hóa<br/>Doanh nghiệp)
+    C(Văn hóa<br/>Kinh doanh)
+
+    A -->|Cốt lõi| B
+    A -->|Định hướng giá trị,<br/>lãnh đạo, vận hành| B
+    B -->|Phản ánh chuẩn mực,<br/>quy tắc làm việc| C
+    B -->|Cần phù hợp| C
+    C -->|Đạo đức, luật pháp,<br/>tập quán| B
+```
+
+---
+
+> [!comment|c-gray]
+> - Văn hoá là cơ sở cho phát triển doanh nghiệp
+> - Tài sản quan trọng nhất là nhân lực
+> - Yếu tố văn hóa là một công cụ quan trọng để phát huy tiềm năng của nguồn lực này
+> - Mỗi doanh nghiệp cần xây dựng văn hoá riêng
+
+## Kết luận
+
+- Văn hoá: cơ sở
+- Tài sản quan trọng nhất: nhân lực
+- Yếu tố văn hóa: quan trọng để phát huy tiềm năn
+- Doanh nghiệp: cần văn hoá riêng
+
+---
+
