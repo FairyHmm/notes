@@ -59,10 +59,10 @@
 > [!comment|c-gray]
 > Qua nhiều thập kỷ, sự phát triển của xã hội và kinh tế, đặc biệt trong bối cảnh công nghệ và toàn cầu hóa, đã tạo ra nhiều dấu ấn quan trọng.
 > Các doanh nghiệp tăng trưởng cùng với sự đóng góp mạnh mẽ vào nhiều lĩnh vực khác nhau trong đời sống xã hội, như
-> - Tạo ra cơ hội việc làm cho người lao động
+> - Tạo ra cơ hội việc làm
 > - Nâng cao chất lượng cuộc sống
-> - Đào tạo nguồn lực trẻ tiềm năng
-> - Đóng góp cho ngân sách quốc gia thông qua thuế
+> - Đào tạo nguồn lực tiềm năng
+> - Đóng góp cho ngân sách quốc gia
 > - Thúc đẩy thay đổi cơ cấu thị trường
 > - ...
 
@@ -152,8 +152,6 @@
 
 # Cơ sở Lý thuyết về Văn hóa Kinh doanh
 
-![h-s](http://clipart-library.com/images_k/businessman-silhouette-png/businessman-silhouette-png-5.png)
-
 ---
 
 > [!comment|c-gray]
@@ -180,8 +178,7 @@
 ---
 
 > [!comment|c-gray]
-> VD: Tín ngưỡng thờ cúng Hùng Vương là một nét văn hóa đặc sắc của Việt Nam, thể hiện lòng biết ơn tổ tiên và đoàn kết dân tộc. Hằng năm, người dân khắp cả nước hành hương về Đền Hùng để dâng hương tưởng nhớ các Vua Hùng.
-> Không chỉ là nghi lễ tôn giáo, tín ngưỡng này còn phản ánh sâu sắc ý thức về nguồn cội, lòng tự hào dân tộc, và đạo lý "Uống nước nhớ nguồn". UNESCO đã công nhận đây là Di sản văn hóa phi vật thể đại diện của nhân loại, khẳng định giá trị và ý nghĩa sâu sắc của truyền thống này.
+> VD: Tín ngưỡng thờ cúng Hùng Vương là nét văn hóa đặc sắc của Việt Nam, thể hiện lòng biết ơn tổ tiên và tinh thần dân tộc. Hằng năm, người dân hành hương về Đền Hùng dâng hương tưởng nhớ các Vua Hùng. Không chỉ là nghi lễ tôn giáo, tín ngưỡng này còn phản ánh ý thức nguồn cội, lòng tự hào dân tộc và đạo lý "Uống nước nhớ nguồn".
 
 ## Khái niệm Văn hoá theo Triết học Mác - Lênin
 
@@ -292,7 +289,7 @@ graph LR
 ---
 
 > [!comment|c-gray]
-> VHDN hay Văn hoá tổ chức là hệ thống giá trị, chuẩn mực và hành vi được hình thành, tích lũy qua quá trình tương tác và hội nhập. Nó được chia sẻ rộng rãi, định hướng tư duy và cách ứng xử của các thành viên trong doanh nghiệp.
+> VHDNghiệp hay VH tổ chức là hệ thống giá trị, chuẩn mực và hành vi được hình thành, tích lũy qua quá trình tương tác và hội nhập. Nó được chia sẻ rộng rãi, định hướng tư duy và cách ứng xử của các thành viên trong doanh nghiệp.
 
 ## Văn hoá Doanh nghiệp
 
@@ -321,7 +318,7 @@ graph LR
 ---
 
 > [!comment|c-gray]
-> VD: VHDN của Google tập trung vào sự sáng tạo, linh hoạt, và môi trường làm việc thân thiện. Công ty khuyến khích nhân viên dành 20% thời gian cho các dự án cá nhân, tạo điều kiện cho ý tưởng mới như Gmail hay Google Maps ra đời. Google đề cao sự thẳng thắn, tinh thần khởi nghiệp, và làm việc nhóm, đồng thời cung cấp môi trường thoải mái với nhiều tiện ích. Những giá trị này giúp Google duy trì sự đổi mới và thu hút nhân tài toàn cầu.
+> VD: VHDN của Google tập trung vào sự sáng tạo, linh hoạt, và môi trường làm việc thân thiện. Công ty khuyến khích nhân viên dành 20% thời gian cho các dự án cá nhân, tạo điều kiện cho ý tưởng mới ra đời. Google đề cao sự thẳng thắn, tinh thần khởi nghiệp, và làm việc nhóm, đồng thời cung cấp môi trường thoải mái với nhiều tiện ích. Những giá trị này giúp Google duy trì sự đổi mới và thu hút nhân tài toàn cầu.
 
 ## Văn hoá Doanh nghiệp
 
@@ -477,3 +474,105 @@ graph LR
 
 ---
 
+# Cơ sở Lý thuyết về Đạo đức Kinh doanh
+
+---
+
+> [!comment|c-gray]
+> - Đạo đức là hệ thống nguyên tắc, quy tắc xã hội, nhằm điều chỉnh hành vi con người đối với bản thân và xã hội.
+> - Chức năng chính là định hướng hành vi theo các chuẩn mực được xã hội thừa nhận, thông qua lương tâm, dư luận, tập quán và giáo dục.
+> - Đồng thời, nó quy định trách nhiệm, nghĩa vụ mỗi cá nhân, là tiêu chuẩn xây dựng lối sống và lý tưởng. Các chuẩn mực đạo đức bao gồm những điều tích cực và tiêu cực.
+
+## Khái niệm Đạo đức
+
+```mermaid
+mindmap
+  root((Đạo đức))
+    (Chức năng)
+      (Điều chỉnh<br/>hành vi)
+      (Định hướng<br/>chuẩn mực)
+      (Tác động)
+	      (Lương tâm)
+	      (Dư luận)
+	      (Tập quán)
+	      (Giáo dục)
+    (Trách nhiệm)
+      (Bản thân)
+      (Xã hội)
+    (Chuẩn mực)
+      (Tích cực)
+        (Chính trực)
+        (Khiêm tốn)
+        (Trung thực)
+        (Khoan dung)
+      (Tiêu cực)
+        (Tham lam)
+        (Kiêu ngạo)
+        (Phản bội)
+```
+
+---
+
+> [!comment|c-gray]
+> - Thời cổ đại: Xuất hiện cùng hoạt động thương mại (~4000 TCN). Hình thành quy tắc về trung thực, chữ tín, sòng phẳng.
+> - Thế kỷ 20:
+>     - Trước 1960: Gắn với tôn giáo, công bằng lao động.
+>     - 1960~1970: Gia tăng vấn đề môi trường, bảo vệ người dùng, xuất hiện nghiên cứu về trách nhiệm.
+>     - Những năm 1980: Được công nhận là lĩnh vực nghiên cứu độc lập, xuất hiện các trung tâm nghiên cứu, giảng dạy.
+>     - Những năm 1990: Chính phủ Mỹ thể chế hóa đạo, doanh nghiệp chịu trách nhiệm về hành vi phi đạo đức.
+> - Thế kỉ 21: Gắn chặt với trách nhiệm xã hội và quyết định trong công ty, thành lĩnh vực nghiên cứu quan trọng.
+
+## Lịch sử Đạo đức Kinh doanh
+
+```mermaid
+timeline
+    section Cổ đại
+	    4000BC : Xuất hiện
+			   : Quy tắc
+    section Thế kỉ 20
+	    1960 : Tôn giáo
+		     : Công bằng lao động
+	    1970 : Vấn đề<br>môi trường
+		     : Bảo vệ<br>người tiêu dùng
+		     : Nghiên cứu<br>trách nhiệm
+	    1980 : Nnghiên cứu<br>độc lập
+		     : Trung tâm nghiên cứu, giảng dạy
+	    1990 : Thể chế hóa
+		     : Chịu trách nhiệm<br>phi đạo đức
+	section Thế kỉ 21
+	    2000 : Gắn chặt<br>trách nhiệm xã hội
+		     : Quyết định<br>trong công ty
+		     : Lĩnh vực nghiên cứu<br>quan trọng
+```
+
+---
+
+> [!comment|c-gray]
+> Đạo đức kinh doanh:
+> - Tập hợp nguyên tắc, chuẩn mực có tác dụng điều chỉnh, đánh giá, hướng dẫn, và kiểm soát hành vi các chủ thể kinh doanh.
+> - Là đạo đức được vận dụng vào trong hoạt động kinh doanh.
+> - Là một dạng đạo đức nghề nghiệp: có tính đặc thù của hoạt động kinh doanh - do kinh doanh là gắn liền lợi ích kinh tế.
+
+## Khái niệm Đạo đức Kinh doanh
+
+```mermaid
+mindmap
+root((Đạo đức<br/>Kinh doanh))
+	(Tập hợp)
+		(Nguyên tắc)
+		(Chuẩn mực)
+	(Tác dụng)
+		(Điều chỉnh)
+		(Đánh giá)
+		(Hướng dẫn)
+		(Kiểm soát)
+	(Vận dụng)
+		(Hoạt động<br/>kinh doanh)
+	(Đạo đức<br/>nghề nghiệp)
+		(Đặc thù<br/>kinh doanh)
+			(Lợi ích<br/>kinh tế)
+```
+
+---
+
+## Vai trò của Đạo đức Kinh doanh
