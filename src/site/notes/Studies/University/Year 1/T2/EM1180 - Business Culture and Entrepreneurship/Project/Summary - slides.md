@@ -233,8 +233,8 @@ graph LR
     subgraph B[" "]
         B1[Điều hành]
         B2[Truyền cảm hứng] 
-        B3[Định hướng<br>tầm nhìn] 
-        B4[Xây dựng<br>môi trường]
+        B3[Định hướng<br/>tầm nhìn] 
+        B4[Xây dựng<br/>môi trường]
         B1 & B2 ~~~ B3 & B4
     end
 
@@ -248,9 +248,9 @@ graph LR
 
     subgraph D[" "]
         D1[Ra quyết định] 
-        D2[Lắng nghe<br>nhân viên] 
+        D2[Lắng nghe<br/>nhân viên] 
         D3[Tạo động lực] 
-        D4[Dẫn dắt<br>phát triển]
+        D4[Dẫn dắt<br/>phát triển]
         D1 & D2 ~~~ D3 & D4
     end
 ```
@@ -258,9 +258,30 @@ graph LR
 ---
 
 > [!comment|c-gray]
+> Trong quản lý, VHDN thể hiện qua cách doanh nhân tổ chức, vận hành doanh nghiệp và giải quyết các vấn đề nội bộ. Một doanh nhân có văn hóa quản lý chuyên nghiệp sẽ chú trọng đến việc xây dựng quy trình làm việc hiệu quả, phân công công việc hợp lý, tạo môi trường làm việc công bằng và thúc đẩy sự phát triển cá nhân của nhân viên.
+
+## Văn Hoá Doanh Nhân trong Quản Lý
+
+```mermaid
+graph LR
+    A[Quản lý] -->|Tổ chức &<br/>Vận hành| B
+    
+    subgraph B[" "]
+        B1[Quy trình<br/>hiệu quả]
+        B2[Phân công<br/>hợp lý]
+        B3[Môi trường<br/>công bằng]
+        B4[Thúc đẩy<br/>phát triển]
+        B1 ~~~ B2 ~~~ B3 ~~~ B4
+    end
+
+```
+
+---
+
+> [!comment|c-gray]
 > VD: Phạm Nhật Vượng là một nhà lãnh đạo có tầm nhìn dài hạn và tinh thần tiên phong. Ông không ngừng đổi mới, thúc đẩy sự sáng tạo, và đưa thương hiệu Việt vươn tầm thế giới. Dưới sự dẫn dắt của ông, Vingroup đã mở rộng sang nhiều lĩnh vực, với VinFast trở thành biểu tượng của công nghiệp hóa. Ông đề cao trách nhiệm xã hội, tạo động lực cho nhân viên và hướng doanh nghiệp phát triển bền vững.
 
-## Văn Hoá Doanh Nhân trong Lãnh Đạo
+## Văn Hoá Doanh Nhân
 
 **Ví dụ:**
 
@@ -281,39 +302,74 @@ graph LR
 ---
 
 > [!comment|c-gray]
-> Trong quản lý, VHDN thể hiện qua cách doanh nhân tổ chức, vận hành doanh nghiệp và giải quyết các vấn đề nội bộ. Một doanh nhân có văn hóa quản lý chuyên nghiệp sẽ chú trọng đến việc xây dựng quy trình làm việc hiệu quả, phân công công việc hợp lý, tạo môi trường làm việc công bằng và thúc đẩy sự phát triển cá nhân của nhân viên.
+> VHDN hay Văn hoá tổ chức là hệ thống giá trị, chuẩn mực và hành vi được hình thành, tích lũy qua quá trình tương tác và hội nhập. Nó được chia sẻ rộng rãi, định hướng tư duy và cách ứng xử của các thành viên trong doanh nghiệp.
 
-## Văn Hoá Doanh Nhân trong Quản Lý
+## Văn Hoá Doanh Nghịêp
 
 ```mermaid
-graph LR
-    A[Quản lý] -->|Tổ chức &<br>Vận hành| B
-    
+graph LR;
+    A[Văn hóa Doanh nghiệp] -->|Giá trị|B
+    A -->|Chuẩn mực|C
+    A -->|Hành vi|D
+
     subgraph B[" "]
-        B1[Quy trình<br>hiệu quả]
-        B2[Phân công<br>hợp lý]
-        B3[Môi trường<br>công bằng]
-        B4[Thúc đẩy<br>phát triển]
-        B1 ~~~ B2 ~~~ B3 ~~~ B4
+        B1[Định hướng<br/>tư duy]
+        B2[Chia sẻ<br/>rộng rãi]
     end
 
+    subgraph C[" "]
+        C1[Tương tác]
+        C2[Hội nhập]
+    end
+
+    subgraph D[" "]
+        D1[Cách ứng xử]
+        D2[Thành viên<br/>trong doanh nghiệp]
+    end
 ```
 
 ---
 
 > [!comment|c-gray]
-> VD: Howard Schultz (hao wát shâu), cựu CEO Starbucks, không chỉ tạo ra một thương hiệu thành công, mà còn thiết lập VHDN lấy con người làm trung tâm. Ông áp dụng các chính sách phúc lợi tốt, như cung cấp bảo hiểm y tế và hỗ trợ học phí đại học. Cách quản lý này không chỉ giúp Starbucks giữ chân nhân tài, mà còn tạo ra một môi trường làm việc tích cực, góp phần nâng cao giá trị thương hiệu.
+> VD: VHDN của Google tập trung vào sự sáng tạo, linh hoạt, và môi trường làm việc thân thiện. Công ty khuyến khích nhân viên dành 20% thời gian cho các dự án cá nhân, tạo điều kiện cho ý tưởng mới như Gmail hay Google Maps ra đời. Google đề cao sự thẳng thắn, tinh thần khởi nghiệp, và làm việc nhóm, đồng thời cung cấp môi trường thoải mái với nhiều tiện ích. Những giá trị này giúp Google duy trì sự đổi mới và thu hút nhân tài toàn cầu.
+
+## Văn Hoá Doanh Nghịêp
 
 > [!columns blank|3]
 > 
-> > [!caption]
-> > ![h-s](https://s3.amazonaws.com/static.beavercountyradio.com/wp-content/uploads/2019/02/14134545/Howard-Schultz.jpg)
-> > Howard Schultz
+> > [!captions]
+> > ![h-s](https://sites.psu.edu/leadership/wp-content/uploads/sites/8069/2015/03/google_AU_team-730285.png)
+> > Nhân viên tại Google
 > 
-> > [!caption]
-> > ![h-s](https://i.pinimg.com/originals/69/ba/2b/69ba2b5d6e288eea6386e774d744e522.jpg)
-> > Soy Latte
+> > [!captions]
+> > ![h-s](https://img.hitberry.com/uploads/2017/04/best-google-employee-benefits.jpg)
+> > Nhân viên nghỉ ngơi
 > 
-> > [!caption]
-> > ![h-s](https://ircdn.vingroup.net/storage/Uploads/0_Tintuchoatdong/2021/Nov/VinIF.jpg)
-> > Vingroup trao học bổng
+> > [!captions]
+> > ![h-s](https://www.langweiledich.net/wp-content/uploads/2015/08/Google-20-percent-time.jpg)
+> > "20% thời gian"
+
+---
+
+> [!comment|c-gray]
+> - Các giá trị VHDN là hệ thống có quan hệ chặt chẽ, được chấp nhận, và phổ biến rộng rãi giữa các thành viên
+> - Hệ thống các giá trị văn hoá phải là kết quả của quá trình lựa chọn hoặc sáng tạo của chính các thành viên
+> - Các giá trị VHDN phải có một sức mạnh đủ để tác động đến nhận thức, tư duy và cảm nhận của các thành viên đối với các vấn đề và quan hệ của doanh nghiệp
+
+## Văn Hoá Doanh Nghịêp
+
+**Hiểu thế nào cho đúng về Văn hoá Doanh nghiệp**
+
+```mermaid
+mindmap
+  root((Văn hóa<br/>Doanh nghiệp))
+    (Hệ thống giá trị<br/>chặt chẽ)
+      (Được chấp nhận<br/>rộng rãi)
+      (Phổ biến giữa<br/>các thành viên)
+    (Kết quả của<br/>lựa chọn và sáng tạo)
+      (Do thành viên<br/>tạo nên)
+    (Sức mạnh<br/>tác động nhận thức)
+      (Ảnh hưởng<br/>tư duy)
+      (Định hình<br/>cảm nhận)
+      (Tác động đến<br/>quan hệ doanh nghiệp)
+```
