@@ -178,7 +178,7 @@
 ---
 
 > [!comment|c-gray]
-> VD: Tín ngưỡng thờ cúng Hùng Vương là nét văn hóa đặc sắc của Việt Nam, thể hiện lòng biết ơn tổ tiên và tinh thần dân tộc. Hằng năm, người dân hành hương về Đền Hùng dâng hương tưởng nhớ các Vua Hùng. Không chỉ là nghi lễ tôn giáo, tín ngưỡng này còn phản ánh ý thức nguồn cội, lòng tự hào dân tộc và đạo lý "Uống nước nhớ nguồn".
+> VD: Tín ngưỡng thờ cúng Hùng Vương là nét văn hóa đặc sắc của Việt Nam, thể hiện lòng biết ơn tổ tiên và tinh thần dân tộc. Hằng năm, người dân hành hương về Đền Hùng dâng hương tưởng nhớ các Vua Hùng. Nó còn phản ánh ý thức nguồn cội, lòng tự hào dân tộc, và đạo lý "Uống nước nhớ nguồn".
 
 ## Khái niệm Văn hoá theo Triết học Mác - Lênin
 
@@ -532,17 +532,17 @@ timeline
     section Thế kỉ 20
 	    1960 : Tôn giáo
 		     : Công bằng lao động
-	    1970 : Vấn đề<br>môi trường
-		     : Bảo vệ<br>người tiêu dùng
-		     : Nghiên cứu<br>trách nhiệm
+	    1970 : Vấn đề môi trường
+		     : Bảo vệ người tiêu dùng
+		     : Nghiên cứu trách nhiệm
 	    1980 : Nnghiên cứu<br>độc lập
 		     : Trung tâm nghiên cứu, giảng dạy
 	    1990 : Thể chế hóa
-		     : Chịu trách nhiệm<br>phi đạo đức
+		     : Chịu trách nhiệm phi đạo đức
 	section Thế kỉ 21
-	    2000 : Gắn chặt<br>trách nhiệm xã hội
-		     : Quyết định<br>trong công ty
-		     : Lĩnh vực nghiên cứu<br>quan trọng
+	    2000 : Gắn chặt trách nhiệm xã hội
+		     : Quyết định trong công ty
+		     : Lĩnh vực nghiên cứu quan trọng
 ```
 
 ---
@@ -575,4 +575,234 @@ root((Đạo đức<br/>Kinh doanh))
 
 ---
 
+> [!comment|c-gray]
+> - Điều chỉnh hành vi: Giúp doanh nghiệp trung thực, công bằng, tạo môi trường cạnh tranh lành mạnh, và hạn chế phi đạo đức.
+> - Nâng cao chất lượng hoạt động: Giúp cải thiện hiệu suất, giảm tranh chấp, và nâng cao uy tín.
+> - Tăng cam kết nhân viên: Giúp nhân viên tự hào, gắn bó và làm việc tận tâm hơn.
+> - Nâng cao hài lòng khách hàng: Tạo lòng tin và quan hệ bền vững.
+> - Tạo lợi nhuận bền vững: Xây dựng uy tín, giảm rủi ro pháp lý và duy trì lợi nhuận ổn định.
+> - Nâng cao uy tín thương hiệu: Nâng cao hình ảnh ngành nghề và quốc gia, thu hút đầu tư và cơ hội kinh doanh.
+
 ## Vai trò của Đạo đức Kinh doanh
+
+```mermaid
+mindmap
+  root((Đạo đức Kinh doanh))
+    (Điều chỉnh hành vi)
+      (Trung thực)
+      (Công bằng)
+      (Cạnh tranh lành mạnh)
+      (Hạn chế phi đạo đức)
+    (Chất lượng hoạt động)
+      (Minh bạch)
+      (Cải thiện hiệu suất)
+      (Giảm tranh chấp)
+    (Tăng cam kết nhân viên)
+      (Tự hào)
+      (Gắn bó)
+      (Tận tâm)
+    (Sự hài lòng khách hàng)
+      (Lòng tin)
+      (Quan hệ bền vững)
+    (Lợi nhuận bền vững)
+      (Uy tín)
+      (Giảm rủi ro pháp lý)
+      (Lợi nhuận)
+    (Uy tín thương hiệu)
+      (Cải thiện hình ảnh )
+      (Thu hút đầu tư)
+      (Cơ hội kinh doanh)
+```
+
+---
+
+> [!comment|c-gray]
+> - Trung thực: Không gian dối, giữ chữ tín, tuân thủ pháp luật, không làm hàng giả, quảng cáo sai sự thật, cạnh tranh không lành mạnh.
+> - Tôn trọng con người: Tôn trọng nhân viên, khách hàng, và đối thủ cạnh tranh, đảm bảo quyền lợi chính đáng và môi trường làm việc công bằng.
+> - Gắn lợi ích với xã hội: Không chỉ theo đuổi lợi nhuận mà còn quan tâm đến tác động của hoạt động kinh doanh đối với cộng đồng và môi trường.
+> - Bảo mật, trung thành: Giữ bí mật thông tin khách hàng, đối tác và tuân thủ cam kết đạo đức để duy trì uy tín doanh nghiệp.
+
+## Nguyên tắc và Chuẩn mực Đạo đức Kinh doanh
+
+```mermaid
+mindmap
+  root((Nguyên tắc và Chuẩn mực))
+    (Trung thực)
+      (Không gian dối)
+      (Giữ tín)
+      (Tuân thủ pháp luật)
+      (Không hàng giả, quảng cáo sai)
+      (Không cạnh tranh không lành mạnh)
+    (Tôn trọng con người)
+      (Tôn trọng nhân viên)
+      (Tôn trọng khách hàng)
+      (Tôn trọng đối thủ cạnh tranh)
+      (Đảm bảo quyền lợi chính đáng)
+      (Môi trường làm việc công bằng)
+    (Gắn lợi ích với xã hội)
+      (Không chỉ theo lợi nhuận)
+      (Quan tâm tác động cộng đồng)
+      (Bảo vệ môi trường)
+    (Bảo mật, trung thành)
+      (Giữ bí mật thông tin)
+      (Cam kết đạo đức)
+      (Duy trì uy tín)
+```
+
+---
+
+> [!comment|c-gray]
+> - Xây văn hóa đạo đức: Cần thiết lập quy tắc, chính sách đạo đức rõ ràng, thúc đẩy môi trường làm việc minh bạch và công bằng. Tổ chức tập huấn, truyền thông nội bộ để nhân viên thấu hiểu và tuân thủ các giá trị chung.
+> - Đào tạo nhân viên: Trang bị kiến thức, hướng dẫn cách xử lý tình huống, nâng cao nhận thức, và khả năng ra quyết định. Khuyến khích trao đổi, chia sẻ kinh nghiệm để hình thành tư duy trong công việc.
+> - Thiết lập chính sách: Ban hành quy định cụ thể về hành vi đúng và sai, đảm bảo minh bạch trong xử lý vi phạm. Xây dựng cơ chế giám sát, phản hồi và chế tài để duy trì việc tuân thủ trong mọi hoạt động kinh doanh.
+
+## Cách Áp dụng Đạo đức trong Kinh doanh
+
+```mermaid
+mindmap
+  root((Áp dụng Đạo đức))
+    (Xây dựng văn hóa)
+      (Quy tắc, chính sách)
+      (Môi trường minh bạch, công bằng)
+      (Tổ chức tập huấn, truyền thông)
+    (Đào tạo nhân viên)
+      (Trang bị kiến thức, nguyên tắc)
+      (Xử lý tình huống)
+      (Chia sẻ kinh nghiệm)
+      (Hình thành tư duy)
+    (Thiết lập chính sách)
+      (Quy định cụ thể)
+      (Đảm bảo minh bạch)
+      (Qiám sát, phản hồi, chế tài)
+```
+
+---
+
+# Thực trạng về Đạo đức Kinh doanh ở Việt Nam
+
+---
+
+> [!comment|c-gray]
+> ĐĐKD là một vấn đề mới ở Việt Nam, chỉ thực sự được quan tâm từ chính sách "Đổi mới và hội nhập quốc tế" năm 1991. Trước đó, dưới cơ chế kinh tế kế hoạch tập trung, các khái niệm này hầu như không được đề cập.
+> Sau đó, các khái niệm xuất hiện, kéo theo nhận thức về ĐĐKD. Dù nhiều doanh nghiệp chú trọng xây dựng thương hiệu bền vững, vẫn có trường hợp chạy theo lợi nhuận, xem nhẹ đạo đức, gây hệ lụy kinh tế - xã hội.
+
+## Đạo đức Kinh doanh ở Việt Nam
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](http://vanviet.info/wp-content/uploads/2015/03/ch_-g_o-nng-thn.jpg)
+> > Chợ nông thôn thời bao cấp
+> 
+> > [!caption]
+> > ![h-s](https://cdn.cfr.org/sites/default/files/styles/full_width_xl/public/image/2018/05/ASEAN.jpg)
+> > ASEAN
+> 
+> > [!caption]
+> > ![h-s](https://bcp.cdnchinhphu.vn/334894974524682240/2022/10/11/toadam3vcci-1665479330154253108897.jpg)
+> > Hội thảo đạo đức kinh doanh
+
+---
+
+> [!comment|c-gray]
+> Một vấn đề đáng lo ngại là sự sai lệch trong ĐĐKD. Nhiều doanh nhân vì lợi nhuận mà bỏ qua đạo đức, gây tổn thất lớn cho ngân sách và ảnh hưởng đến nền kinh tế.
+> Trong khi đó, kinh doanh có đạo đức không chỉ mang lại lợi ích cho doanh nghiệp mà còn tạo ra giá trị bền vững cho khách hàng và xã hội. Doanh nghiệp cần trung thực, giữ chữ tín, đảm bảo chất lượng sản phẩm và dịch vụ, thay vì chỉ chạy theo lợi ích cá nhân mà vi phạm đạo đức kinh doanh.
+
+## Đạo đức Kinh doanh ở Việt Nam
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://cdnmedia.baotintuc.vn/2017/11/17/10/11/hanggia1.png)
+> > Kiểm tra hàng giả
+> 
+> > [!caption]
+> > ![h-s](http://media.bizj.us/view/img/4897031/476405511*1200xx4992-2813-0-0.jpg)
+> > Dấu diếm
+> 
+> > [!caption]
+> > ![h-s](https://motivation.africa/wp-content/uploads/2019/11/social-good2.jpg)
+> > Ảnh hưởng tốt
+
+---
+
+> [!comment|c-gray]
+> Đến 2024, ĐĐKD tại Việt Nam có nhiều chuyển biến tích cực, góp phần tạo môi trường lành mạnh, bền vững. Nhiều doanh nghiệp không chỉ chú trọng lợi nhuận, mà còn tuân thủ các quy tắc đạo đức:
+> - Ý thức đạo đức nâng cao: Nhiều doanh nghiệp bắt đầu chú trọng trách nhiệm xã hội, tuân thủ quy chuẩn lao động, bảo vệ môi trường, nâng cao chất lượng, hỗ trợ cộng đồng, và đảm bảo quyền lợi người lao động. Ví dụ: Vinamilk, FPT, Viettel: xây dựng chính sách kinh doanh minh bạch, đầu tư vào cộng đồng và phát triển bền vững.
+> - Hệ thống pháp luật chặt chẽ hơn: Chính phủ hoàn thiện hơn khung pháp lý kinh doanh, bảo vệ quyền lợi người dùng, chống hàng giả, hàng nhái, chống gian lận.
+> - Sự giám từ truyền thông: Mạng xã hội giúp phát hiện, lên án hành vi kinh doanh thiếu đạo đức, tạo áp lực buộc phải tuân thủ chuẩn mực đạo đức.
+
+## Mặt Tích cực Đạo đức Kinh doanh
+
+```mermaid
+mindmap
+    root((Đạo đức Kinh doanh 2024))
+        (Môi trường bền vững)
+            (Chuyển biến tích cực)
+            (Môi trường lạnh mạnh, bền vững hơn)
+        (Ý thức đạo đức nâng cao)
+            (Trách nhiệm xã hội)
+            (Quy chuẩn lao động)
+            (Bảo vệ môi trường)
+            (Nâng cao chất lượng)
+            (Hỗ trợ cộng đồng)
+            (Quyền lợi người lao động)
+            (Ví dụ)
+                (Vinamilk)
+                (FPT)
+                (Viettel)
+        (Hệ thống pháp luật chặt chẽ hơn)
+            (Hoàn thiện khung pháp lý)
+            (Bảo vệ quyền lợi người dùng)
+            (Chống hàng giả, hàng nhái)
+            (Chống gian lận)
+        (Sự giám sát từ truyền thông)
+            (Mạng xã hội)
+            (Lên án hành vi thiếu đạo đức)
+            (Tạo áp lực)
+```
+
+---
+
+> [!comment|c-gray]
+> Thiếu lòng tin trong kinh doanh: Nhiều doanh nghiệp chỉ quan tâm lợi nhuận trước mắt, xem nhẹ chữ tín, không chú trọng xây dựng thương hiệu lâu dài. Dù có nhiều tiến bộ, nhưng vẫn còn nhiều vấn đề đáng lo ngại:
+> - Hàng giả, hàng nhái, kém chất lượng phổ biến: 
+> 	+ Sản xuất không đảm bảo tiêu chuẩn, sử dụng nguyên liệu độc hại (MDP3 trong nước tương, formaldehyde trong bún, Rhodamine B trong hạt dưa).
+> 	+ Thực phẩm bẩn, sữa giả, mỹ phẩm không rõ nguồn gốc tràn lan, gây nguy hiểm sức khỏe.
+> - Gian lận thuế, buôn lậu: Phổ biến ở biên giới, nhiều doanh nghiệp trốn thuế, kê khai gian dối (Coca-Cola, Kanaan bị phát hiện trốn thuế).
+> - Môi trường lao động chưa đảm bảo: Trả lương thấp, không đóng bảo hiểm đầy đủ, vi phạm an toàn lao động, nhiều vụ đình công vì điều kiện làm việc kém.
+> - Chạy theo lợi nhuận, bỏ qua trách nhiệm xã hội: Một số doanh nghiệp phá hoại môi trường để giảm chi phí (Formosa Hà Tĩnh xả thải năm 2016, gây thiệt hại lớn cho biển miền Trung).
+
+## Những Vấn đề còn Tồn tại
+
+```mermaid
+mindmap
+  root((Vấn đề còn Tồn tại))
+    (Thiếu lòng tin)
+      (Lợi nhuận trước mắt)
+      (Xem nhẹ chữ tín)
+      (Không chú trọng xây dựng thương hiệu)
+    (Hàng giả, nhái, kém chất lượng)
+      (Không đảm bảo tiêu chuẩn)
+	      (Thực phẩm bẩn)
+	      (Sữa giả)
+	      (Mỹ phẩm không rõ nguồn gốc)
+      (Nguyên liệu độc hại)
+	      (MDP3)
+	      (Formaldehyde)
+	      (Rhodamine B)
+    (Gian lận thuế, buôn lậu)
+      (Phổ biến ở biên giới)
+      (Trốn thuế, kê khai gian dối)
+	      (Coca-Cola)
+	      (Kanaan)
+    (Môi trường lao động chưa đảm bảo)
+	      (Lương thấp)
+	      (Không bảo hiểm)
+	      (Vi phạm an toàn lao động)
+	      (Nhiều đình công)
+    (Chạy theo lợi nhuận)
+	    (Bỏ qua trách nhiệm xã hội)
+	      (Phá hoại môi trường để giảm chi phí)
+		      (Formosa Hà Tĩnh)
+```
