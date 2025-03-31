@@ -206,6 +206,10 @@
 ## Văn hoá Doanh nhân
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 flowchart LR
   A(Hệ thống các)
   B(Giá trị)
@@ -224,6 +228,10 @@ flowchart LR
 ## Văn hoá Doanh nhân trong Lãnh đạo
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Lãnh đạo))
     (Trách nhiệm chính)
@@ -251,6 +259,10 @@ mindmap
 ## Văn hoá Doanh nhân trong Quản lý
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 graph LR
     A[Quản lý]
     subgraph B[" "]
@@ -294,6 +306,10 @@ graph LR
 ## Văn hoá Doanh nghiệp
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 graph LR
     A[Văn hóa Doanh nghiệp] -->|Giá trị|B
     A -->|Chuẩn mực|C
@@ -350,6 +366,10 @@ graph LR
 **Hiểu Thế nào cho Đúng về Văn hoá Doanh nghiệp**
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Văn hóa<br/>Doanh nghiệp))
     (Hệ thống giá trị<br/>chặt chẽ)
@@ -375,6 +395,10 @@ mindmap
 **Cấu trúc của Hệ thống Văn hoá Kinh doanh**
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Văn hóa<br/>Doanh nghiệp))
     (Hiện diện<br/>bên ngoài)
@@ -397,6 +421,10 @@ mindmap
 ## Văn hoá Kinh doanh
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 graph LR
     A[Văn hóa<br/>kinh doanh] -->|Hệ thống|B
     A -->|Qua ứng xử với|C
@@ -445,6 +473,10 @@ graph LR
 ![Picture.png](/img/user/Studies/University/Year%201/T2/EM1180%20-%20Business%20Culture%20and%20Entrepreneurship/Project/_resources/Picture.png)
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 graph LR
     A(Văn hóa<br/>Doanh nhân)
     B(Văn hóa<br/>Doanh nghiệp)
@@ -486,6 +518,10 @@ graph LR
 ## Khái niệm Đạo đức
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Đạo đức))
     (Chức năng)
@@ -525,6 +561,10 @@ mindmap
 ## Lịch sử Đạo đức Kinh doanh
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 timeline
     section Cổ đại
 	    4000BC : Xuất hiện
@@ -556,6 +596,10 @@ timeline
 ## Khái niệm Đạo đức Kinh doanh
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
 root((Đạo đức<br/>Kinh doanh))
 	(Tập hợp)
@@ -586,6 +630,10 @@ root((Đạo đức<br/>Kinh doanh))
 ## Vai trò của Đạo đức Kinh doanh
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Đạo đức Kinh doanh))
     (Điều chỉnh hành vi)
@@ -625,6 +673,10 @@ mindmap
 ## Nguyên tắc và Chuẩn mực Đạo đức Kinh doanh
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Nguyên tắc và Chuẩn mực))
     (Trung thực)
@@ -659,6 +711,10 @@ mindmap
 ## Cách Áp dụng Đạo đức trong Kinh doanh
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Áp dụng Đạo đức))
     (Xây dựng văn hóa)
@@ -735,6 +791,10 @@ mindmap
 ## Mặt Tích cực Đạo đức Kinh doanh
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
     root((Đạo đức Kinh doanh 2024))
         (Môi trường bền vững)
@@ -776,6 +836,10 @@ mindmap
 ## Những Vấn đề còn Tồn tại
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Vấn đề còn Tồn tại))
     (Thiếu lòng tin)
@@ -858,6 +922,10 @@ mindmap
 ## Sản phẩm
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
 	root((Google Services))
 		(Quảng cáo)
@@ -915,6 +983,10 @@ mindmap
 ## Tầm nhìn
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 graph LR
   A(Tầm nhìn) --> B(Mục tiêu lâu dài)
   A --> C(Định hướng chiến lược)
@@ -944,6 +1016,10 @@ graph LR
 ## Sứ mệnh
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 graph LR
   A(Sứ mệnh) --> B(Cung cấp thông tin)
   A --> C(Giúp truy cập dễ dàng)
@@ -989,6 +1065,10 @@ graph LR
 ## Giá trị cốt lõi
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 graph LR
     A(Google) --> B(Đổi mới)
     A --> C(Bền vững)
@@ -1011,6 +1091,10 @@ graph LR
 ## Bài học
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Bài học từ Google))
     (Đạo đức)
@@ -1075,6 +1159,10 @@ mindmap
 
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Cam kết phát triển bền vững qua))
     (Dùng năng lượng xanh)
@@ -1100,6 +1188,10 @@ mindmap
 ## Trách nhiệm Đạo đức Công nghệ
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
   root((Google - Công nghệ có trách nhiệm))
     (AI có đạo đức)
@@ -1126,6 +1218,10 @@ mindmap
 ## Trách nhiệm Bình đẳng và Phát triển Bền vững
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
 	root((Bình đẳng và Phát triển Bền vững))
 		(Bình đẳng giới)
@@ -1158,6 +1254,10 @@ mindmap
 ## Trách nhiệm với Cộng đồng và Từ thiện
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 mindmap
 	root((Trách nhiệm với Cộng đồng và Từ thiện))
 		(Tài trợ, Hỗ trợ)
@@ -1183,6 +1283,10 @@ mindmap
 ## Kết luận
 
 ```mermaid
+---
+config:
+theme: neo-dark
+---
 graph LR
 	A(Google) --> B --> C --> D
 	
@@ -1205,7 +1309,7 @@ graph LR
 
 ---
 
-# # Phân tích Đạo đức và Trách nhiệm Xã hội
+# Phân tích Đạo đức và Trách nhiệm Xã hội
 
 ---
 
