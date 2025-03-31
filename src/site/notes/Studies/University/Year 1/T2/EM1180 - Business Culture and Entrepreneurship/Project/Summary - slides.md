@@ -806,3 +806,233 @@ mindmap
 	      (Phá hoại môi trường để giảm chi phí)
 		      (Formosa Hà Tĩnh)
 ```
+---
+
+# Giới thiệu về Doanh nghiệp Google
+
+---
+
+> [!comment|c-gray]
+> Google là một công ty công nghệ hàng đầu, thành lập vào 1998 bởi Larry Page và Sergey Brin. Công ty bắt đầu với công cụ tìm kiếm, sau đó mở rộng sang nhiều lĩnh vực khác. Google được coi là một "Gã khổng lồ" trong lĩnh vực công nghệ. Google với tuyên bố sứ mệnh là "Tổ chức thông tin của thế giới" đã và đang trở nên ngày càng phát triển.
+
+## Giới thiệu
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://logosmarcas.net/wp-content/uploads/2020/09/Google-Emblema.png)
+> > Google
+> 
+> > [!caption]
+> > ![h-s](https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/05/31/104501593-GettyImages-541460159.1910x1000.jpg)
+> > Larry Page và Sergey Brin
+> 
+> > [!caption]
+> > ![h-s](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/AAAMM_Big_Tech.svg/1024px-AAAMM_Big_Tech.svg.png)
+> > Big Tech
+
+---
+
+> [!comment|c-gray]
+> Google hiện là một phần của tập đoàn Alphabet, được thành lập năm 2015. Đây là tập đoàn công nghệ đa quốc gia của Mỹ, hoạt động trong công nghệ thông tin và quảng cáo trực tuyến.
+> Slogan ban đầu của Google, "Don't be evil" (Đừng trở nên xấu xa), nhấn mạnh việc kiếm tiền chính trực, không đánh đổi đạo đức. Đây là giá trị cốt lõi của Google từ khi thành lập.
+> Đến tháng 10/2015, Alphabet thay đổi khẩu hiệu thành "Do the right thing" (Làm điều đúng đắn), yêu cầu nhân viên tuân thủ pháp luật, hành động trung thực và tôn trọng lẫn nhau.
+
+## Giới thiệu
+
+> [!columns blank|2]
+> 
+> > [!caption]
+> > ![h-s](https://static.wikia.nocookie.net/logopedia/images/7/7a/Alphabet_Inc_Logo_2015.svg/revision/latest/scale-to-width-down/300?cb=20201125114423)
+> > Alphabet
+> 
+> > [!caption]
+> > ![h-s](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc23b1c08-9437-417e-ae1d-3ce39b9545f2_1200x815.jpeg)
+> > "Don't be evil"
+
+---
+
+> [!comment|c-gray]
+> Hiện nay Google đã phát triển rất nhiều dịch vụ và công cụ cho công đồng chung cũng như trong lĩnh vực kinh doanh. Những sản phẩm dịch vụ mang thương hiệu Google ở từng lĩnh vực như quảng cáo, tìm kiếm, học tập, công việc, phần cứng, phần mềm, giải trí, và nhiều nữa.
+
+## Sản phẩm
+
+```mermaid
+mindmap
+	root((Google Services))
+		(Quảng cáo)
+			(Google Analytics)
+			(Google AdSense)
+		(Thông tin)
+			(Google Search)
+				(Google Images)
+				(Google Scholar)
+			(Google Maps)
+			(Google News)
+			(Google Alerts)
+			(Family Link)
+		(Học tập & Công việc)
+			(Gmail)
+				(Google Drive)
+				(Google Photos)
+			(Google Translate)
+			(Google Classroom)
+			("Google Workspace (G Suite)")
+			(Google Developers)
+		(Phần mềm)
+			(Google Chrome)
+			(Android)
+			(Google Playstore)
+			(Google Assistant)
+			(ChromeOS/ChromiumOS)
+		(AI)
+			(Gemini)
+			(AutoDraw)
+			(Deep Dream)
+		(Phần cứng)
+			(Google Pixel)
+			(Google Nest)
+			(Fitbit)
+		(Giải trí)
+			(YouTube)
+				(YouTube Music)
+			(Google Arts & Culture)
+		(Dịch vụ khác)
+			(Google Wallet)
+			(Google Express)
+			(Google Labs)
+```
+
+---
+
+> [!comment|c-gray]
+> Tầm nhìn là hình ảnh lý tưởng trong tương lai, thể hiện mục tiêu lâu dài, định hướng chiến lược, hành động. Google hướng tới việc đưa thông tin đến mọi người nhanh chóng, thuận tiện:
+> 
+> *To provide access to the world’s information in one click.*
+> *(Cung cấp quyền truy cập vào thông tin thế giới chỉ bằng một cú nhấp chuột.)*
+
+## Tầm nhìn
+
+```mermaid
+graph LR
+  A(Tầm nhìn) --> B(Mục tiêu lâu dài)
+  A --> C(Định hướng chiến lược)
+  A --> D(Hành động)
+```
+
+> [!caption|p+r]
+> ![h-s](https://imagepng.org/wp-content/uploads/2019/08/google-icon.png)
+
+> [!quote] Google
+> To provide access to the world’s information in one click.
+> 
+> Cung cấp quyền truy cập vào thông tin thế giới chỉ bằng một cú nhấp chuột.
+
+---
+
+> [!comment|c-gray]
+> Sứ mệnh của Google trong thời đại 4.0:
+> - Cung cấp thông tin đáng tin cậy, hữu ích.
+> - Giúp truy cập thông tin dễ dàng trên toàn cầu.
+> - Tối ưu hóa tìm kiếm, mang lại kết quả nhanh và chính xác.
+> - Cam kết bảo vệ quyền riêng tư người dùng.
+> 
+> *To organize the world’s information and make it universally accessible and useful.*
+> *(Sắp xếp thông tin của thế giới và làm cho thông tin đó có thể truy cập và hữu ích trên toàn thế giới.*
+
+## Sứ mệnh
+
+```mermaid
+graph LR
+  A(Sứ mệnh) --> B(Cung cấp thông tin)
+  A --> C(Giúp truy cập dễ dàng)
+  A --> D(Tối ưu hóa tìm kiếm)
+  A --> E(Kết quả nhanh và chính xác)
+  A --> F(Bảo vệ quyền riêng tư)
+```
+
+
+> [!caption|p+r]
+> ![h-s](https://imagepng.org/wp-content/uploads/2019/08/google-icon.png)
+
+> [!quote] Google
+> To organize the world’s information and make it universally accessible and useful.
+> 
+> Sắp xếp thông tin của thế giới và làm cho thông tin đó có thể truy cập và hữu ích trên toàn thế giới.
+
+---
+
+> [!comment|c-gray]
+> Qua quá trình xây dựng và phát triển công ty, Google đã đúc kết được nhiều trải nghiệm. Họ tuyên bố giá trị cốt lõi mà công ty hướng đến được gọi chung là "Mười điều đúng đắn mà chúng tôi tin tưởng" (Ten things we know to be true), như trên slide:
+
+## Giá trị cốt lõi
+
+|                                                         |                                                     |
+| ------------------------------------------------------- | --------------------------------------------------- |
+| *Tập trung vào người dùng, và những thứ khác sẽ theo sau* | *Focus on the user and all else will follow*          |
+| *Tốt nhất là làm một việc thật là tốt*                    | *It’s best to do one thing really, really well*       |
+| *Nhanh tốt hơn chậm*                                      | *Fast is better than slow*                            |
+| *Dân chủ trên mạng có hiệu quả*                           | *Democracy on the web works*                          |
+| *Bạn không cần ngồi vào bàn để tìm ra giải pháp*          | *You don’t need to be at your desk to need an answer* |
+| *Bạn có thể kiếm tiền mà không làm việc xấu*              | *You can make money without doing evil*               |
+| *Luôn luôn có nhiều thông tin hơn ở ngoài kia*            | *There’s always more information out there*           |
+| *Nhu cầu thông tin vượt mọi biên giới*                    | *The need for information crosses all borders*        |
+| *Bạn có thể nghiêm túc mà không cần mặc vest*             | *You can be serious without a suit*                   |
+| *Chỉ tốt thôi là chưa đủ*                                 | *Great just isn't good enough*                        |
+
+---
+
+> [!comment|c-gray]
+> Google không chỉ là công ty công nghệ hàng đầu, mà còn là biểu tượng của đổi mới và bền vững trong kỷ nguyên số. Với sứ mệnh sắp xếp, tối ưu hóa thông tin và tầm nhìn giúp mọi người tiếp cận tri thức dễ dàng, Google định hình cách con người tìm kiếm và sử dụng thông tin. Tập trung vào người dùng, tốc độ, đổi mới, và đạo đức, Google không ngừng mở rộng ảnh hưởng, nâng cao trải nghiệm công nghệ và tạo ra giá trị cho xã hội.
+
+## Giá trị cốt lõi
+
+```mermaid
+graph LR
+    A(Google) --> B(Đổi mới)
+    A --> C(Bền vững)
+    A --> D(Tối ưu hóa thông tin)
+    A --> E(Tầm nhìn)
+    B --> F(Người dùng)
+    B --> G(Tốc độ)
+    B --> H(Đạo đức)
+    C --> I(Tạo giá trị)
+    C --> J(Nâng cao trải nghiệm)
+```
+
+---
+
+> [!comment|c-gray]
+> ĐĐKD là yếu tố quan trọng cho sự phát triển bền vững của doanh nghiệp, với Google là một ví dụ điển hình. Google đã xác định sứ mệnh rõ ràng từ đầu và luôn đặt người dùng lên hàng đầu. Công ty tuân thủ pháp luật và chuẩn mực đạo đức, chứng minh rằng sự phát triển không đi ngược lại với trách nhiệm xã hội.
+> 
+> Các slogan thể hiện rằng doanh nghiệp có thể thành công mà không đánh đổi đạo đức. Google dạy chúng ta rằng thành công bền vững gắn liền với trách nhiệm xã hội và việc tạo ra giá trị tích cực cho cộng đồng. Cuối cùng, Google là biểu tượng của sự đổi mới, luôn đề cao sáng tạo và sự khác biệt, khẳng định rằng đam mê và tôn trọng đạo đức là công thức chinh phục thế giới.
+
+## Bài học
+
+```mermaid
+mindmap
+  root((Bài học từ Google))
+    (Đạo đức)
+      (Sứ mệnh rõ ràng)
+        (Đặt người dùng lên hàng đầu)
+        (Tôn trọng luật pháp)
+      (Trách nhiệm xã hội)
+        (Đóng góp cho cộng đồng)
+        (Bảo vệ môi trường)
+    (Đổi mới)
+      (Sáng tạo)
+        (Công nghệ tiên tiến)
+        (Sản phẩm mới)
+      (Khác biệt)
+        (Xây dựng thương hiệu)
+        (Tạo ra giá trị độc đáo)
+    (Khách hàng)
+      (Đặt người dùng lên hàng đầu)
+        (Trải nghiệm người dùng tốt)
+        (Phản hồi và cải tiến)
+      (Tạo giá trị tích cực cho cộng đồng)
+        (Chương trình cộng đồng)
+        (Hỗ trợ giáo dục và phát triển)
+```
+
+---
