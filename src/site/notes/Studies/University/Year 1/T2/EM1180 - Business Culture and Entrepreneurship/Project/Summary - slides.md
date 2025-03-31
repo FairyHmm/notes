@@ -1205,3 +1205,184 @@ graph LR
 
 ---
 
+# # Phân tích Đạo đức và Trách nhiệm Xã hội
+
+---
+
+> [!comment|c-gray]
+> Là một trong những công ty công nghệ hàng đầu, Google không chỉ nổi bật với sản phẩm, dịch vụ mà còn là chủ đề tranh luận về đạo đức doanh nghiệp.
+
+> [!columns blank|2]
+> 
+> > [!caption]
+> > ![h-s](https://www.commondreams.org/sites/default/files/headlines/google-logo-devil.jpg)
+
+---
+
+> [!comment|c-gray]
+> Từ lúc khởi đầu, Google đã tập trung vào việc làm mọi thứ đơn giản và dễ tiếp cận nhất có thể.
+
+## Tích cực - Hỗ trợ Tiếp cận và Đặt Khách hàng lên Trước
+> [!caption|p+r]
+> ![h-s](https://zeve.au/sitecentre/uploads/2021/07/google-founders-with-google-logo.jpg)
+
+> [!quote] Larry Page
+> Basically, our goal is to organize the world's information and to make it universally accessible and useful.
+
+---
+
+> [!comment|c-gray]
+> Khi Google ra đời, AltaVista là công cụ tìm kiếm phổ biến nhất. Giao diện rắc rối và phức tạp của AltaVista khiến người dùng dần chuyển sang Google.
+> Google còn đặt đạo đức lên hàng đầu, cam kết minh bạch, công bằng trong cách hiển thị thông tin, đảm bảo kết quả khách quan. Điều này giúp Google trở thành công cụ tìm kiếm hàng đầu.
+
+## Tích cực - Hỗ trợ Tiếp cận và Đặt Khách hàng lên Trước
+
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> >![h-s](https://snoo.habedieeh.re/img/juqacyknby2d1.jpeg)
+> > Quảng cáo của Google
+> 
+> > [!caption]
+> > ![h-s](https://snoo.habedieeh.re/img/0h12kp93j1hd1.png)
+> > Trang chủ AltaVista
+> 
+> > [!caption]
+> > ![h-s](https://www.versionmuseum.com/images/websites/google-search/google-search%5E1999%5Esearch-homepage.png)
+> > Trang chủ Google
+
+---
+
+> [!comment|c-gray]
+> Gmail là một trong những dịch vụ email phổ biến nhất. Ra mắt vào năm 2004, nó đã cung cấp 1GB dung lượng miễn phí, vượt trội so với mức 2MB~4MB của các dịch vụ khác thời điểm đó. Sự khác biệt này đã giúp Gmail trở thành công cụ hữu ích cho việc lưu trữ dữ liệu mà không tốn phí.
+> Google đã ưu tiên khả năng sử dụng và tiếp cận hơn là lợi nhuận, thể hiện qua việc cung cấp dịch vụ miễn phí với chất lượng cao và liên tục cải tiến trải nghiệm người dùng mà không tạo ra rào cản.
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://www.webdesignmuseum.org/uploaded/fullscreen/gmail-2004.png)
+> > Gmail 2004
+> 
+> > [!caption]
+> > ![h-s](https://imgix.bustle.com/rehost/2016/9/13/991f15f7-b956-4edd-a947-f92cbf9fca55.png?w=614&h=339&fit=crop&crop=faces)
+> > Gmail 2004
+> 
+> > [!caption]
+> > ![h-s](https://www.webdesignmuseum.org/uploaded/apps-screens/iphone/2011/gmail-2011-02.jpg)
+> > Gmail 2011
+
+---
+
+> [!comment|c-gray]
+> Google hoặc Alphabet thường được xếp hạng cao trong danh sách các công ty tốt nhất để làm việc của Fortune. Công ty không chỉ cung cấp đãi ngộ tốt mà còn thể hiện cam kết đạo đức doanh nghiệp qua Bộ Quy tắc Ứng xử, nhấn mạnh tiêu chuẩn đạo đức cao cho nhân viên.
+> Google giới hạn thời gian làm việc mỗi tuần để tránh áp lực quá mức, khác với nhiều công ty khác có văn hóa làm việc khắc nghiệt (như văn hoá "996"). Điều này giúp công ty thu hút và giữ chân tài năng, đồng thời tạo ra một nền văn hóa bền vững, nơi lợi ích của nhân viên được đặt ngang hàng với sự phát triển của doanh nghiệp.
+
+## Tích cực - Đối xử với Nhân viên
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![Pasted image 20250331205852.png|h-s](/img/user/Studies/University/Year%201/T2/EM1180%20-%20Business%20Culture%20and%20Entrepreneurship/Project/_resources/Pasted%20image%2020250331205852.png)
+> > Fortune's best companies - 2017
+> 
+> > [!caption]
+> > ![h-s](https://searchengineland.com/wp-content/seloads/2014/12/Google-doodle-winter-olympics-2014.jpg)
+> > Doodle cho Olympic mùa đông 2014
+> 
+> > [!caption]
+> > ![h-s](https://afrinik.com/wp-content/uploads/2022/07/996-Debate.webp)
+> > Văn hoá "996"
+
+---
+
+> [!comment|c-gray]
+> Google khuyến khích sáng tạo không chỉ trong nội bộ mà còn thông qua việc hỗ trợ các dự án của học sinh, sinh viên toàn cầu. Một số chương trình tiêu biểu là Google Summer of Code và Google Science Fair.
+> Tại HUST, Google hỗ trợ GDG-HUST bằng nhiều chương trình và tài nguyên, giúp sinh viên phát triển kỹ năng công nghệ và kết nối với cộng đồng lập trình toàn cầu. GDG-HUST nhận được tài trợ về công nghệ và nội dung đào tạo từ Google.
+
+## Tích cực - Củng cố Sáng tạo
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://gamefromscratch.com/wp-content/uploads/2021/03/GoogleSummerOfCode2021.jpg)
+> > GSoC
+> 
+> > [!caption]
+> > ![h-s](https://static.digit.in/default/5a69a051528aa864a9179f2e85b4d9670911b51d.jpeg)
+> > GSF
+> 
+> > [!caption]
+> > ![h-s](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D525502846778524&f=1&nofb=1&ipt=655c914ed236a0f20936bf8145ef60a214e3168f7c4db37770e8155c095c2b41&ipo=images)
+> > GDGoC
+
+---
+
+> [!comment|c-gray]
+> Google là một trong những công ty cung cấp dịch vụ đa dạng nhất, nhưng cũng là một trong những công ty quảng cáo và huấn luyện AI hàng đầu. Điều này dẫn đến nhiều lo ngại về đạo đức trong việc thu thập và sử dụng dữ liệu người dùng từ các dịch vụ. Mặc dù Google cam kết minh bạch về quyền riêng tư và cung cấp công cụ để người dùng kiểm soát dữ liệu, nhiều người vẫn lo ngại về mức độ kiểm soát thực sự và việc sử dụng dữ liệu trong các hệ thống AI. Công ty cũng thường xuyên bị phạt theo quy định GDPR về bảo vệ thông tin cá nhân. Có phong trào De-Google nhằm giảm sử dụng sản phẩm của họ để bảo vệ quyền riêng tư.
+
+## ## Tiêu cực - Thông tin Người dùng
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://techstory.in/wp-content/uploads/2021/02/google_magnifyingglass-768x576.jpg)
+> > Theo dõi và thu thập thông tin
+> 
+> > [!caption]
+> > ![h-s](https://cdn.neowin.com/news/images/uploaded/2024/05/1715805881_google_gemini_hero_image_story.jpg)
+> > AI - Đào tạo không chuẩn mực?
+>
+> > [!caption]
+> > ![h-s](https://rboa.com/wp-content/uploads/2018/05/gdpr.jpg)
+> > DFPR
+
+---
+
+> [!comment|c-gray]
+> Google thống trị rất nhiều thị trường, gây ra lo ngại về độc quyền và đạo đức kinh doanh. Với 90% thị phần tìm kiếm toàn cầu, Google ảnh hưởng lớn đến cách thông tin được tiếp cận. Công ty kiểm soát doanh thu quảng cáo đáng kể, làm khó khăn cho đối thủ nhỏ hơn và bị nghi ngờ về việc làm chậm dịch vụ trên trình duyệt khác.
+> Nhiều cơ quan đã điều tra và kiện Google vì hành vi chống cạnh tranh, như vụ kiện của Bộ Tư pháp Mỹ. Mặc dù Google cho rằng thành công của họ đến từ chất lượng dịch vụ, việc kiểm soát quá lớn có thể hạn chế cạnh tranh và đổi mới, đặt ra câu hỏi về trách nhiệm đạo đức trong việc tạo ra môi trường công bằng.
+
+## Tiêu cực - Độc quyền Thị trường
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.applicoinc.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fgoogle-monopoly.jpg&f=1&nofb=1&ipt=3df7a452aca9937599d655394f4772168ff7542e908dad3e85d8b7db9572abb8&ipo=images)
+> > Monopoly
+> 
+> > [!caption]
+> > ![Pasted image 20250331212740.png|h-s](/img/user/Studies/University/Year%201/T2/EM1180%20-%20Business%20Culture%20and%20Entrepreneurship/Project/_resources/Pasted%20image%2020250331212740.png)
+> > Trình duyệt được dùng trong khoảng 10 năm
+> 
+> > [!caption]
+> > ![h-s](https://themaineanchor.news/wp-content/uploads/2024/09/11404-66df93035b83e.jpg)
+> > Ra toà
+
+---
+
+> [!comment|c-gray]
+> Một vấn đề gây tranh cãi về là cách công ty kiểm soát thông tin trên nền tảng. Với vị thế thống trị trong tìm kiếm, Google có thể quyết định thông tin nào dễ tiếp cận hơn, ảnh hưởng đến nhận thức của người dùng. Nhiều cáo buộc cho rằng Google ưu tiên các nguồn tin có lợi cho mình và kiểm duyệt nội dung trên YouTube, dẫn đến lo ngại về trách nhiệm đạo đức trong việc duy trì một nền tảng thông tin công bằng.
+
+## Tiêu cực - Che đậy Thông tin
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://wikispooks.com/w/images/thumb/2/2e/Google_censorship_search_suggestions_2022.jpg/500px-Google_censorship_search_suggestions_2022.jpg)
+> > Kết quả tìm kiếm
+> 
+> > [!caption]
+> > ![h-s](https://www.studentnewsdaily.com/wp-content/uploads/2018/10/youtube-video-has-been-removed-820x463.png)
+> > Kênh YouTube bị loại bỏ
+> 
+> > [!caption]
+> > ![h-s](https://www.xenu.net/google_censorship01.png)
+> > Đạo luật bản quyền thiên niên kỷ kỹ thuật số
+
+---
+
+# Lời kết
+
+---
+
