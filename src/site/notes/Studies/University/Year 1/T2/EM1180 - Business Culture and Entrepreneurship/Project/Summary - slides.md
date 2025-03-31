@@ -871,7 +871,7 @@ mindmap
 			(Google News)
 			(Google Alerts)
 			(Family Link)
-		(Học tập & Công việc)
+		(Học tập, Công việc)
 			(Gmail)
 				(Google Drive)
 				(Google Photos)
@@ -891,6 +891,7 @@ mindmap
 			(Deep Dream)
 		(Phần cứng)
 			(Google Pixel)
+			(Chromebook)
 			(Google Nest)
 			(Fitbit)
 		(Giải trí)
@@ -1036,3 +1037,171 @@ mindmap
 ```
 
 ---
+
+# Trách nhiệm Xã hội của Google
+
+---
+
+> [!comment|c-gray]
+> Google không chỉ tập trung vào đổi mới và lợi nhuận mà còn cam kết phát triển bền vững thông qua các chương trình trách nhiệm xã hội. Công ty chú trọng vào môi trường, công nghệ có đạo đức, bình đẳng xã hội và hỗ trợ cộng đồng, được thể hiện qua các báo cáo như Google Sustainability Report, AI Principles, và hoạt động từ thiện của Google.org
+
+## Trách nhiệm Xã hội
+
+> [!columns blank|3]
+> 
+> > [!caption]
+> > ![h-s](https://s3.amazonaws.com/images.seroundtable.com/google-sustainability-1633517069.jpg)
+> > Sư bền vững
+> 
+> > [!caption]
+> > ![h-s](https://cdn.abcotvs.com/dip/images/5712445_112119-kgo-yt-google-donate-img_Image_16-17-56,28.jpg?w=1600)
+> > Từ thiện
+> 
+> > [!caption]
+> > ![h-s](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images_archive/original_images/Gallery2837of3729.jpg)
+> > Khu vực sáng kiến
+
+---
+
+
+> [!comment|c-gray]
+> Google cam kết phát triển bền vững và giảm tác động tiêu cực đến môi trường thông qua:
+> - Sử dụng năng lượng xanh: Từ 2017, đạt được mục tiêu cho các trung tâm dữ liệu và văn phòng
+> - Giảm khí nhà kính: Đặt mục tiêu không phát thải các khí này vào 2030, sử dụng AI để tối ưu hóa tiêu thụ năng lượng
+> - Đầu tư công nghệ xanh: Hợp tác các công ty phát triển năng lượng sạch, tài trợ các dự án điện gió, điện mặt trời
+> - Giảm rác thải công nghệ: Các sản phẩm như Google Pixel và Chromebook được thiết kế từ vật liệu tái chế
+
+## Trách nhiệm Môi trường
+
+
+```mermaid
+mindmap
+  root((Cam kết phát triển bền vững qua))
+    (Dùng năng lượng xanh)
+      (Trung tâm dữ liệu, văn phòng đạttừ 2017)
+    (Giảm khí nhà kính)
+      (Không phát thải vào 2030)
+      (Tối ưu năng lượng bằng AI)
+    (Đầu tư công nghệ xanh)
+      (Hợp tác phát triển năng lượng sạch)
+      (Tài trợ điện gió & mặt trời)
+    (Giảm rác thải công nghệ)
+      (Google Pixel, Chromebook từ vật liệu tái chế)
+```
+
+---
+
+> [!comment|c-gray]
+> Là công ty công nghệ hàng đầu, Google cam kết phát triển công nghệ có trách nhiệm, đảm bảo sản phẩm và dịch vụ không gây hại cho xã hội:
+> - AI có đạo đức: Phát triển có trách nhiệm, không phục vụ giám sát hàng loạt, không vi phạm quyền con người.
+> - Bảo vệ quyền riêng tư: Cải tiến bảo mật, hạn chế thu thập dữ liệu cá nhân không cần thiết. Cung cấp công cụ giúp người dùng kiểm soát và xóa dữ liệu.
+> - Chống tin giả, nội dung xấu: Áp dụng thuật toán phát hiện thông tin sai lệch trên YouTube, Google Search. Hợp tác với tổ chức kiểm chứng thông tin để hạn chế tin giả.
+
+## Trách nhiệm Đạo đức Công nghệ
+
+```mermaid
+mindmap
+  root((Google - Công nghệ có trách nhiệm))
+    (AI có đạo đức)
+      (Phát triển có trách nhiệm)
+      (Không phục vụ giám sát hàng loạt)
+      (Không vi phạm quyền con người)
+    (Bảo vệ quyền riêng tư)
+      (Cải tiến bảo mật)
+      (Hạn chế thu thập dữ liệu không cần thiết)
+      (Cung cấp công cụ kiểm soát, xóa dữ liệu)
+    (Chống tin giả, nội dung xấu)
+      (Thuật toán phát hiện tin sai)
+      (Hợp tác với tổ chức kiểm chứng thông tin)
+```
+
+---
+
+> [!comment|c-gray]
+> Google hướng đến môi trường làm việc công bằng và hỗ trợ phát triển cộng đồng:
+> - Bình đẳng giới: Minh bạch lương, không chênh lệch giới tính. Hỗ trợ đào tạo công nghệ cho phụ nữ qua Women Techmakers.
+> - Hỗ trợ doanh nghiệp nhỏ & khởi nghiệp: Cung cấp công cụ quảng cáo miễn phí, hướng dẫn SEO, tài trợ tài nguyên Google Cloud.
+> - Đào tạo kỹ năng số: Grow with Google cung cấp khóa học lập trình, tiếp thị số, kỹ năng kinh doanh miễn phí.
+
+## Trách nhiệm Bình đẳng và Phát triển Bền vững
+
+```mermaid
+mindmap
+	root((Bình đẳng và Phát triển Bền vững))
+		(Bình đẳng giới)
+			(Minh bạch lương)
+			(Không chênh lệch giới tính)
+			(Hỗ trợ đào tạo qua Women Techmakers)
+		(Hỗ trợ doanh nghiệp nhỏ & khởi nghiệp)
+			(Quảng cáo miễn phí)
+			(Hướng dẫn SEO)
+			(Tài trợ tài nguyên Google Cloud)
+			(Hỗ trợ hạ tầng công nghệ)
+		(Đào tạo kỹ năng số)
+			(Grow with Google)
+				sub14(Khóa học miễn phí)
+				sub15(Tiếp cận hàng triệu người)
+			(Các lĩnh vực đào tạo)
+				sub17(Lập trình)
+				sub18(Tiếp thị số)
+				sub19(Kỹ năng kinh doanh)
+```
+
+---
+
+> [!comment|c-gray]
+> Google không chỉ tập trung vào lợi nhuận mà còn đóng góp cho cộng đồng:
+> - Tài trợ, hỗ trợ: Hơn 2 tỷ USD  giáo dục, y tế, chống đói nghèo. Cung cấp công cụ cho tổ chức nhân đạo.
+> - Ứng phó thiên tai: AI dự báo lũ lụt, cháy rừng. Google Crisis Map hỗ trợ cứu hộ.
+> - Tình nguyện: Nhân viên có 20h/năm làm tình nguyện có lương. Google nhân đôi số tiền quyên góp.
+
+## Trách nhiệm với Cộng đồng và Từ thiện
+
+```mermaid
+mindmap
+	root((Trách nhiệm với Cộng đồng và Từ thiện))
+		(Tài trợ, Hỗ trợ)
+			(Hơn 2 tỷ USD)
+				(Giáo dục)
+				(Y tế)
+				(Chống đói nghèo)
+			(Cung cấp công cụ cho tổ chức nhân đạo)
+		(Ứng phó thiên tai)
+			(Dự báo lũ lụt, cháy rừng)
+			(Hỗ trợ cứu hộ)
+		(Tình nguyện)
+			(Nhân viên làm tình nguyện có lương)
+			(Nhân đôi số tiền quyên góp)
+
+```
+
+- ---
+
+> [!comment|c-gray]
+> Google không chỉ tuân thủ đạo đức kinh doanh mà còn tiên phong trong việc xây dựng một doanh nghiệp có trách nhiệm với xã hội. Bằng cách giảm tác động môi trường, phát triển công nghệ có đạo đức, hỗ trợ bình đẳng và đóng góp cho cộng đồng, Google đang góp phần tạo ra một thế giới bền vững hơn.
+
+## Kết luận
+
+```mermaid
+graph LR
+	A(Google) --> B --> C --> D
+	
+	subgraph B[" "]
+		direction LR
+		B1(Tuân thủ<br>đạo đức kinh doanh)
+		B2(Xây doanh nghiệp<br>có trách nhiệm)
+	end
+	
+	subgraph C[" "]
+		direction LR
+		C1(Giảm tác động<br>môi trường)
+		C2(Phát triển<br>công nghệ có đạo đức)
+		C3(Hỗ trợ<br>bình đẳng)
+		C4(Đóng góp cho<br>cộng đồng)
+	end
+	
+	D(Tạo ra thế giới<br>bền vững hơn)
+```
+
+---
+
