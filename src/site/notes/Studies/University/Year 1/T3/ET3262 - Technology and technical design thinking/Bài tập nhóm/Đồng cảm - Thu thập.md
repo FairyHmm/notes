@@ -4,7 +4,7 @@
 
 **Tên:** Hồ Thị Quỳnh Lan, 52 tuổi
 
-| Hồ sơ / Lối sống                                              | Nét đặc trưng                                                  |
+| **Hồ sơ / Lối sống**                                          | **Nét đặc trưng**                                              |
 | ------------------------------------------------------------- | -------------------------------------------------------------- |
 | Giáo viên, độc thân<br>Tập thể dục<br>Nhà riêng ở Thái Nguyên | Yêu gia đình<br>Có kiến thức<br>Hiểu biết về chăm sóc sức khoẻ |
 | **Mục tiêu / Tham vọng**                                      | **Hành vi / Thói quen**                                        |
@@ -12,7 +12,7 @@
 | **Nỗi sợ / Thách thức**                                       | **Người ảnh hưởng & Hoạt động**                                |
 | Sợ rủi ro<br>Sợ tụt hậu trước chuyển biến công nghệ           | Bố giàu lòng nhân ái<br>Aerobic, yoga, đi bộ                   |
 
-| Câu hỏi                                                                                                                                                                                       | Câu trả lời                                                                                                                                      |
+| **Câu hỏi**                                                                                                                                                                                   | **Câu trả lời**                                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Bạn đã từng trải qua hoặc chứng kiến thảm họa hoặc thiên tai nào chưa? Nếu có, hãy mô tả trải nghiệm của bạn.                                                                                 | Đã trải qua cơn bão Yagi năm 2024, cây cối nghiêng ngả, đổ, bụi cuốn đầy trời, nhà đổ, ngập lụt, … Bản thân lo lắng về tính mạng và tài sản.     |
 | Bạn đã từng tham gia khoá học kỹ năng mềm liên quan đến giáo dục thảm họa và thiên tai, hay có kinh nghiệm trực tiếp trong các hoạt động ứng phó chưa? Nếu có, hãy mô tả trải nghiệm của bạn. | Chưa tham gia khoá học.                                                                                                                          |
@@ -25,7 +25,7 @@
 
 **Tên:** Đỗ Thu Quỳnh, 21 tuổi
 
-| Hồ sơ / Lối sống                                                  | Nét đặc trưng                                             |
+| **Hồ sơ / Lối sống**                                              | **Nét đặc trưng**                                         |
 | ----------------------------------------------------------------- | --------------------------------------------------------- |
 | Sinh viên năm 3 ở Hà Nội<br>Đọc sách, nghe nhạc                   | Năng động<br>Thích học hỏi<br>Yêu động vật                |
 | **Mục tiêu / Tham vọng**                                          | **Hành vi / Thói quen**                                   |
@@ -33,7 +33,7 @@
 | **Nỗi sợ / Thách thức**                                           | **Người ảnh hưởng & Hoạt động**                           |
 | Không đạt được mục tiêu nghề nghiệp<br>Quản lí sức khoẻ tinh thần | Các influencer trên mạng<br>Thiết kế trong thời gian rảnh |
 
-| Câu hỏi                                                                                                                                                                                       | Câu trả lời                                                                                                                                                |
+| **Câu hỏi**                                                                                                                                                                                   | **Câu trả lời**                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Bạn đã từng trải qua hoặc chứng kiến thảm họa hoặc thiên tai nào chưa? Nếu có, hãy mô tả trải nghiệm của bạn.                                                                                 | Năm vừa rồi, mình trải qua cơn bão Yagi. Có những cái cây đổ ngay trước phòng mình. Đường ngập lụt lên tận đầu gối cũng làm mình sợ không thể đi được đâu. |
 | Bạn đã từng tham gia khoá học kỹ năng mềm liên quan đến giáo dục thảm họa và thiên tai, hay có kinh nghiệm trực tiếp trong các hoạt động ứng phó chưa? Nếu có, hãy mô tả trải nghiệm của bạn. | Mình ở trong câu lạc bộ tình nguyện, nhưng chưa đi giải cứu trực tiếp.                                                                                     |
